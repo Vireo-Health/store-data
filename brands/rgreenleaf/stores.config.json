@@ -3,7 +3,11 @@
     "webflowSiteId": "695d3c4edd868217563a628d",
     "storesCollectionId": "695d3c4edd868217563a6325",
     "hoursFieldSlug": "store-hours",
-    "placeIdFieldSlug": "google-place-id"
+    "placeIdFieldSlug": "google-place-id",
+    "org": {
+      "name": "R.Greenleaf",
+      "url": "https://rgreenleaf.com"
+    }
   },
   "stores": [
     {

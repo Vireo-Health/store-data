@@ -136,7 +136,7 @@ async function main() {
   }
 
   const generatedAt = new Date().toISOString();
-  const artifacts = generate(resolved, generatedAt);
+  const artifacts = generate(resolved, generatedAt, config.site.org);
 
   // ---- report -------------------------------------------------------------
   const lines = [];
