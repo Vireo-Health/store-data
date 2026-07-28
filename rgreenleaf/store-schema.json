@@ -1,0 +1,516 @@
+{
+  "dispensary-carlsbad": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Carlsbad",
+    "url": "https://rgreenleaf.com/stores/dispensary-carlsbad/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "800 W Pierce St",
+      "addressLocality": "Carlsbad",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(575) 305-7944",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.4207,
+      "longitude": -104.2392
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-clovis": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Clovis",
+    "url": "https://rgreenleaf.com/stores/dispensary-clovis/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2009 Ross St",
+      "addressLocality": "Clovis",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(575) 305-9223",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.4048,
+      "longitude": -103.2052
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-albuquerque-cottonwood": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Cottonwood",
+    "url": "https://rgreenleaf.com/stores/dispensary-albuquerque-cottonwood/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10250 Cottonwood Park NW",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1989,
+      "longitude": -106.6267
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "dispensary-grants": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Grants",
+    "url": "https://rgreenleaf.com/stores/dispensary-grants/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "899 Roosevelt Ave",
+      "addressLocality": "Grants",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 287-5383",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1475,
+      "longitude": -107.8514
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "dispensary-hobbs": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Hobbs",
+    "url": "https://rgreenleaf.com/stores/dispensary-hobbs/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1901 Joe Harvey Blvd",
+      "addressLocality": "Hobbs",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 217-9103",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7126,
+      "longitude": -103.136
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-las-cruces": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Las Cruces",
+    "url": "https://rgreenleaf.com/stores/dispensary-las-cruces/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "775 S Telshor Blvd",
+      "addressLocality": "Las Cruces",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(575) 366-9072",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.3199,
+      "longitude": -106.7637
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-las-vegas-nm": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Las Vegas",
+    "url": "https://rgreenleaf.com/stores/dispensary-las-vegas-nm/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "615 E Lincoln St",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.5942,
+      "longitude": -105.2119
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "12:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-albuquerque-midtown": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Midtown",
+    "url": "https://rgreenleaf.com/stores/dispensary-albuquerque-midtown/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4414 Menaul Blvd NE Suite 1",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.107,
+      "longitude": -106.585
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "dispensary-albuquerque-northeast-heights": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Northeast Heights",
+    "url": "https://rgreenleaf.com/stores/dispensary-albuquerque-northeast-heights/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9821 Montgomery Blvd NE Suite C & D",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 217-9101",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1281,
+      "longitude": -106.5194
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "dispensary-roswell": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Roswell",
+    "url": "https://rgreenleaf.com/stores/dispensary-roswell/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4311 N Main St Suite B",
+      "addressLocality": "Roswell",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 522-2122",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.4373,
+      "longitude": -104.523
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "10:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "17:00"
+      }
+    ]
+  },
+  "dispensary-santa-fe": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Santa Fe",
+    "url": "https://rgreenleaf.com/stores/dispensary-santa-fe/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "403 W Cordova Rd",
+      "addressLocality": "Santa Fe",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.6619,
+      "longitude": -105.9613
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "dispensary-albuquerque-west-side": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Westside",
+    "url": "https://rgreenleaf.com/stores/dispensary-albuquerque-west-side/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5201 Ouray Rd NW Suite C",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 200-9060",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1345,
+      "longitude": -106.7095
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "dispensary-albuquerque-yale": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "R.Greenleaf Yale",
+    "url": "https://rgreenleaf.com/stores/dispensary-albuquerque-yale/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "110 Yale Blvd SE",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 522-3613",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.0785,
+      "longitude": -106.6214
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  }
+}

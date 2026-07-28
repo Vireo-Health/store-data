@@ -1,0 +1,447 @@
+{
+  "site": {
+    "webflowSiteId": "695d3c4edd868217563a628d",
+    "storesCollectionId": "695d3c4edd868217563a6325",
+    "hoursFieldSlug": "store-hours",
+    "placeIdFieldSlug": "google-place-id"
+  },
+  "stores": [
+    {
+      "slug": "weed-delivery-albuquerque",
+      "name": "Albuquerque Delivery",
+      "webflowItemId": "695dc7f14a78742442f268e2",
+      "syncFromGoogle": false,
+      "syncFromGoogleReason": "Delivery service, not a storefront. It shares 9821 Montgomery Blvd NE with Northeast Heights, so a Places search resolves to that store's listing. Its hours are a delivery window and are maintained by hand in the CMS.",
+      "placeId": null,
+      "googleBusinessLink": null,
+      "googleSearchQuery": "R.Greenleaf Albuquerque Delivery 9821 Montgomery Blvd NESuite C and DAlbuquerque, New Mexico 87111",
+      "timezone": "America/Denver",
+      "shopId": null,
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": null,
+      "phone": "505-217-9101",
+      "lat": 35.1261,
+      "lng": -106.5248,
+      "showInStoreFinder": false,
+      "showInMap": false,
+      "variants": []
+    },
+    {
+      "slug": "dispensary-carlsbad",
+      "name": "Carlsbad",
+      "webflowItemId": "695dc7f10aaf7e4f61832c1b",
+      "placeId": "ChIJATMZaq1544YRbb-P3VT4M1M",
+      "googleBusinessLink": "https://share.google/06MEcdHxP1VeO35qW",
+      "googleSearchQuery": "R.Greenleaf Carlsbad 800 W Pierce St Carlsbad, New Mexico 88220",
+      "timezone": "America/Denver",
+      "shopId": "carlsbad",
+      "city": "Carlsbad",
+      "state": "NM",
+      "address": "800 W Pierce St",
+      "phone": "(575) 305-7944",
+      "lat": 32.4207,
+      "lng": -104.2392,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 11,
+          "type": "rec",
+          "storeId": "carlsbad-rec",
+          "storeUrl": "/stores/dispensary-carlsbad/"
+        },
+        {
+          "id": 12,
+          "type": "med",
+          "storeId": "carlsbad-med",
+          "storeUrl": "/stores/medical-dispensary-carlsbad/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-clovis",
+      "name": "Clovis",
+      "webflowItemId": "695dc7f107996bd4425b184d",
+      "placeId": "ChIJe2ORMj3fAocRiwWUJzc8CNA",
+      "googleBusinessLink": null,
+      "googleSearchQuery": "R.Greenleaf Clovis 2009 Ross St Clovis, New Mexico 88101 United States",
+      "timezone": "America/Denver",
+      "shopId": "clovis",
+      "city": "Clovis",
+      "state": "NM",
+      "address": "2009 Ross St",
+      "phone": "(575) 305-9223",
+      "lat": 34.4048,
+      "lng": -103.2052,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 13,
+          "type": "rec",
+          "storeId": "clovis-rec",
+          "storeUrl": "/stores/dispensary-clovis/"
+        },
+        {
+          "id": 14,
+          "type": "med",
+          "storeId": "clovis-med",
+          "storeUrl": "/stores/medical-dispensary-clovis/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-albuquerque-cottonwood",
+      "name": "Cottonwood",
+      "webflowItemId": "695dc7f124ea6d06501ad371",
+      "placeId": "ChIJie5UBGNxIocRtQqLs8f9lzI",
+      "googleBusinessLink": "https://share.google/T8arXyuP0TYv2Bryj",
+      "googleSearchQuery": "R.Greenleaf Cottonwood 10250 Cottonwood Park NW Albuquerque, New Mexico 87114",
+      "timezone": "America/Denver",
+      "shopId": "cottonwood",
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": "10250 Cottonwood Park NW",
+      "phone": "",
+      "lat": 35.1989,
+      "lng": -106.6267,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 1,
+          "type": "rec",
+          "storeId": "cottonwood-rec",
+          "storeUrl": "/stores/dispensary-albuquerque-cottonwood/"
+        },
+        {
+          "id": 2,
+          "type": "med",
+          "storeId": "cottonwood-med",
+          "storeUrl": "/stores/medical-dispensary-albuquerque-cottonwood/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-grants",
+      "name": "Grants",
+      "webflowItemId": "695dc7f1ee80b3eb66c242bc",
+      "placeId": "ChIJYWTnbi6bI4cR0qTRY7CcBSU",
+      "googleBusinessLink": "https://share.google/5Awlz0lbg2Pb5hYMZ",
+      "googleSearchQuery": "R.Greenleaf Grants 899 Roosevelt Ave Grants, New Mexico 87020",
+      "timezone": "America/Denver",
+      "shopId": "grants",
+      "city": "Grants",
+      "state": "NM",
+      "address": "899 Roosevelt Ave",
+      "phone": "(505) 287-5383",
+      "lat": 35.1475,
+      "lng": -107.8514,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 15,
+          "type": "rec",
+          "storeId": "grants-rec",
+          "storeUrl": "/stores/dispensary-grants/"
+        },
+        {
+          "id": 16,
+          "type": "med",
+          "storeId": "grants-med",
+          "storeUrl": "/stores/medical-dispensary-grants/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-hobbs",
+      "name": "Hobbs",
+      "webflowItemId": "695dc7f218419fbb8390671d",
+      "placeId": "ChIJC1i09dOV_IYRPj8Jo15wWhU",
+      "googleBusinessLink": "https://share.google/TlNuQXZFOgHTnrT8X",
+      "googleSearchQuery": "R.Greenleaf Hobbs 1901 Joe Harvey Blvd Hobbs, New Mexico 88240 United States",
+      "timezone": "America/Denver",
+      "shopId": "hobbs",
+      "city": "Hobbs",
+      "state": "NM",
+      "address": "1901 Joe Harvey Blvd",
+      "phone": "(505) 217-9103",
+      "lat": 32.7126,
+      "lng": -103.136,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 17,
+          "type": "rec",
+          "storeId": "hobbs-rec",
+          "storeUrl": "/stores/dispensary-hobbs/"
+        },
+        {
+          "id": 18,
+          "type": "med",
+          "storeId": "hobbs-med",
+          "storeUrl": "/stores/medical-dispensary-hobbs/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-las-cruces",
+      "name": "Las Cruces",
+      "webflowItemId": "695dc7f2a98e04bfab918a01",
+      "placeId": "ChIJN9dGxEg93oYRFYgRAJXAVyQ",
+      "googleBusinessLink": "https://share.google/TlNuQXZFOgHTnrT8X",
+      "googleSearchQuery": "R.Greenleaf Las Cruces 775 S Telshor Blvd, Las Cruces, NM 88011",
+      "timezone": "America/Denver",
+      "shopId": "las-cruces",
+      "city": "Las Cruces",
+      "state": "NM",
+      "address": "775 S Telshor Blvd",
+      "phone": "(575) 366-9072",
+      "lat": 32.3199,
+      "lng": -106.7637,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 19,
+          "type": "rec",
+          "storeId": "las-cruces-rec",
+          "storeUrl": "/stores/dispensary-las-cruces/"
+        },
+        {
+          "id": 20,
+          "type": "med",
+          "storeId": "las-cruces-med",
+          "storeUrl": "/stores/medical-dispensary-las-cruces/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-las-vegas-nm",
+      "name": "Las Vegas",
+      "webflowItemId": "695dc7f218419fbb8390673a",
+      "placeId": "ChIJobF851F5GYcR2LMgtQJWu2k",
+      "googleBusinessLink": "https://share.google/2fZS8Y3RFI77vLunI",
+      "googleSearchQuery": "R.Greenleaf Las Vegas 615 E Lincoln St Las Vegas, New Mexico 87701",
+      "timezone": "America/Denver",
+      "shopId": "las-vegas",
+      "city": "Las Vegas",
+      "state": "NM",
+      "address": "615 E Lincoln St",
+      "phone": "",
+      "lat": 35.5942,
+      "lng": -105.2119,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 21,
+          "type": "rec",
+          "storeId": "las-vegas-rec",
+          "storeUrl": "/stores/dispensary-las-vegas-nm/"
+        },
+        {
+          "id": 22,
+          "type": "med",
+          "storeId": "las-vegas-med",
+          "storeUrl": "/stores/medical-dispensary-las-vegas-nm/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-albuquerque-midtown",
+      "name": "Midtown",
+      "webflowItemId": "695dc7f1fa416941c826278c",
+      "placeId": "ChIJDQ7KPHcLIocR_t5Dv8JsHQY",
+      "googleBusinessLink": "https://share.google/PQhkFkfuiWDslojup",
+      "googleSearchQuery": "R.Greenleaf Midtown 4414 Menaul Blvd NE Suite 1 Albuquerque, New Mexico 87110",
+      "timezone": "America/Denver",
+      "shopId": "midtown",
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": "4414 Menaul Blvd NE Suite 1",
+      "phone": "",
+      "lat": 35.107,
+      "lng": -106.585,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 3,
+          "type": "rec",
+          "storeId": "midtown-rec",
+          "storeUrl": "/stores/dispensary-albuquerque-midtown/"
+        },
+        {
+          "id": 4,
+          "type": "med",
+          "storeId": "midtown-med",
+          "storeUrl": "/stores/medical-dispensary-albuquerque-midtown/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-albuquerque-northeast-heights",
+      "name": "Northeast Heights",
+      "webflowItemId": "695dc7f1c96df31b8a5a7e2c",
+      "placeId": "ChIJ0X-3pOOfGIcR7UXYGm4N5XI",
+      "googleBusinessLink": "https://share.google/l8XoU1bsvRXLqlymx",
+      "googleSearchQuery": "R.Greenleaf Northeast Heights 9821 Montgomery Blvd NE Suite C and D Albuquerque, New Mexico 87111",
+      "timezone": "America/Denver",
+      "shopId": "northeast-heights",
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": "9821 Montgomery Blvd NE Suite C & D",
+      "phone": "(505) 217-9101",
+      "lat": 35.1281,
+      "lng": -106.5194,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 5,
+          "type": "rec",
+          "storeId": "northeast-heights-rec",
+          "storeUrl": "/stores/dispensary-albuquerque-northeast-heights/"
+        },
+        {
+          "id": 6,
+          "type": "med",
+          "storeId": "northeast-heights-med",
+          "storeUrl": "/stores/medical-dispensary-albuquerque-northeast-heights/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-roswell",
+      "name": "Roswell",
+      "webflowItemId": "695dc7f21869ac3bddba82ff",
+      "placeId": "ChIJpflwpsJv4oYRvdCDmTSNyuw",
+      "googleBusinessLink": "https://share.google/pr79kWkk9mCbc45iN",
+      "googleSearchQuery": "R.Greenleaf Roswell 4311 N Main St Suite B, Roswell, NM 88201",
+      "timezone": "America/Denver",
+      "shopId": "roswell",
+      "city": "Roswell",
+      "state": "NM",
+      "address": "4311 N Main St Suite B",
+      "phone": "(505) 522-2122",
+      "lat": 33.4373,
+      "lng": -104.523,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 23,
+          "type": "rec",
+          "storeId": "roswell-rec",
+          "storeUrl": "/stores/dispensary-roswell/"
+        },
+        {
+          "id": 24,
+          "type": "med",
+          "storeId": "roswell-med",
+          "storeUrl": "/stores/medical-dispensary-roswell/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-santa-fe",
+      "name": "Santa Fe",
+      "webflowItemId": "695dc7f281db0cb2792aacec",
+      "placeId": "ChIJSVj_KK5RGIcRBwZAhgycVGk",
+      "googleBusinessLink": "https://share.google/phDIQn6bNNBPX9Sub",
+      "googleSearchQuery": "R.Greenleaf Santa Fe 403 W Cordova Rd, Santa Fe, NM 87505",
+      "timezone": "America/Denver",
+      "shopId": "santa-fe",
+      "city": "Santa Fe",
+      "state": "NM",
+      "address": "403 W Cordova Rd",
+      "phone": "",
+      "lat": 35.6619,
+      "lng": -105.9613,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 25,
+          "type": "rec",
+          "storeId": "santa-fe-rec",
+          "storeUrl": "/stores/dispensary-santa-fe/"
+        },
+        {
+          "id": 26,
+          "type": "med",
+          "storeId": "santa-fe-med",
+          "storeUrl": "/stores/medical-dispensary-santa-fe/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-albuquerque-west-side",
+      "name": "Westside",
+      "webflowItemId": "695dc7f1948c75bb552681a7",
+      "placeId": "ChIJG7j_oqJyIocRALsn8E6TKHs",
+      "googleBusinessLink": "https://share.google/uTYicafsK62N5ZFyp",
+      "googleSearchQuery": "R.Greenleaf Westside 5201 Ouray Rd NW Suite C Albuquerque, New Mexico 87120",
+      "timezone": "America/Denver",
+      "shopId": "westside",
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": "5201 Ouray Rd NW Suite C",
+      "phone": "(505) 200-9060",
+      "lat": 35.1345,
+      "lng": -106.7095,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 7,
+          "type": "rec",
+          "storeId": "westside-rec",
+          "storeUrl": "/stores/dispensary-albuquerque-west-side/"
+        },
+        {
+          "id": 8,
+          "type": "med",
+          "storeId": "westside-med",
+          "storeUrl": "/stores/medical-dispensary-albuquerque-west-side/"
+        }
+      ]
+    },
+    {
+      "slug": "dispensary-albuquerque-yale",
+      "name": "Yale",
+      "webflowItemId": "695dc7f1ba3b7917a4d70c3f",
+      "placeId": "ChIJ83r_nJULIocRGKD9GC1gfzk",
+      "googleBusinessLink": "https://share.google/m5CKRKvDGQrqSh9Mi",
+      "googleSearchQuery": "R.Greenleaf Yale 110 Yale Blvd SE Albuquerque New Mexico 87106",
+      "timezone": "America/Denver",
+      "shopId": "yale",
+      "city": "Albuquerque",
+      "state": "NM",
+      "address": "110 Yale Blvd SE",
+      "phone": "(505) 522-3613",
+      "lat": 35.0785,
+      "lng": -106.6214,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": [
+        {
+          "id": 9,
+          "type": "rec",
+          "storeId": "yale-rec",
+          "storeUrl": "/stores/dispensary-albuquerque-yale/"
+        },
+        {
+          "id": 10,
+          "type": "med",
+          "storeId": "yale-med",
+          "storeUrl": "/stores/medical-dispensary-albuquerque-yale/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "store-hours-sync",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Syncs each brand's store hours from its Google listings into the brand's Webflow CMS and published store data.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "sync": "node sync.js",
+    "resolve": "node resolve-place-ids.js"
+  }
+}

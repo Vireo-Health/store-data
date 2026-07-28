@@ -1,0 +1,707 @@
+{
+  "generatedAt": "2026-07-28T21:46:54.184Z",
+  "stores": {
+    "dispensary-carlsbad": {
+      "name": "Carlsbad",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-clovis": {
+      "name": "Clovis",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-albuquerque-cottonwood": {
+      "name": "Cottonwood",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-grants": {
+      "name": "Grants",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-hobbs": {
+      "name": "Hobbs",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-las-cruces": {
+      "name": "Las Cruces",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-las-vegas-nm": {
+      "name": "Las Vegas",
+      "week": [
+        [
+          {
+            "open": 720,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-albuquerque-midtown": {
+      "name": "Midtown",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-albuquerque-northeast-heights": {
+      "name": "Northeast Heights",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-roswell": {
+      "name": "Roswell",
+      "week": [
+        [
+          {
+            "open": 660,
+            "close": 1020,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1140,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-santa-fe": {
+      "name": "Santa Fe",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-albuquerque-west-side": {
+      "name": "Westside",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    },
+    "dispensary-albuquerque-yale": {
+      "name": "Yale",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ]
+    }
+  }
+}

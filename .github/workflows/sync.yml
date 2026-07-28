@@ -1,0 +1,151 @@
+name: Store hours sync
+
+# For each brand: pulls store hours from Google listings, publishes routine
+# changes to that brand's Webflow CMS and its published data directory, and
+# opens an issue for anything the sanity gate holds back. GitHub Pages serves
+# the committed output — no separate deploy step.
+
+on:
+  schedule:
+    # Mondays 09:15 America/Denver (15:15 UTC in MDT). Weekly keeps the whole
+    # brand portfolio inside the Places Enterprise free tier (1,000 calls/mo
+    # per billing account). For an immediate sync — e.g. the day hours change
+    # in Google Business Profile — use the Run workflow button.
+    - cron: '15 15 * * 1'
+  workflow_dispatch:
+    inputs:
+      brand:
+        description: 'Only sync this brand (blank = all brands)'
+        type: string
+        default: ''
+      resolve:
+        description: 'Resolve missing Google Place IDs first (bootstrap)'
+        type: boolean
+        default: false
+      dry_run:
+        description: 'Report only, do not write hours'
+        type: boolean
+        default: false
+      accept_all:
+        description: 'Bypass the sanity gate (use to confirm a new baseline)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: store-hours-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      # Serialized: every brand commits to the same branch, and parallel
+      # pushes would race each other.
+      max-parallel: 1
+      matrix:
+        # One entry per brand. webflow_secret names the repo secret holding
+        # that brand's Webflow Site API token (CMS read/write scope).
+        include:
+          - brand: rgreenleaf
+            webflow_secret: WEBFLOW_API_TOKEN_RGREENLEAF
+    env:
+      # Blank brand input (or a schedule run) syncs every brand.
+      BRAND_SELECTED: ${{ inputs.brand == '' || inputs.brand == matrix.brand }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      - name: Run unit tests
+        working-directory: engine
+        run: npm test
+
+      - name: Resolve Place IDs
+        if: inputs.resolve == true && env.BRAND_SELECTED == 'true'
+        working-directory: engine
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          WEBFLOW_API_TOKEN: ${{ secrets[matrix.webflow_secret] }}
+        run: |
+          set +e
+          node resolve-place-ids.js --brand ${{ matrix.brand }} --write | tee "$RUNNER_TEMP/resolve.md"
+          code=${PIPESTATUS[0]}
+          # 2 means some stores need a human; that is reportable, not fatal —
+          # the sync still runs for everything that did resolve.
+          if [ "$code" != "0" ] && [ "$code" != "2" ]; then exit "$code"; fi
+          {
+            echo "## Place ID resolution (${{ matrix.brand }})"
+            echo '```'
+            cat "$RUNNER_TEMP/resolve.md"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Sync hours
+        id: sync
+        if: env.BRAND_SELECTED == 'true'
+        working-directory: engine
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          WEBFLOW_API_TOKEN: ${{ secrets[matrix.webflow_secret] }}
+        run: |
+          set +e
+          FLAGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then FLAGS="$FLAGS --dry-run"; fi
+          if [ "${{ inputs.accept_all }}" = "true" ]; then FLAGS="$FLAGS --accept-all"; fi
+          node sync.js --brand ${{ matrix.brand }} $FLAGS | tee "$RUNNER_TEMP/report.md"
+          code=${PIPESTATUS[0]}
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          # 0 = clean, 2 = held for review, 3 = CMS write failed after
+          # artifacts were generated; anything else is a hard failure.
+          if [ "$code" != "0" ] && [ "$code" != "2" ]; then exit "$code"; fi
+
+      - name: Publish report to the run summary
+        if: always() && env.BRAND_SELECTED == 'true'
+        run: cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY" || true
+
+      # always(): resolved Place IDs and generated artifacts are written to
+      # disk before the steps that can fail. Skipping the commit on failure
+      # throws that work away and re-pays for the same Places lookups.
+      - name: Commit updated data
+        if: always() && !cancelled() && env.BRAND_SELECTED == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "brands/${{ matrix.brand }}" "${{ matrix.brand }}"
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(${{ matrix.brand }}): sync store hours from Google listings"
+          git pull --rebase origin main
+          git push
+
+      - name: Report held changes
+        if: steps.sync.outputs.exit_code == '2' && inputs.dry_run != true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="Store hours held for review (${{ matrix.brand }})"
+          # Reporting must never fail the job: the sync itself already
+          # succeeded, and the report is in the run summary regardless.
+          set +e
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
+            --json number --jq '.[0].number // empty' 2>/dev/null)
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body-file "$RUNNER_TEMP/report.md" \
+              && echo "Commented on issue #$EXISTING"
+          else
+            gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/report.md"
+          fi
+          if [ $? -ne 0 ]; then
+            echo "::warning::Could not file the held-changes report." \
+                 "Are Issues enabled? The full report is in the run summary."
+          fi
+          exit 0
