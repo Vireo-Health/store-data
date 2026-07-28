@@ -79,9 +79,9 @@ README.md has the step list. What it doesn't say:
   GitHub's own managed Pages workflow, not editable from this repo. (And be
   slow to chase such warnings in sync.yml: one past "fix" broke the test step
   via the `node --test <dir>` Node 22 behavior change.)
-- The org (Vireo-Health, free plan) cannot serve Pages from private repos and
-  disables deploy keys org-wide — that is WHY the pipeline lives in this
-  public repo and commits to itself. Don't move it back into a site repo.
+- Org constraints prevent serving Pages from the private site repos and
+  cross-repo push credentials — that is WHY the pipeline lives in this public
+  repo and commits to itself. Don't move it back into a site repo.
 
 ## Brand notes
 
