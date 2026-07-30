@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:39:33.437Z",
+  "generatedAt": "2026-07-30T14:55:02.005Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -582,14 +582,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]

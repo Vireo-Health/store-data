@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:39:33.437Z",
+  "generatedAt": "2026-07-30T14:55:02.005Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -1412,8 +1412,8 @@
       "lng": -105.9613,
       "shopId": "santa-fe",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-10pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–10pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-10pm, Fri-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Thu 8am–10pm · Fri–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
@@ -1453,14 +1453,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -1482,8 +1482,8 @@
       "lng": -105.9613,
       "shopId": "santa-fe",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-10pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–10pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-10pm, Fri-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Thu 8am–10pm · Fri–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
@@ -1523,14 +1523,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
