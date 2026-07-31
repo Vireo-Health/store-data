@@ -80,7 +80,7 @@ async function fetchPlaces(stores, fixture) {
   for (const store of stores) {
     if (!store.placeId) continue;
     try {
-      results.set(store.slug, await google.getPlaceHours(store.placeId));
+      results.set(store.slug, await google.getPlaceDetails(store.placeId));
     } catch (err) {
       results.set(store.slug, { error: String(err.message || err) });
     }
@@ -104,6 +104,7 @@ async function main() {
   const places = await fetchPlaces(withPlaceIds, FIXTURE);
 
   const applied = [];
+  const appliedPhones = [];
   const held = [];
   const errored = [];
   const resolved = [];
@@ -111,6 +112,9 @@ async function main() {
   for (const store of config.stores) {
     const prior = state.stores[store.slug];
     const before = prior ? reviveWeek(prior.week) : null;
+    // Config phone seeds the baseline for stores synced before phones existed
+    // in state (and for brands onboarded with hand-maintained phones).
+    const beforePhone = (prior && prior.phone) || store.phone || '';
     const place = places.get(store.slug);
 
     // No Google data for this store: keep whatever we already had.
@@ -118,20 +122,37 @@ async function main() {
       if (place && place.error) {
         errored.push({ slug: store.slug, name: store.name, error: place.error });
       }
-      if (before) resolved.push({ ...store, week: before });
+      if (before) resolved.push({ ...store, week: before, phone: beforePhone });
       continue;
+    }
+
+    // Hours and phone are gated independently: a held phone never blocks a
+    // routine hours change from publishing, and vice versa.
+    const phoneVerdict = gate.evaluatePhone({
+      name: store.name,
+      before: beforePhone,
+      after: place.phone,
+    });
+    let phone = beforePhone;
+    if (phoneVerdict.changed) {
+      if (phoneVerdict.ok || ACCEPT_ALL) {
+        phone = place.phone;
+        appliedPhones.push({ slug: store.slug, summary: phoneVerdict.summary, phone });
+      } else {
+        held.push({ ...phoneVerdict, slug: store.slug, proposed: place.phone });
+      }
     }
 
     const after = h.fromGooglePeriods(place.regularOpeningHours);
     const verdict = gate.evaluate({ name: store.name, before, after, place });
 
     if (verdict.ok || ACCEPT_ALL) {
-      resolved.push({ ...store, week: after });
+      resolved.push({ ...store, week: after, phone });
       if (verdict.changed) applied.push({ ...verdict, slug: store.slug, week: after });
     } else {
       held.push({ ...verdict, slug: store.slug, proposed: h.formatCompact(after) });
       // Hold means: publish nothing new for this store, keep the current value.
-      if (before) resolved.push({ ...store, week: before });
+      if (before) resolved.push({ ...store, week: before, phone });
     }
   }
 
@@ -143,15 +164,16 @@ async function main() {
   lines.push(`# Store hours sync — ${generatedAt}`);
   lines.push('');
   lines.push(`- checked: ${places.size}`);
-  lines.push(`- applied: ${applied.length}`);
+  lines.push(`- applied: ${applied.length + appliedPhones.length}`);
   lines.push(`- held for review: ${held.length}`);
   lines.push(`- errors: ${errored.length}`);
   if (missing.length) lines.push(`- no Place ID yet: ${missing.map((s) => s.slug).join(', ')}`);
   lines.push('');
 
-  if (applied.length) {
+  if (applied.length || appliedPhones.length) {
     lines.push('## Applied');
     for (const a of applied) lines.push(`- ${a.summary}`);
+    for (const p of appliedPhones) lines.push(`- ${p.summary}`);
     lines.push('');
   }
   if (held.length) {
@@ -188,7 +210,9 @@ async function main() {
     }
     writeJson(STATE_PATH, {
       generatedAt,
-      stores: Object.fromEntries(resolved.map((s) => [s.slug, { name: s.name, week: s.week }])),
+      stores: Object.fromEntries(
+        resolved.map((s) => [s.slug, { name: s.name, week: s.week, phone: s.phone || '' }])
+      ),
     });
   } else {
     console.log('No stores resolved — keeping existing artifacts and state untouched.');
@@ -196,19 +220,36 @@ async function main() {
   fs.writeFileSync(path.join(DIST_DIR, 'report.md'), report + '\n');
 
   // ---- push to Webflow ----------------------------------------------------
-  if (applied.length > 0 && process.env.WEBFLOW_API_TOKEN) {
+  if ((applied.length > 0 || appliedPhones.length > 0) && process.env.WEBFLOW_API_TOKEN) {
     const bySlug = new Map(resolved.map((s) => [s.slug, s]));
-    const updates = applied
-      .map((a) => {
-        const store = bySlug.get(a.slug);
-        const cfg = config.stores.find((s) => s.slug === a.slug);
-        if (!store || !cfg || !cfg.webflowItemId) return null;
-        return {
-          id: cfg.webflowItemId,
-          fieldData: { [config.site.hoursFieldSlug]: h.formatProse(store.week) },
-        };
-      })
-      .filter(Boolean);
+    // One PATCH item per store, merging every field that changed this run.
+    const fieldDataById = new Map();
+    const fieldDataFor = (slug) => {
+      const cfg = config.stores.find((s) => s.slug === slug);
+      if (!cfg || !cfg.webflowItemId) return null;
+      let entry = fieldDataById.get(cfg.webflowItemId);
+      if (!entry) {
+        entry = {};
+        fieldDataById.set(cfg.webflowItemId, entry);
+      }
+      return entry;
+    };
+
+    for (const a of applied) {
+      const store = bySlug.get(a.slug);
+      const fieldData = store && fieldDataFor(a.slug);
+      if (fieldData) fieldData[config.site.hoursFieldSlug] = h.formatProse(store.week);
+    }
+    if (config.site.phoneFieldSlug) {
+      for (const p of appliedPhones) {
+        const fieldData = fieldDataFor(p.slug);
+        if (fieldData) fieldData[config.site.phoneFieldSlug] = p.phone;
+      }
+    } else if (appliedPhones.length > 0) {
+      console.log('site.phoneFieldSlug not set — phone changes published to data files only.');
+    }
+
+    const updates = [...fieldDataById].map(([id, fieldData]) => ({ id, fieldData }));
 
     if (updates.length) {
       // Artifacts and state are already on disk at this point. A CMS failure

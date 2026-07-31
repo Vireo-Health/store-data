@@ -86,14 +86,21 @@ async function findPlaceId(query, { locationBias } = {}) {
 }
 
 /**
- * Fetch a place's regular opening hours.
+ * Fetch a place's regular opening hours and phone number.
  *
  * `regularOpeningHours` is the standing weekly schedule; `currentOpeningHours`
  * reflects holiday and temporary overrides for the next 7 days. We sync the
  * regular schedule and surface the current one only for change alerting, so a
  * one-off holiday never overwrites the standing hours.
+ *
+ * Billing: `regularOpeningHours` puts this call in the Place Details
+ * Enterprise SKU. Every other field here is Enterprise-tier or below, so they
+ * ride along at no extra cost — but adding any Atmosphere-tier field
+ * (reviews, editorialSummary, delivery/curbsidePickup/...) would upgrade the
+ * whole call to Enterprise + Atmosphere. Keep those out of this mask; if we
+ * ever want them, fetch them in a separate, less frequent call.
  */
-async function getPlaceHours(placeId) {
+async function getPlaceDetails(placeId) {
   const data = await request(`${PLACES_BASE}/places/${encodeURIComponent(placeId)}`, {
     fieldMask: [
       'id',
@@ -103,6 +110,7 @@ async function getPlaceHours(placeId) {
       'utcOffsetMinutes',
       'regularOpeningHours',
       'currentOpeningHours',
+      'nationalPhoneNumber',
     ].join(','),
   });
 
@@ -114,7 +122,8 @@ async function getPlaceHours(placeId) {
     utcOffsetMinutes: data.utcOffsetMinutes,
     regularOpeningHours: data.regularOpeningHours || null,
     currentOpeningHours: data.currentOpeningHours || null,
+    phone: data.nationalPhoneNumber || null,
   };
 }
 
-module.exports = { findPlaceId, getPlaceHours };
+module.exports = { findPlaceId, getPlaceDetails };

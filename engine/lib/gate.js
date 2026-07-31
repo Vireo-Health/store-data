@@ -139,8 +139,41 @@ function evaluate({ name, before, after, place, maxShift = DEFAULT_MAX_SHIFT_MIN
   };
 }
 
+/** Digits-only form, so formatting differences never read as a change. */
+function phoneDigits(value) {
+  return String(value || '').replace(/\D/g, '');
+}
+
+/**
+ * Evaluate a proposed phone change. Same contract as evaluate(), for one
+ * field. Filling in a blank publishes unattended; replacing an existing
+ * number is always held — a hijacked listing's most damaging edit is a
+ * swapped phone number, and legitimate changes are rare enough that a human
+ * glance costs nothing. Google returning no phone keeps the current value:
+ * blanking good data is never routine.
+ */
+function evaluatePhone({ name, before, after }) {
+  if (!phoneDigits(after)) {
+    return { changed: false, ok: true, reasons: [], summary: `${name}: no phone from Google` };
+  }
+  if (phoneDigits(before) === phoneDigits(after)) {
+    return { changed: false, ok: true, reasons: [], summary: `${name}: phone unchanged` };
+  }
+  if (!phoneDigits(before)) {
+    return { changed: true, ok: true, reasons: [], summary: `${name}: phone filled in as ${after}` };
+  }
+  return {
+    changed: true,
+    ok: false,
+    reasons: [`phone would change from ${before} to ${after}`],
+    summary: `${name}: phone ${before}  ->  ${after}`,
+  };
+}
+
 module.exports = {
   evaluate,
+  evaluatePhone,
+  phoneDigits,
   weeklyOpenMinutes,
   openDayCount,
   maxShiftMinutes,

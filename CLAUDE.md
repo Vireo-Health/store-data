@@ -69,12 +69,23 @@ README.md has the step list. What it doesn't say:
   and empty responses. Held stores keep current hours — held never means
   blank. Only `regularOpeningHours` is synced; holiday hours never overwrite
   the standing schedule.
+- Phone numbers sync from the same Places call, gated independently of hours
+  (`gate.evaluatePhone`): formatting-only differences are ignored (digit
+  comparison), blank→value fills in unattended, value→value is always held,
+  and Google returning no phone keeps the current number. Phones publish to
+  the data files always; to the CMS only where `site.phoneFieldSlug` is set.
 - An all-held/all-error run writes NO artifacts (empty-roster guard) — good
   data is never replaced by an empty roster.
-- Weekly cadence is a cost decision: the hours fetch bills as Places
-  **Enterprise** (`regularOpeningHours` sets the SKU), 1,000 free calls/month
-  per billing account across ALL brands. ~4.3 calls/store/month at weekly.
-  Going daily across the portfolio would exceed the free tier.
+- Cadence is daily as of 2026-07-31 (Weston accepted the cost). The fetch
+  bills as Places **Enterprise** (`regularOpeningHours` sets the SKU; $20 per
+  1,000 calls), 1,000 free calls/month per billing account across ALL brands.
+  Daily is ~30.4 calls/store/month: free up to ~32 stores, ~$0.61/store/month
+  after, ~$41/month at the ~100-store full portfolio. Adding
+  `nationalPhoneNumber` cost nothing — it's Enterprise-tier like the hours
+  field. NEVER add an Atmosphere-tier field (reviews, editorialSummary,
+  delivery/curbsidePickup/…) to this field mask: it upgrades every daily call
+  to Enterprise + Atmosphere ($25/1,000, separate 1K free cap). Fetch those in
+  a separate, slower-cadence call if ever needed.
 - Ignore Node-deprecation warnings from `pages-build-deployment` — that's
   GitHub's own managed Pages workflow, not editable from this repo. (And be
   slow to chase such warnings in sync.yml: one past "fix" broke the test step
@@ -90,5 +101,7 @@ README.md has the step list. What it doesn't say:
 - **everydayweed** (future): inherits R.Greenleaf's former Sunland Park store —
   Place ID `ChIJNb7BIST53YYReAfFj_8WD6I` already resolved; page copy for it is
   archived in R.Greenleaf's Webflow Stores collection (item, not deleted).
-- **starbuds / livwell / greendragon** (future): larger rosters; recheck the
-  free-tier math in README before changing cadence.
+- **starbuds / livwell / greendragon** (future): larger rosters. Daily cadence
+  means each added store costs ~$0.61/month once the portfolio passes ~32
+  stores — the full ~100-store portfolio lands around $41/month, which is
+  approved. No cadence change needed when onboarding.

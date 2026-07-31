@@ -155,3 +155,33 @@ test('Santa Fe gaining later Fri/Sat hours auto-publishes', () => {
   assert.strictEqual(r.ok, true);
   assert.match(r.summary, /Fri, Sat/);
 });
+
+test('a phone formatting difference is not a change', () => {
+  const r = gate.evaluatePhone({ name: 'Clovis', before: '(575) 305-9223', after: '575-305-9223' });
+  assert.strictEqual(r.changed, false);
+  assert.strictEqual(r.ok, true);
+});
+
+test('a phone fill-in from blank auto-publishes', () => {
+  const r = gate.evaluatePhone({ name: 'Cottonwood', before: '', after: '(505) 555-0100' });
+  assert.strictEqual(r.changed, true);
+  assert.strictEqual(r.ok, true);
+  assert.match(r.summary, /filled in/);
+});
+
+test('a phone replacement is held for review', () => {
+  const r = gate.evaluatePhone({
+    name: 'Carlsbad',
+    before: '(575) 305-7944',
+    after: '(575) 555-0199',
+  });
+  assert.strictEqual(r.changed, true);
+  assert.strictEqual(r.ok, false);
+  assert.match(r.reasons.join(' '), /would change from/);
+});
+
+test('Google returning no phone keeps the current value', () => {
+  const r = gate.evaluatePhone({ name: 'Yale', before: '(505) 217-9101', after: null });
+  assert.strictEqual(r.changed, false);
+  assert.strictEqual(r.ok, true);
+});

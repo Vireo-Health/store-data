@@ -7,11 +7,13 @@ name: Store hours sync
 
 on:
   schedule:
-    # Mondays 09:15 America/Denver (15:15 UTC in MDT). Weekly keeps the whole
-    # brand portfolio inside the Places Enterprise free tier (1,000 calls/mo
-    # per billing account). For an immediate sync — e.g. the day hours change
-    # in Google Business Profile — use the Run workflow button.
-    - cron: '15 15 * * 1'
+    # Daily 09:15 America/Denver (15:15 UTC in MDT). The hours fetch bills as
+    # Places Enterprise: at the current roster (~13 stores, ~400 calls/mo)
+    # daily stays inside the 1,000 free calls/mo per billing account. Cost
+    # grows with the roster — see the cadence math in CLAUDE.md before
+    # onboarding a large brand. For an immediate sync — e.g. the day hours
+    # change in Google Business Profile — use the Run workflow button.
+    - cron: '15 15 * * *'
   workflow_dispatch:
     inputs:
       brand:

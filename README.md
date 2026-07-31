@@ -1,8 +1,8 @@
 # store-data
 
-Store hours for Vireo Health brand websites, synced weekly from each store's
-Google Business listing and served via GitHub Pages. Change hours in Google —
-the sites follow.
+Store hours and phone numbers for Vireo Health brand websites, synced daily
+from each store's Google Business listing and served via GitHub Pages. Change
+hours in Google — the sites follow.
 
 ```
 Google Places API ──► normalize ──► sanity gate ──┬──► brand's Webflow CMS
@@ -35,11 +35,16 @@ brands/<brand>/    stores.config.json (roster + Webflow wiring), state.json
 
 ## Operations
 
-`.github/workflows/sync.yml` runs Mondays 09:15 America/Denver. Per brand it
-fetches `regularOpeningHours` for every store with a Place ID, runs the sanity
-gate, applies routine changes to the Webflow CMS (live item patch — no site
-publish involved), commits the regenerated data, and files/updates a
-**Store hours held for review (brand)** issue for anything held.
+`.github/workflows/sync.yml` runs daily 09:15 America/Denver. Per brand it
+fetches `regularOpeningHours` and `nationalPhoneNumber` for every store with a
+Place ID, runs the sanity gate, applies routine changes to the Webflow CMS
+(live item patch — no site publish involved), commits the regenerated data,
+and files/updates a **Store hours held for review (brand)** issue for
+anything held.
+
+Hours always sync to the CMS `store-hours` field. Phone numbers land in the
+published data files; they also patch the CMS only if the brand's config sets
+`site.phoneFieldSlug` to a PlainText field on the Stores collection.
 
 For an immediate sync, use **Run workflow** — optionally limiting to one brand.
 
@@ -57,9 +62,12 @@ change publishes unattended only if none of these hold:
 | Any time moves more than 4h | Outside a normal schedule tweak |
 | Weekly open hours cut in half or more | Same reasoning, by volume |
 | Google returns no hours | Never overwrite good data with nothing |
+| An existing phone number would change | A hijacked listing's favorite edit; real changes are rare |
 
 A held store keeps its current hours. Only `regularOpeningHours` is synced, so
-holiday overrides never overwrite the standing schedule.
+holiday overrides never overwrite the standing schedule. Phone changes are
+gated independently of hours: a blank phone fills in unattended, a replacement
+is held, and Google returning no phone never blanks an existing number.
 
 ## Adding a brand
 
@@ -80,9 +88,12 @@ holiday overrides never overwrite the standing schedule.
    embeds to `window.RG_STORES` with their hardcoded data kept as an offline
    fallback.
 
-Store counts and API cost: the hours fetch bills as Places *Enterprise*
-(1,000 free calls/month per billing account). Weekly cadence keeps the whole
-portfolio far inside the free allotment (~4.3 calls per store per month).
+Store counts and API cost: the fetch bills as Places *Enterprise* — $20 per
+1,000 calls after the 1,000 free calls/month per billing account. Daily
+cadence is ~30.4 calls per store per month: free up to ~32 stores, about
+$0.61/store/month beyond that (~$41/month at a 100-store portfolio; accepted
+2026-07-31). Phone numbers ride along on the same call at no extra cost —
+every field in the mask is Enterprise-tier or below.
 
 ## Local development
 
