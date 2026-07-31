@@ -36,11 +36,21 @@ brands/<brand>/    stores.config.json (roster + Webflow wiring), state.json
 ## Operations
 
 `.github/workflows/sync.yml` runs daily 09:15 America/Denver. Per brand it
-fetches `regularOpeningHours` and `nationalPhoneNumber` for every store with a
-Place ID, runs the sanity gate, applies routine changes to the Webflow CMS
+fetches `regularOpeningHours`, `nationalPhoneNumber`, `rating`/
+`userRatingCount`, and `websiteUri` for every store with a Place ID (one
+Enterprise-SKU call per store — all these fields ride on it at no extra
+cost), runs the sanity gate, applies routine changes to the Webflow CMS
 (live item patch — no site publish involved), commits the regenerated data,
 and files/updates a **Store hours held for review (brand)** issue for
 anything held.
+
+Ratings publish ungated into `stores.js`/`stores.json` (they drift daily by
+nature) but are deliberately excluded from the JSON-LD — Google's
+review-snippet policy forbids marking up ratings sourced from Google itself.
+`websiteUri` publishes nothing: it powers a report-only **Listing audit**
+that flags listings whose website is missing or points off the brand domain
+(stale post-conversion URLs, hijacked listings). Fix those in Google
+Business Profile.
 
 Hours always sync to the CMS `store-hours` field. Phone numbers land in the
 published data files; they also patch the CMS only if the brand's config sets

@@ -185,3 +185,34 @@ test('Google returning no phone keeps the current value', () => {
   assert.strictEqual(r.changed, false);
   assert.strictEqual(r.ok, true);
 });
+
+test('a listing website on the brand domain passes the audit', () => {
+  for (const uri of [
+    'https://rgreenleaf.com/stores/dispensary-carlsbad/',
+    'https://www.rgreenleaf.com/',
+    'https://shop.rgreenleaf.com/menu',
+  ]) {
+    const r = gate.auditWebsite({ websiteUri: uri, expectedHost: 'rgreenleaf.com' });
+    assert.strictEqual(r.ok, true, uri);
+  }
+});
+
+test('a listing website on a foreign domain is flagged', () => {
+  const r = gate.auditWebsite({
+    websiteUri: 'https://everydayweed.com/el-paso',
+    expectedHost: 'rgreenleaf.com',
+  });
+  assert.strictEqual(r.ok, false);
+  assert.match(r.reasons.join(' '), /points at everydayweed\.com/);
+});
+
+test('a listing with no website is flagged', () => {
+  const r = gate.auditWebsite({ websiteUri: null, expectedHost: 'rgreenleaf.com' });
+  assert.strictEqual(r.ok, false);
+  assert.match(r.reasons.join(' '), /no website/);
+});
+
+test('no expected host disables the audit', () => {
+  const r = gate.auditWebsite({ websiteUri: 'https://anything.example', expectedHost: null });
+  assert.strictEqual(r.ok, true);
+});

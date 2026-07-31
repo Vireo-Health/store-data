@@ -108,6 +108,16 @@ async function main() {
   const held = [];
   const errored = [];
   const resolved = [];
+  const audited = [];
+
+  // Brand site host for the listing-website audit. No org.url, no audit.
+  const expectedHost = (() => {
+    try {
+      return new URL(config.site.org.url).hostname.replace(/^www\./, '');
+    } catch {
+      return null;
+    }
+  })();
 
   for (const store of config.stores) {
     const prior = state.stores[store.slug];
@@ -115,6 +125,9 @@ async function main() {
     // Config phone seeds the baseline for stores synced before phones existed
     // in state (and for brands onboarded with hand-maintained phones).
     const beforePhone = (prior && prior.phone) || store.phone || '';
+    const beforeRating = prior && typeof prior.rating === 'number' ? prior.rating : null;
+    const beforeRatingCount =
+      prior && typeof prior.ratingCount === 'number' ? prior.ratingCount : null;
     const place = places.get(store.slug);
 
     // No Google data for this store: keep whatever we already had.
@@ -122,9 +135,26 @@ async function main() {
       if (place && place.error) {
         errored.push({ slug: store.slug, name: store.name, error: place.error });
       }
-      if (before) resolved.push({ ...store, week: before, phone: beforePhone });
+      if (before) {
+        resolved.push({
+          ...store,
+          week: before,
+          phone: beforePhone,
+          rating: beforeRating,
+          ratingCount: beforeRatingCount,
+        });
+      }
       continue;
     }
+
+    // Ratings are published without gating — they drift a little every day by
+    // nature, and nothing dangerous can ride in on a number. A missing rating
+    // keeps the prior value rather than blanking it.
+    const rating = place.rating != null ? place.rating : beforeRating;
+    const ratingCount = place.ratingCount != null ? place.ratingCount : beforeRatingCount;
+
+    const audit = gate.auditWebsite({ websiteUri: place.websiteUri, expectedHost });
+    if (!audit.ok) audited.push({ slug: store.slug, reasons: audit.reasons });
 
     // Hours and phone are gated independently: a held phone never blocks a
     // routine hours change from publishing, and vice versa.
@@ -147,12 +177,12 @@ async function main() {
     const verdict = gate.evaluate({ name: store.name, before, after, place });
 
     if (verdict.ok || ACCEPT_ALL) {
-      resolved.push({ ...store, week: after, phone });
+      resolved.push({ ...store, week: after, phone, rating, ratingCount });
       if (verdict.changed) applied.push({ ...verdict, slug: store.slug, week: after });
     } else {
       held.push({ ...verdict, slug: store.slug, proposed: h.formatCompact(after) });
       // Hold means: publish nothing new for this store, keep the current value.
-      if (before) resolved.push({ ...store, week: before, phone });
+      if (before) resolved.push({ ...store, week: before, phone, rating, ratingCount });
     }
   }
 
@@ -189,13 +219,19 @@ async function main() {
     for (const e of errored) lines.push(`- ${e.slug}: ${e.error}`);
     lines.push('');
   }
+  if (audited.length) {
+    lines.push('## Listing audit');
+    lines.push('Nothing was published from these — fix the listing in Google Business Profile.');
+    for (const a of audited) lines.push(`- **${a.slug}** — ${a.reasons.join('; ')}`);
+    lines.push('');
+  }
 
   const report = lines.join('\n');
   console.log(report);
 
   if (DRY_RUN) {
     console.log('[dry-run] no files written, no CMS updates');
-    return held.length > 0 ? 2 : 0;
+    return held.length > 0 || audited.length > 0 ? 2 : 0;
   }
 
   // ---- write artifacts ----------------------------------------------------
@@ -211,7 +247,16 @@ async function main() {
     writeJson(STATE_PATH, {
       generatedAt,
       stores: Object.fromEntries(
-        resolved.map((s) => [s.slug, { name: s.name, week: s.week, phone: s.phone || '' }])
+        resolved.map((s) => [
+          s.slug,
+          {
+            name: s.name,
+            week: s.week,
+            phone: s.phone || '',
+            rating: typeof s.rating === 'number' ? s.rating : null,
+            ratingCount: typeof s.ratingCount === 'number' ? s.ratingCount : null,
+          },
+        ])
       ),
     });
   } else {
@@ -267,7 +312,7 @@ async function main() {
     console.log('WEBFLOW_API_TOKEN not set — skipped CMS update.');
   }
 
-  return held.length > 0 ? 2 : 0;
+  return held.length > 0 || audited.length > 0 ? 2 : 0;
 }
 
 main()

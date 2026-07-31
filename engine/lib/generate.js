@@ -32,6 +32,8 @@ function buildRecords(stores) {
       city: store.city,
       state: store.state,
       phone: store.phone || '',
+      rating: typeof store.rating === 'number' ? store.rating : null,
+      ratingCount: typeof store.ratingCount === 'number' ? store.ratingCount : null,
       lat: store.lat,
       lng: store.lng,
       shopId: store.shopId,
@@ -60,6 +62,10 @@ function buildRecords(stores) {
   return records;
 }
 
+// Google star ratings are published in the records for on-page display, but
+// deliberately NOT as aggregateRating here: Google's review-snippet policy
+// forbids marking up ratings sourced from other sites (including Google
+// itself), and violating it risks a structured-data manual action.
 function buildSchema(stores, org = DEFAULT_ORG) {
   const out = {};
   for (const store of stores) {

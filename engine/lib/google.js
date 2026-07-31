@@ -111,6 +111,9 @@ async function getPlaceDetails(placeId) {
       'regularOpeningHours',
       'currentOpeningHours',
       'nationalPhoneNumber',
+      'rating',
+      'userRatingCount',
+      'websiteUri',
     ].join(','),
   });
 
@@ -123,6 +126,9 @@ async function getPlaceDetails(placeId) {
     regularOpeningHours: data.regularOpeningHours || null,
     currentOpeningHours: data.currentOpeningHours || null,
     phone: data.nationalPhoneNumber || null,
+    rating: typeof data.rating === 'number' ? data.rating : null,
+    ratingCount: typeof data.userRatingCount === 'number' ? data.userRatingCount : null,
+    websiteUri: data.websiteUri || null,
   };
 }
 

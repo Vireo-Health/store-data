@@ -74,6 +74,12 @@ README.md has the step list. What it doesn't say:
   comparison), blank→value fills in unattended, value→value is always held,
   and Google returning no phone keeps the current number. Phones publish to
   the data files always; to the CMS only where `site.phoneFieldSlug` is set.
+- Ratings (`rating`/`ratingCount`) publish ungated to the data files and
+  state, never to the CMS or the JSON-LD (Google's review-snippet policy
+  forbids marking up Google-sourced ratings — see the comment in generate.js).
+  `websiteUri` is audit-only (`gate.auditWebsite` vs the `site.org.url`
+  host): findings land in the report/issue via exit code 2 and re-alert every
+  run until the listing is fixed in Google Business Profile.
 - An all-held/all-error run writes NO artifacts (empty-roster guard) — good
   data is never replaced by an empty roster.
 - Cadence is daily as of 2026-07-31 (Weston accepted the cost). The fetch

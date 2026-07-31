@@ -170,10 +170,35 @@ function evaluatePhone({ name, before, after }) {
   };
 }
 
+/**
+ * Audit a listing's website against the brand's domain. Report-only — nothing
+ * is published from this field; a mismatch means the Google listing needs
+ * fixing (stale URL after a brand conversion, a hijacked listing, or a
+ * missing link) and that fix happens in Google Business Profile, not here.
+ */
+function auditWebsite({ websiteUri, expectedHost }) {
+  if (!expectedHost) return { ok: true, reasons: [] };
+  if (!websiteUri) return { ok: false, reasons: ['listing has no website set'] };
+  let host;
+  try {
+    host = new URL(websiteUri).hostname.replace(/^www\./, '');
+  } catch {
+    return { ok: false, reasons: [`listing website is not a valid URL: ${websiteUri}`] };
+  }
+  if (host === expectedHost || host.endsWith(`.${expectedHost}`)) {
+    return { ok: true, reasons: [] };
+  }
+  return {
+    ok: false,
+    reasons: [`listing website points at ${host}, expected ${expectedHost}`],
+  };
+}
+
 module.exports = {
   evaluate,
   evaluatePhone,
   phoneDigits,
+  auditWebsite,
   weeklyOpenMinutes,
   openDayCount,
   maxShiftMinutes,
