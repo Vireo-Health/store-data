@@ -19,7 +19,7 @@ const DEFAULT_ORG = {
  * Flatten the roster into the record shape the embeds already expect — one
  * entry per rec/med variant, since the store finder lists them separately.
  */
-function buildRecords(stores) {
+function buildRecords(stores, storePath = '/stores/') {
   const records = [];
   for (const store of stores) {
     const compact = h.formatCompact(store.week);
@@ -45,7 +45,7 @@ function buildRecords(stores) {
     };
 
     if (!store.variants || store.variants.length === 0) {
-      records.push({ ...base, id: null, type: null, storeId: null, storeUrl: `/stores/${store.slug}/` });
+      records.push({ ...base, id: null, type: null, storeId: null, storeUrl: `${storePath}${store.slug}/` });
       continue;
     }
 
@@ -74,7 +74,7 @@ function buildSchema(stores, org = DEFAULT_ORG) {
       '@context': 'https://schema.org',
       '@type': 'Store',
       name: `${org.name} ${store.name}`,
-      url: `${org.url}/stores/${store.slug}/`,
+      url: `${org.url}${org.storePath || '/stores/'}${store.slug}/`,
       address: {
         '@type': 'PostalAddress',
         streetAddress: store.address,
@@ -159,9 +159,11 @@ function buildStoresJs(records, generatedAt, org = DEFAULT_ORG) {
   ].join('\n');
 }
 
-/** org: { name, url } from config.site.org — brand identity for the JSON-LD. */
+/** org: { name, url, storePath? } from config.site.org — brand identity for the
+ *  JSON-LD and store-page URLs. storePath defaults to '/stores/' (R.Greenleaf);
+ *  brands whose store pages live elsewhere (LivWell: '/locations/') set it in config. */
 function generate(stores, generatedAt, org = DEFAULT_ORG) {
-  const records = buildRecords(stores);
+  const records = buildRecords(stores, (org && org.storePath) || '/stores/');
   return {
     'stores.json': JSON.stringify({ generatedAt, stores: records }, null, 2) + '\n',
     'stores.js': buildStoresJs(records, generatedAt, org),

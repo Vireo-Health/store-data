@@ -55,6 +55,8 @@ jobs:
         include:
           - brand: rgreenleaf
             webflow_secret: WEBFLOW_API_TOKEN_RGREENLEAF
+          - brand: livwell
+            webflow_secret: WEBFLOW_API_TOKEN_LIVWELL
     env:
       # Blank brand input (or a schedule run) syncs every brand.
       BRAND_SELECTED: ${{ inputs.brand == '' || inputs.brand == matrix.brand }}
