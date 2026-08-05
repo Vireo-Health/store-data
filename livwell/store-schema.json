@@ -1,0 +1,597 @@
+{
+  "berthoud-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Berthoud",
+    "url": "https://livwell.com/locations/berthoud-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1015 N 2nd St",
+      "addressLocality": "Berthoud",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-344-5060",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.3113553,
+      "longitude": -105.0765196
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:50"
+      }
+    ]
+  },
+  "broomfield-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Broomfield",
+    "url": "https://livwell.com/locations/broomfield-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "137 Nickel Street",
+      "addressLocality": "Broomfield",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-756-2385",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.9189927,
+      "longitude": -105.0895643
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "aurora-buckley-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Buckley",
+    "url": "https://livwell.com/locations/aurora-buckley-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "19201 E Colfax Ave",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-366-1077",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7406829,
+      "longitude": -104.7642405
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "denver-central-park-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Central Park",
+    "url": "https://livwell.com/locations/denver-central-park-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3955 Oneida St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-573-4735",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.771911,
+      "longitude": -104.9080879
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "denver-colorado-blvd-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Colorado Boulevard",
+    "url": "https://livwell.com/locations/denver-colorado-blvd-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2020 S. Colorado Blvd",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-758-9114",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6797361,
+      "longitude": -104.9404824
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "cortez-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Cortez",
+    "url": "https://livwell.com/locations/cortez-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1819 E Main St",
+      "addressLocality": "Cortez",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-565-9577",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.3486219,
+      "longitude": -108.5624767
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "denver-tech-center-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Denver Tech Center",
+    "url": "https://livwell.com/locations/denver-tech-center-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7795 E. Belleview Ave #2",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-756-7881",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6244669,
+      "longitude": -104.8981894
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "federal-heights-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Federal Heights",
+    "url": "https://livwell.com/locations/federal-heights-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8860 Federal Blvd #66E",
+      "addressLocality": "Federal Heights",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-612-4343",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.8573585,
+      "longitude": -105.0238961
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "fort-collins-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Fort Collins",
+    "url": "https://livwell.com/locations/fort-collins-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "900 N College Ave",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-484-8380",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.5988416,
+      "longitude": -105.0760923
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "garden-city-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Garden City",
+    "url": "https://livwell.com/locations/garden-city-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2647 8th Ave",
+      "addressLocality": "Garden City",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-616-6007",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.39387019999999,
+      "longitude": -104.6918357
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "lakewood-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Lakewood",
+    "url": "https://livwell.com/locations/lakewood-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3600 S. Wadsworth Blvd",
+      "addressLocality": "Lakewood",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-484-8853",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6494539,
+      "longitude": -105.0807339
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "log-lane-village-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Log Lane",
+    "url": "https://livwell.com/locations/log-lane-village-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "130 Maine St Suite B",
+      "addressLocality": "Log Lane Village",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-867-7867",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.2683349,
+      "longitude": -103.8315717
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "aurora-peoria-st-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Peoria",
+    "url": "https://livwell.com/locations/aurora-peoria-st-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1401 Peoria St",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-993-7548",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7389778,
+      "longitude": -104.8473846
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "pueblo-north-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Pueblo North",
+    "url": "https://livwell.com/locations/pueblo-north-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2565 N I-25 Exit 104",
+      "addressLocality": "Pueblo",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "719-306-0042",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.3475258,
+      "longitude": -104.6212597
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "denver-rino-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell RiNo",
+    "url": "https://livwell.com/locations/denver-rino-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2863 Larimer St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-484-1662",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7613559,
+      "longitude": -104.9820442
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "denver-dia-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Tower Road",
+    "url": "https://livwell.com/locations/denver-dia-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6651 N Tower Rd Suite 120",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-524-8273",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.8170467,
+      "longitude": -104.7725716
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "uptown-denver-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LivWell Uptown",
+    "url": "https://livwell.com/locations/uptown-denver-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "706 East 17th Avenue Suite 102",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-952-9150",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7431351,
+      "longitude": -104.9783113
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  }
+}
