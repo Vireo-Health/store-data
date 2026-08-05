@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T14:55:02.005Z",
+  "generatedAt": "2026-08-04T17:03:36.609Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -53,7 +53,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(575) 305-7944",
+      "rating": 4.7,
+      "ratingCount": 193
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -107,7 +110,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(575) 305-9223",
+      "rating": 4.9,
+      "ratingCount": 398
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -161,7 +167,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "505-899-0511",
+      "rating": 4.6,
+      "ratingCount": 549
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -215,7 +224,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 287-5383",
+      "rating": 4.7,
+      "ratingCount": 497
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -269,7 +281,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 217-9103",
+      "rating": 4.8,
+      "ratingCount": 197
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -323,7 +338,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(575) 366-9072",
+      "rating": 4.5,
+      "ratingCount": 511
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -377,7 +395,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "505-962-2155",
+      "rating": 4.7,
+      "ratingCount": 204
     },
     "dispensary-albuquerque-midtown": {
       "name": "Midtown",
@@ -431,7 +452,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "505-217-9086",
+      "rating": 4.5,
+      "ratingCount": 1183
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -485,7 +509,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 217-9101",
+      "rating": 4.5,
+      "ratingCount": 465
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -539,7 +566,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 522-2122",
+      "rating": 4.4,
+      "ratingCount": 278
     },
     "dispensary-santa-fe": {
       "name": "Santa Fe",
@@ -593,7 +623,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "505-962-2161",
+      "rating": 4.4,
+      "ratingCount": 194
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
@@ -647,7 +680,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 200-9060",
+      "rating": 4.5,
+      "ratingCount": 891
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",
@@ -701,7 +737,10 @@
             "closesNextDay": false
           }
         ]
-      ]
+      ],
+      "phone": "(505) 522-3613",
+      "rating": 4.7,
+      "ratingCount": 320
     }
   }
 }

@@ -88,6 +88,7 @@
       "addressRegion": "NM",
       "addressCountry": "US"
     },
+    "telephone": "505-899-0511",
     "geo": {
       "@type": "GeoCoordinates",
       "latitude": 35.1989,
@@ -248,6 +249,7 @@
       "addressRegion": "NM",
       "addressCountry": "US"
     },
+    "telephone": "505-962-2155",
     "geo": {
       "@type": "GeoCoordinates",
       "latitude": 35.5942,
@@ -289,6 +291,7 @@
       "addressRegion": "NM",
       "addressCountry": "US"
     },
+    "telephone": "505-217-9086",
     "geo": {
       "@type": "GeoCoordinates",
       "latitude": 35.107,
@@ -407,6 +410,7 @@
       "addressRegion": "NM",
       "addressCountry": "US"
     },
+    "telephone": "505-962-2161",
     "geo": {
       "@type": "GeoCoordinates",
       "latitude": 35.6619,
