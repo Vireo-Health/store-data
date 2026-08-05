@@ -84,7 +84,9 @@ is held, and Google returning no phone never blanks an existing number.
 1. Create `brands/<brand>/stores.config.json` — copy rgreenleaf's shape: the
    `site` block (Webflow site ID, Stores collection ID, field slugs) plus one
    entry per store. Add a `google-place-id` PlainText field to that site's
-   Stores collection.
+   Stores collection. Also commit a placeholder `<brand>/README.md` at the
+   repo root — the test suite requires the published dir to exist, and the
+   first sync can't run until tests pass.
 2. Add a repo secret `WEBFLOW_API_TOKEN_<BRAND>` (Webflow Site API token, CMS
    read/write scope) and add the brand to the matrix in
    `.github/workflows/sync.yml`.
