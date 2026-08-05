@@ -57,3 +57,19 @@ test('a permanently closed listing is refused even with the right name', () => {
   assert.strictEqual(r.confident, false);
   assert.match(r.reasons.join(' '), /CLOSED_PERMANENTLY/);
 });
+
+test('the brand name comes from the caller, not a hardcode', () => {
+  const r = scoreCandidate(STORE, candidate({ name: 'LivWell Dispensary' }), 'LivWell');
+  assert.strictEqual(r.confident, true);
+  assert.deepStrictEqual(r.reasons, []);
+});
+
+test('a caller-supplied brand still refuses other businesses', () => {
+  const r = scoreCandidate(STORE, candidate({ name: 'Some Other Dispensary' }), 'LivWell');
+  assert.strictEqual(r.confident, false);
+});
+
+test('a bare brand-name listing (no "Dispensary" suffix) is confident', () => {
+  const r = scoreCandidate(STORE, candidate({ name: 'LivWell' }), 'LivWell');
+  assert.strictEqual(r.confident, true);
+});

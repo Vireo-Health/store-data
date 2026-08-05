@@ -56,16 +56,17 @@ function streetNumber(address) {
  * A match is confident when an expected brand name appears and the street
  * number of the result matches the street number we expect.
  *
- * A store acquired from another dispensary can keep the old brand on its
- * Google listing until the rename propagates. List the old name in the
+ * The expected brand name comes from config.site.org.name — do not hardcode a
+ * brand here. A store acquired from another dispensary can keep the old brand
+ * on its Google listing until the rename propagates. List the old name in the
  * store's `resolveNameAllow` (with a reason) to accept it — the street-number
  * and location-bias checks still gate the match.
  */
-function scoreCandidate(store, candidate) {
+function scoreCandidate(store, candidate, brandName = 'Greenleaf') {
   const reasons = [];
   let confident = true;
 
-  const allowedNames = ['greenleaf', ...(store.resolveNameAllow || [])].map(normalize);
+  const allowedNames = [brandName, ...(store.resolveNameAllow || [])].map(normalize);
   const candidateName = normalize(candidate.name);
   if (!allowedNames.some((n) => n && candidateName.includes(n))) {
     reasons.push(
@@ -136,7 +137,8 @@ async function main() {
     }
 
     const top = candidates[0];
-    const { confident, reasons } = scoreCandidate(store, top);
+    const brandName = (config.site.org && config.site.org.name) || undefined;
+    const { confident, reasons } = scoreCandidate(store, top, brandName);
 
     if (confident) {
       console.log(`✓ ${store.slug}: ${top.placeId}  (${top.name} — ${top.address})`);
