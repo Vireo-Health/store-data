@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:03:36.609Z",
+  "generatedAt": "2026-08-05T16:38:36.163Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 465
+      "ratingCount": 466
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 320
+      "ratingCount": 321
     }
   }
 }
