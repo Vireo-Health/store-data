@@ -55,6 +55,8 @@
       "name": "Las Cruces North",
       "webflowItemId": "6a28704cda2536aa6e1e2568",
       "placeId": null,
+      "resolveNameAllow": ["Everest"],
+      "resolveNameAllowReason": "The Google listing is named 'Everest Las Cruces North' — the brand name without 'Cannabis'. Street-number and location-bias checks still gate the match.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Everest Cannabis Las Cruces 4165 White Sage Arc Ste D, Las Cruces, NM 88011",
       "timezone": "America/Denver",
