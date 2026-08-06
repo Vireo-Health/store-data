@@ -8,10 +8,11 @@ name: Store hours sync
 on:
   schedule:
     # Daily 09:15 America/Denver (15:15 UTC in MDT). The hours fetch bills as
-    # Places Enterprise: at the current roster (~13 stores, ~400 calls/mo)
-    # daily stays inside the 1,000 free calls/mo per billing account. Cost
-    # grows with the roster — see the cadence math in CLAUDE.md before
-    # onboarding a large brand. For an immediate sync — e.g. the day hours
+    # Places Enterprise: the current roster (13 rgreenleaf + 17 livwell +
+    # 17 starbuds + 13 everydayweed + 13 greendragon + 7 everest = 80 stores,
+    # ~2,430 calls/mo) runs past the 1,000 free calls/mo — roughly $29/mo,
+    # inside the approved full-portfolio budget.
+    # See the cadence math in CLAUDE.md before onboarding a large brand. For an immediate sync — e.g. the day hours
     # change in Google Business Profile — use the Run workflow button.
     - cron: '15 15 * * *'
   workflow_dispatch:
@@ -57,6 +58,14 @@ jobs:
             webflow_secret: WEBFLOW_API_TOKEN_RGREENLEAF
           - brand: livwell
             webflow_secret: WEBFLOW_API_TOKEN_LIVWELL
+          - brand: starbuds
+            webflow_secret: WEBFLOW_API_TOKEN_STAR_BUDS
+          - brand: everydayweed
+            webflow_secret: WEBFLOW_API_TOKEN_EVERYDAYWEED
+          - brand: greendragon
+            webflow_secret: WEBFLOW_API_TOKEN_GREEN_DRAGON
+          - brand: everest
+            webflow_secret: WEBFLOW_API_TOKEN_EVEREST
     env:
       # Blank brand input (or a schedule run) syncs every brand.
       BRAND_SELECTED: ${{ inputs.brand == '' || inputs.brand == matrix.brand }}

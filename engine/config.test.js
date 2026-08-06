@@ -39,6 +39,17 @@ for (const brand of brands) {
     }
   });
 
+  test(`${brand}: no CMS item is written by two stores`, () => {
+    // alsoWebflowItemIds lets one store patch extra CMS items (a med/rec
+    // pair of pages for one storefront). The same item appearing under two
+    // stores would make their last-written hours win at random.
+    const ids = config.stores.flatMap((s) => [
+      s.webflowItemId,
+      ...(s.alsoWebflowItemIds || []),
+    ]);
+    assert.strictEqual(new Set(ids).size, ids.length, 'duplicate Webflow item id');
+  });
+
   test(`${brand}: no two stores share a Place ID`, () => {
     const ids = config.stores.map((s) => s.placeId).filter(Boolean);
     assert.strictEqual(

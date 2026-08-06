@@ -268,27 +268,41 @@ async function main() {
   if ((applied.length > 0 || appliedPhones.length > 0) && process.env.WEBFLOW_API_TOKEN) {
     const bySlug = new Map(resolved.map((s) => [s.slug, s]));
     // One PATCH item per store, merging every field that changed this run.
+    // A store may map to extra CMS items via alsoWebflowItemIds (e.g. a
+    // med/rec pair of pages sharing one storefront and Google listing) —
+    // every one of them receives the same field values.
     const fieldDataById = new Map();
     const fieldDataFor = (slug) => {
       const cfg = config.stores.find((s) => s.slug === slug);
       if (!cfg || !cfg.webflowItemId) return null;
-      let entry = fieldDataById.get(cfg.webflowItemId);
-      if (!entry) {
-        entry = {};
-        fieldDataById.set(cfg.webflowItemId, entry);
-      }
-      return entry;
+      const ids = [cfg.webflowItemId, ...(cfg.alsoWebflowItemIds || [])];
+      return ids.map((id) => {
+        let entry = fieldDataById.get(id);
+        if (!entry) {
+          entry = {};
+          fieldDataById.set(id, entry);
+        }
+        return entry;
+      });
     };
 
     for (const a of applied) {
       const store = bySlug.get(a.slug);
-      const fieldData = store && fieldDataFor(a.slug);
-      if (fieldData) fieldData[config.site.hoursFieldSlug] = h.formatProse(store.week);
+      for (const fieldData of (store && fieldDataFor(a.slug)) || []) {
+        fieldData[config.site.hoursFieldSlug] = h.formatProse(store.week);
+        // Brands whose pages also render hours from a legacy RichText field
+        // set site.hoursRichTextFieldSlug to keep that block in sync too.
+        if (config.site.hoursRichTextFieldSlug) {
+          fieldData[config.site.hoursRichTextFieldSlug] =
+            '<p>' + h.formatProse(store.week).split('\n').join('<br>') + '</p>';
+        }
+      }
     }
     if (config.site.phoneFieldSlug) {
       for (const p of appliedPhones) {
-        const fieldData = fieldDataFor(p.slug);
-        if (fieldData) fieldData[config.site.phoneFieldSlug] = p.phone;
+        for (const fieldData of fieldDataFor(p.slug) || []) {
+          fieldData[config.site.phoneFieldSlug] = p.phone;
+        }
       }
     } else if (appliedPhones.length > 0) {
       console.log('site.phoneFieldSlug not set — phone changes published to data files only.');

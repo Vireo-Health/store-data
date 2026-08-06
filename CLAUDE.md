@@ -107,7 +107,23 @@ README.md has the step list. What it doesn't say:
 - **everydayweed** (future): inherits R.Greenleaf's former Sunland Park store —
   Place ID `ChIJNb7BIST53YYReAfFj_8WD6I` already resolved; page copy for it is
   archived in R.Greenleaf's Webflow Stores collection (item, not deleted).
-- **starbuds / livwell / greendragon** (future): larger rosters. Daily cadence
-  means each added store costs ~$0.61/month once the portfolio passes ~32
-  stores — the full ~100-store portfolio lands around $41/month, which is
-  approved. No cadence change needed when onboarding.
+- **starbuds**: onboarded 2026-08-05. 17 CO storefronts; site repo
+  Coastal-Division/schwazze-SB holds the embeds; live domain
+  www.starbuds.us. Three locations (Lakeside, Lakewood, Manitou Springs)
+  keep separate med + rec CMS items sharing one storefront and Google
+  listing — the rec item is `webflowItemId`, the med item rides along via
+  `alsoWebflowItemIds` so both pages get the same patch, and both appear as
+  `variants` in the published records. The site also renders a legacy
+  RichText hours block (field slug `hours`), kept in sync via
+  `site.hoursRichTextFieldSlug` alongside the PlainText `store-hours` the
+  newer embeds bind. Known CMS data quirks at onboarding: duplicate Jane
+  store-ids (Glendale and Pueblo both 4651, Colorado Springs and draft DU
+  Med both 1757) and Glendale/Garden City carrying Pueblo's phone — expect
+  the phone gate to hold real corrections on early runs. The former SB
+  stores converted to Everyday Weed (Aurora North, Boulder, Brighton,
+  Federal Heights, Pecos–Hwy 36, DU) still exist as CMS items but are
+  deliberately NOT in the roster.
+- **greendragon** (future): larger roster. Daily cadence means each added
+  store costs ~$0.61/month once the portfolio passes ~32 stores — the full
+  ~100-store portfolio lands around $41/month, which is approved. No cadence
+  change needed when onboarding.

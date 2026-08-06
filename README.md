@@ -24,6 +24,8 @@ page embeds read `window.RG_STORES` synchronously during parse):
 | Brand | Data | Also served |
 |---|---|---|
 | R.Greenleaf | [`rgreenleaf/stores.js`](rgreenleaf/stores.js) | `stores.json`, `store-schema.json` (LocalBusiness JSON-LD), `report.md` |
+| LivWell | [`livwell/stores.js`](livwell/stores.js) | same set |
+| Star Buds | [`starbuds/stores.js`](starbuds/stores.js) | same set |
 
 ## Layout
 
@@ -84,7 +86,11 @@ is held, and Google returning no phone never blanks an existing number.
 1. Create `brands/<brand>/stores.config.json` — copy rgreenleaf's shape: the
    `site` block (Webflow site ID, Stores collection ID, field slugs) plus one
    entry per store. Add a `google-place-id` PlainText field to that site's
-   Stores collection. Also commit a placeholder `<brand>/README.md` at the
+   Stores collection. Two optional keys (see starbuds): a store's
+   `alsoWebflowItemIds` lists extra CMS items that receive the same patch
+   (med/rec page pairs sharing one storefront), and
+   `site.hoursRichTextFieldSlug` mirrors hours into a legacy RichText field
+   as well. Also commit a placeholder `<brand>/README.md` at the
    repo root — the test suite requires the published dir to exist, and the
    first sync can't run until tests pass.
 2. Add a repo secret `WEBFLOW_API_TOKEN_<BRAND>` (Webflow Site API token, CMS
