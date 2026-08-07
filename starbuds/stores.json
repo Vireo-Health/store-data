@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:00:27.699Z",
+  "generatedAt": "2026-08-07T19:09:05.762Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -156,7 +156,7 @@
       "ratingCount": 2809,
       "lat": 39.70778,
       "lng": -104.94019,
-      "shopId": "4651",
+      "shopId": "1767",
       "timezone": "America/Denver",
       "hours": "Daily 8am-11:45pm",
       "hoursDotted": "Daily 8am–11:45pm",
