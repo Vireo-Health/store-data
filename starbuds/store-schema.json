@@ -1,0 +1,611 @@
+{
+  "south-aurora-quincy-ave": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Aurora Quincy Ave",
+    "url": "https://www.starbuds.us/stores/south-aurora-quincy-ave/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "19151 E Quincy Ave",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-400-1451",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.63859,
+      "longitude": -104.76479
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "aurora-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Aurora Southeast",
+    "url": "https://www.starbuds.us/stores/aurora-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14655 E Arapahoe Rd",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(303) 699-1222",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.59504,
+      "longitude": -104.79133
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "glendale-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Glendale",
+    "url": "https://www.starbuds.us/stores/glendale-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "492 S Colorado Blvd",
+      "addressLocality": "Glendale",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 519-0891",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.70778,
+      "longitude": -104.94019
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "highlands-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Highlands",
+    "url": "https://www.starbuds.us/stores/highlands-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2675 W 38th Ave",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 389-9179",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.76953,
+      "longitude": -105.02032
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "lakeside-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Lakeside",
+    "url": "https://www.starbuds.us/stores/lakeside-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5238 W 44th Ave",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 535-6893",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.77658,
+      "longitude": -105.04804
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "lakewood-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Lakewood",
+    "url": "https://www.starbuds.us/stores/lakewood-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "265 S Wadsworth Blvd",
+      "addressLocality": "Lakewood",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 669-3515",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.71166,
+      "longitude": -105.082
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:05"
+      }
+    ]
+  },
+  "north-denver-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds North Denver",
+    "url": "https://www.starbuds.us/stores/north-denver-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4690 Brighton Blvd",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 387-8952",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.78171,
+      "longitude": -104.96656
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "thornton-premium-marijuana-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Thornton",
+    "url": "https://www.starbuds.us/stores/thornton-premium-marijuana-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5823 E 128th Ave",
+      "addressLocality": "Thornton",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-480-0685",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.92844,
+      "longitude": -104.92636
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "fort-collins-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Fort Collins",
+    "url": "https://www.starbuds.us/stores/fort-collins-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5740 S College Ave Unit A",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(970) 797-2155",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.50689,
+      "longitude": -105.07682
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "garden-city-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Garden City",
+    "url": "https://www.starbuds.us/stores/garden-city-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2502 8th Ave",
+      "addressLocality": "Garden City",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(970) 515-5839",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.39714,
+      "longitude": -104.69101
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "longmont-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Longmont",
+    "url": "https://www.starbuds.us/stores/longmont-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7521 Ute Hwy #66",
+      "addressLocality": "Longmont",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(303) 651-0709",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.20333,
+      "longitude": -105.13153
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "louisville-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Louisville",
+    "url": "https://www.starbuds.us/stores/louisville-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1156 W Dillon Rd",
+      "addressLocality": "Louisville",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 389-6313",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.96066,
+      "longitude": -105.16683
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "niwot-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Niwot",
+    "url": "https://www.starbuds.us/stores/niwot-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6924 N 79th St",
+      "addressLocality": "Niwot",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(720) 340-4548",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.12881,
+      "longitude": -105.16896
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "20:45"
+      }
+    ]
+  },
+  "colorado-springs-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Colorado Springs",
+    "url": "https://www.starbuds.us/stores/colorado-springs-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "510 E Pikes Peak Ave",
+      "addressLocality": "Colorado Springs",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(719) 465-3699",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.83405,
+      "longitude": -104.81498
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "manitou-springs-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Manitou Springs",
+    "url": "https://www.starbuds.us/stores/manitou-springs-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "27 Manitou Ave",
+      "addressLocality": "Manitou Springs",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(719) 375-0554",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.85694,
+      "longitude": -104.89006
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "pueblo-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Pueblo",
+    "url": "https://www.starbuds.us/stores/pueblo-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4305 Thatcher Ave",
+      "addressLocality": "Pueblo",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(719) 696-8279",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.25845,
+      "longitude": -104.66591
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "pueblo-west-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Star Buds Pueblo West",
+    "url": "https://www.starbuds.us/stores/pueblo-west-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "428 S McCulloch Blvd",
+      "addressLocality": "Pueblo West",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(719) 547-1009",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.30025,
+      "longitude": -104.76513
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "22:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ]
+  }
+}
