@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:14:56.150Z",
+  "generatedAt": "2026-08-07T16:09:10.589Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 193
+      "ratingCount": 197
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 511
+      "ratingCount": 512
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1183
+      "ratingCount": 1185
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
