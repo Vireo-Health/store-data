@@ -1,0 +1,289 @@
+{
+  "sunland-park": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Sunland Park",
+    "url": "https://everestnm.com/stores/sunland-park/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1580 Appaloosa Dr, Ste 320",
+      "addressLocality": "Sunland Park",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "575-332-9037",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.7995,
+      "longitude": -106.582
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "los-lunas": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Los Lunas",
+    "url": "https://everestnm.com/stores/los-lunas/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1651 W Main St NW, Ste E",
+      "addressLocality": "Los Lunas",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 865-6635",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.8077,
+      "longitude": -106.7565
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "las-cruces-north": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Las Cruces North",
+    "url": "https://everestnm.com/stores/las-cruces-north/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4165 White Sage Arc, Ste D",
+      "addressLocality": "Las Cruces",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(575) 446-1438",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.352,
+      "longitude": -106.723
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "montano-plaza": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Montaño Plaza",
+    "url": "https://everestnm.com/stores/montano-plaza/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6010 Coors Blvd NW, Ste 3",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "505-295-3245",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1296,
+      "longitude": -106.7031
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "uptown": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Uptown",
+    "url": "https://everestnm.com/stores/uptown/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2201 Louisiana Blvd NE, Ste E",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 872-6150",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1043,
+      "longitude": -106.5666
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "west-central": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis West Central",
+    "url": "https://everestnm.com/stores/west-central/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4201 Central Ave NW, Ste B-6",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 836-8620",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.0857,
+      "longitude": -106.7095
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "far-northeast-heights": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Everest Cannabis Far Northeast Heights",
+    "url": "https://everestnm.com/stores/far-northeast-heights/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5809 Juan Tabo Blvd NE, Ste B",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "(505) 293-1249",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.1437,
+      "longitude": -106.5163
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  }
+}

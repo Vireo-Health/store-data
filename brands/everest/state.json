@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-08-07T19:06:41.005Z",
+  "stores": {
+    "sunland-park": {
+      "name": "Sunland Park",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "575-332-9037",
+      "rating": 4.5,
+      "ratingCount": 558
+    },
+    "los-lunas": {
+      "name": "Los Lunas",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(505) 865-6635",
+      "rating": 4.7,
+      "ratingCount": 763
+    },
+    "las-cruces-north": {
+      "name": "Las Cruces North",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(575) 446-1438",
+      "rating": 4.7,
+      "ratingCount": 101
+    },
+    "montano-plaza": {
+      "name": "Montaño Plaza",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "505-295-3245",
+      "rating": 4.7,
+      "ratingCount": 280
+    },
+    "uptown": {
+      "name": "Uptown",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(505) 872-6150",
+      "rating": null,
+      "ratingCount": null
+    },
+    "west-central": {
+      "name": "West Central",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(505) 836-8620",
+      "rating": 4.8,
+      "ratingCount": 679
+    },
+    "far-northeast-heights": {
+      "name": "Far Northeast Heights",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(505) 293-1249",
+      "rating": 4.8,
+      "ratingCount": 711
+    }
+  }
+}
