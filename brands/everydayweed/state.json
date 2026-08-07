@@ -1,0 +1,746 @@
+{
+  "generatedAt": "2026-08-07T19:02:28.637Z",
+  "stores": {
+    "dispensary-commerce-city": {
+      "name": "Commerce City",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "303-999-0401",
+      "rating": 4.8,
+      "ratingCount": 1742
+    },
+    "north-aurora-dispensary": {
+      "name": "Aurora Montview",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-459-7143",
+      "rating": 4.7,
+      "ratingCount": 2559
+    },
+    "denver-dispensary": {
+      "name": "DU Denver",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": true
+          }
+        ]
+      ],
+      "phone": "303-975-6485",
+      "rating": 4.9,
+      "ratingCount": 2240
+    },
+    "brighton-dispensary": {
+      "name": "Brighton",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-668-9823",
+      "rating": 4.7,
+      "ratingCount": 418
+    },
+    "federal-heights-dispensary": {
+      "name": "Federal Heights",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "303-353-9993",
+      "rating": 4.9,
+      "ratingCount": 5695
+    },
+    "aurora-dispensary": {
+      "name": "Aurora E 6th Ave",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-458-6950",
+      "rating": 4.4,
+      "ratingCount": 965
+    },
+    "northwest-denver-dispensary": {
+      "name": "Pecos",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "303-429-9196",
+      "rating": 4.9,
+      "ratingCount": 3702
+    },
+    "capitol-hill-dispensary": {
+      "name": "Denver Capitol Hill",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-505-5887",
+      "rating": 4.6,
+      "ratingCount": 530
+    },
+    "boulder-dispensary": {
+      "name": "Boulder",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-446-5490",
+      "rating": 4.7,
+      "ratingCount": 176
+    },
+    "breckenridge-dispensary": {
+      "name": "Breckenridge",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-453-4900",
+      "rating": 4.5,
+      "ratingCount": 620
+    },
+    "fort-collins-dispensary": {
+      "name": "Fort Collins College Ave",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-225-5421",
+      "rating": null,
+      "ratingCount": null
+    },
+    "fort-collins-smithfield-dispensary": {
+      "name": "Fort Collins Smithfield",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-225-5420",
+      "rating": 4,
+      "ratingCount": 610
+    },
+    "sunland-park-dispensary": {
+      "name": "Sunland Park",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "575-636-2480",
+      "rating": 4.8,
+      "ratingCount": 721
+    }
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "dispensary-commerce-city": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Commerce City",
+    "url": "https://everydayweed.com/stores/dispensary-commerce-city/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5844 Dahlia St",
+      "addressLocality": "Commerce City",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-999-0401",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.8083,
+      "longitude": -104.9344
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "north-aurora-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Aurora Montview",
+    "url": "https://everydayweed.com/stores/north-aurora-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10100 E Montview Blvd",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-459-7143",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7575,
+      "longitude": -104.859
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "denver-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed DU Denver",
+    "url": "https://everydayweed.com/stores/denver-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1640 E Evans Ave",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-975-6485",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6791,
+      "longitude": -104.9614
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "brighton-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Brighton",
+    "url": "https://everydayweed.com/stores/brighton-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "560 N 7th Ave",
+      "addressLocality": "Brighton",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-668-9823",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.997363,
+      "longitude": -104.813406
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "federal-heights-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Federal Heights",
+    "url": "https://everydayweed.com/stores/federal-heights-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9000 N Federal Blvd",
+      "addressLocality": "Westminster",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-353-9993",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.8602127,
+      "longitude": -105.024465
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "aurora-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Aurora E 6th Ave",
+    "url": "https://everydayweed.com/stores/aurora-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "15225 E 6th Ave",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-458-6950",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.726,
+      "longitude": -104.8116
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "northwest-denver-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Pecos",
+    "url": "https://everydayweed.com/stores/northwest-denver-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1451 Cortez St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-429-9196",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.782,
+      "longitude": -105.0147
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "capitol-hill-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Denver Capitol Hill",
+    "url": "https://everydayweed.com/stores/capitol-hill-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1250 Grant St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-505-5887",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7361641,
+      "longitude": -104.9830365
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "boulder-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Boulder",
+    "url": "https://everydayweed.com/stores/boulder-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1750 30th St Unit 7",
+      "addressLocality": "Boulder",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-446-5490",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.0172624,
+      "longitude": -105.2526673
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "10:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "breckenridge-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Breckenridge",
+    "url": "https://everydayweed.com/stores/breckenridge-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1795 Airport Rd #A3",
+      "addressLocality": "Breckenridge",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-453-4900",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.5076,
+      "longitude": -106.0523
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "fort-collins-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Fort Collins College Ave",
+    "url": "https://everydayweed.com/stores/fort-collins-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "804 S College Ave C",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-225-5421",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.5761,
+      "longitude": -105.076
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "fort-collins-smithfield-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Fort Collins Smithfield",
+    "url": "https://everydayweed.com/stores/fort-collins-smithfield-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "813 Smithfield Dr #8581",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-225-5420",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.578,
+      "longitude": -105.0031
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "19:45"
+      }
+    ]
+  },
+  "sunland-park-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Sunland Park",
+    "url": "https://everydayweed.com/stores/sunland-park-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1541 Appaloosa Dr",
+      "addressLocality": "Sunland Park",
+      "addressRegion": "NM",
+      "addressCountry": "US"
+    },
+    "telephone": "575-636-2480",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.7989,
+      "longitude": -106.5812
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  }
+}
