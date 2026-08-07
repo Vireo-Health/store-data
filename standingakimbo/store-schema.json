@@ -1,0 +1,212 @@
+{
+  "denver": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Denver",
+    "url": "https://standingakimbo.com/stores/denver/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3801 Jason St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-997-4526",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.769447,
+      "longitude": -104.9996229
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ]
+  },
+  "colorado-springs": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Colorado Springs",
+    "url": "https://standingakimbo.com/stores/colorado-springs/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "510 E Pikes Peak Ave",
+      "addressLocality": "Colorado Springs",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "719-465-3699",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.83405,
+      "longitude": -104.81498
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "lakewood": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Lakewood",
+    "url": "https://standingakimbo.com/stores/lakewood/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "265 S Wadsworth Blvd",
+      "addressLocality": "Lakewood",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-669-3515",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.71166,
+      "longitude": -105.082
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:05"
+      }
+    ]
+  },
+  "garden-city": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Garden City",
+    "url": "https://standingakimbo.com/stores/garden-city/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2502 8th Ave",
+      "addressLocality": "Garden City",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-515-5839",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.39714,
+      "longitude": -104.69101
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "fort-collins": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Fort Collins",
+    "url": "https://standingakimbo.com/stores/fort-collins/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5740 S College Ave Unit A",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(970) 232-9034",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.50689,
+      "longitude": -105.07682
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "brighton": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Brighton",
+    "url": "https://standingakimbo.com/stores/brighton/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "560 N 7th Ave",
+      "addressLocality": "Brighton",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-668-9823",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.997363,
+      "longitude": -104.813406
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  }
+}

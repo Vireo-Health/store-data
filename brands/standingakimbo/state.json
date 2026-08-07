@@ -1,0 +1,347 @@
+{
+  "generatedAt": "2026-08-07T21:24:39.721Z",
+  "stores": {
+    "denver": {
+      "name": "Denver",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "303-997-4526",
+      "rating": 4.3,
+      "ratingCount": 1157
+    },
+    "colorado-springs": {
+      "name": "Colorado Springs",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "719-465-3699",
+      "rating": 4.9,
+      "ratingCount": 949
+    },
+    "lakewood": {
+      "name": "Lakewood",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1265,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-669-3515",
+      "rating": 4.9,
+      "ratingCount": 2572
+    },
+    "garden-city": {
+      "name": "Garden City",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-515-5839",
+      "rating": 4.7,
+      "ratingCount": 675
+    },
+    "fort-collins": {
+      "name": "Fort Collins",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(970) 232-9034",
+      "rating": 4.7,
+      "ratingCount": 57
+    },
+    "brighton": {
+      "name": "Brighton",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-668-9823",
+      "rating": 4.7,
+      "ratingCount": 418
+    }
+  }
+}
