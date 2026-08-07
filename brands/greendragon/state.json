@@ -1,0 +1,746 @@
+{
+  "generatedAt": "2026-08-07T19:04:16.086Z",
+  "stores": {
+    "thornton-premium-marijuana-dispensary": {
+      "name": "Thornton",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-480-0685",
+      "rating": 4.4,
+      "ratingCount": 1115
+    },
+    "dispensary-fort-collins-college": {
+      "name": "Fort Collins College Ave",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-225-5421",
+      "rating": 4.5,
+      "ratingCount": 369
+    },
+    "fort-collins-smithfield-drive": {
+      "name": "East Fort Collins Smithfield Dr",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-225-5420",
+      "rating": 4,
+      "ratingCount": 610
+    },
+    "edgewater": {
+      "name": "Edgewater",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-480-0640",
+      "rating": 4.6,
+      "ratingCount": 903
+    },
+    "west-denver-sheridan-blvd": {
+      "name": "Denver Sheridan Blvd",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-458-6650",
+      "rating": 4.6,
+      "ratingCount": 1093
+    },
+    "east-denver-colfax-ave": {
+      "name": "Denver Colfax",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-458-6450",
+      "rating": 4.7,
+      "ratingCount": 561
+    },
+    "dispensary-denver-mile-high": {
+      "name": "Denver Mile High",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-315-0032",
+      "rating": 4.9,
+      "ratingCount": 208
+    },
+    "central-denver-byers-pl": {
+      "name": "Denver Byers Place",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1080,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-480-0660",
+      "rating": 4.6,
+      "ratingCount": 548
+    },
+    "breckenridge": {
+      "name": "Breckenridge Airport Rd",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-453-4900",
+      "rating": 4.5,
+      "ratingCount": 620
+    },
+    "boulder": {
+      "name": "Boulder 30th St",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-446-5490",
+      "rating": 4.7,
+      "ratingCount": 176
+    },
+    "south-aurora-quincy-ave": {
+      "name": "Aurora Quincy Ave",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "(303) 400-1451",
+      "rating": 4.4,
+      "ratingCount": 1082
+    },
+    "aspen": {
+      "name": "Aspen",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-429-4365",
+      "rating": 4.4,
+      "ratingCount": 216
+    },
+    "telluride-premium-marijuana-dispensary": {
+      "name": "Telluride",
+      "week": [
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-422-1422",
+      "rating": 4.6,
+      "ratingCount": 231
+    }
+  }
+}

@@ -1,37 +1,24 @@
-# Store hours sync — 2026-08-07T16:10:13.287Z
+# Store hours sync — 2026-08-07T19:04:16.086Z
 
 - checked: 13
-- applied: 0
-- held for review: 13
+- applied: 13
+- held for review: 0
 - errors: 0
 
-## Held for review
-- **thornton-premium-marijuana-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **dispensary-fort-collins-college** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11pm`
-- **fort-collins-smithfield-drive** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-7:45pm`
-- **edgewater** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **west-denver-sheridan-blvd** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **east-denver-colfax-ave** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-11pm`
-- **dispensary-denver-mile-high** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-10pm`
-- **central-denver-byers-pl** — no stored baseline yet — first run needs confirmation
-  - proposed: `Mon-Sat 10am-8pm, Sun 10am-6pm`
-- **breckenridge** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-9:45pm`
-- **boulder** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 10am-9:45pm`
-- **south-aurora-quincy-ave** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **aspen** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 10am-8pm`
-- **telluride-premium-marijuana-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 11am-8pm`
+## Applied
+- Thornton: new baseline Daily 8am-11:45pm
+- Fort Collins College Ave: new baseline Daily 8am-11pm
+- East Fort Collins Smithfield Dr: new baseline Daily 8am-7:45pm
+- Edgewater: new baseline Daily 8am-11:45pm
+- Denver Sheridan Blvd: new baseline Daily 8am-11:45pm
+- Denver Colfax: new baseline Daily 9am-11pm
+- Denver Mile High: new baseline Daily 9am-10pm
+- Denver Byers Place: new baseline Mon-Sat 10am-8pm, Sun 10am-6pm
+- Breckenridge Airport Rd: new baseline Daily 8am-9:45pm
+- Boulder 30th St: new baseline Daily 10am-9:45pm
+- Aurora Quincy Ave: new baseline Daily 8am-11:45pm
+- Aspen: new baseline Daily 10am-8pm
+- Telluride: new baseline Daily 11am-8pm
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
