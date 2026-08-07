@@ -116,10 +116,14 @@ README.md has the step list. What it doesn't say:
   `variants` in the published records. The site also renders a legacy
   RichText hours block (field slug `hours`), kept in sync via
   `site.hoursRichTextFieldSlug` alongside the PlainText `store-hours` the
-  newer embeds bind. Known CMS data quirks at onboarding: duplicate Jane
-  store-ids (Glendale and Pueblo both 4651, Colorado Springs and draft DU
-  Med both 1757) and Glendale/Garden City carrying Pueblo's phone — expect
-  the phone gate to hold real corrections on early runs. The former SB
+  newer embeds bind. At onboarding the CMS had Glendale/Garden City carrying
+  Pueblo's phone and Glendale carrying Pueblo's Jane store-id 4651 — this
+  crossed real customer calls/orders to Pueblo and was fixed in the CMS
+  2026-08-07 (Glendale is Jane 1767, phone (720) 519-0891; Garden City
+  (970) 515-5839). The old production site (starbudscolorado.com on Vercel,
+  separate from the Webflow rebuild) still had the wrong values then.
+  Remaining data quirk: Colorado Springs and draft DU Med both claim Jane
+  1757. The former SB
   stores converted to Everyday Weed (Aurora North, Boulder, Brighton,
   Federal Heights, Pecos–Hwy 36, DU) still exist as CMS items but are
   deliberately NOT in the roster.
