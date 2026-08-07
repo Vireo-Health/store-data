@@ -16,7 +16,7 @@
       "slug": "denver",
       "name": "Denver",
       "webflowItemId": "6a28663c7700e6c4ccc5fd54",
-      "placeId": null,
+      "placeId": "ChIJy64d-fB4bIcRcLVI1d3aLfY",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Denver 3801 Jason St, Denver, CO 80211",
       "timezone": "America/Denver",
@@ -35,8 +35,10 @@
       "slug": "colorado-springs",
       "name": "Colorado Springs",
       "webflowItemId": "6a2866359c15e59e99a51755",
-      "placeId": null,
-      "resolveNameAllow": ["Star Buds"],
+      "placeId": "ChIJT5v_QABFE4cRQrS0lR6x-JA",
+      "resolveNameAllow": [
+        "Star Buds"
+      ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Colorado Springs storefront (510 E Pikes Peak); a dedicated Standing Akimbo listing may not exist yet, so the listing may carry the rec brand.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Colorado Springs 510 E Pikes Peak Ave, Colorado Springs, CO 80903",
@@ -56,8 +58,10 @@
       "slug": "lakewood",
       "name": "Lakewood",
       "webflowItemId": "6a286656ba2a072055433f16",
-      "placeId": null,
-      "resolveNameAllow": ["Star Buds"],
+      "placeId": "ChIJX6NFsH6Ba4cRRIL8OGc-5iI",
+      "resolveNameAllow": [
+        "Star Buds"
+      ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Lakewood storefront (265 S Wadsworth) — same storefront the starbuds roster syncs as a med/rec pair; the listing may carry the rec brand.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Lakewood 265 S Wadsworth Blvd, Lakewood, CO 80226",
@@ -77,8 +81,10 @@
       "slug": "garden-city",
       "name": "Garden City",
       "webflowItemId": "6a28664c9c15e59e99a51f32",
-      "placeId": null,
-      "resolveNameAllow": ["Star Buds"],
+      "placeId": "ChIJ_-CZXQ2hbocR2xT5xSfHEzk",
+      "resolveNameAllow": [
+        "Star Buds"
+      ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Garden City storefront (2502 8th Ave); the listing may carry the rec brand.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Garden City 2502 8th Ave, Garden City, CO 80631",
@@ -98,8 +104,10 @@
       "slug": "fort-collins",
       "name": "Fort Collins",
       "webflowItemId": "6a2866446b22c81a1c9dd666",
-      "placeId": null,
-      "resolveNameAllow": ["Star Buds"],
+      "placeId": "ChIJI-XxoHxNaYcREquaZ33lNmk",
+      "resolveNameAllow": [
+        "Star Buds"
+      ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Fort Collins storefront (5740 S College Ave); the listing may carry the rec brand.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Fort Collins 5740 S College Ave Unit A, Fort Collins, CO 80525",
@@ -119,8 +127,10 @@
       "slug": "brighton",
       "name": "Brighton",
       "webflowItemId": "6a2865fd3d64823617effbe4",
-      "placeId": null,
-      "resolveNameAllow": ["Every Day Weed"],
+      "placeId": "ChIJddIDawBtbIcRUBahxpdxiEQ",
+      "resolveNameAllow": [
+        "Every Day Weed"
+      ],
       "resolveNameAllowReason": "Medical counter at the Every Day Weed Brighton storefront (560 N 7th Ave); no dedicated Standing Akimbo listing found yet, so the listing may carry the rec brand.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Brighton 560 N 7th Ave, Brighton, CO 80601",
