@@ -1,26 +1,11 @@
-# Store hours sync — 2026-08-05T17:15:14.578Z
+# Store hours sync — 2026-08-07T16:09:28.665Z
 
 - checked: 17
-- applied: 17
-- held for review: 0
+- applied: 0
+- held for review: 1
 - errors: 0
 
-## Applied
-- Berthoud: new baseline Daily 8am-11:50pm
-- Broomfield: new baseline Daily 8am-10pm
-- Buckley: new baseline Daily 8am-12am
-- Central Park: new baseline Daily 8am-9pm
-- Colorado Boulevard: new baseline Daily 8am-12am
-- Cortez: new baseline Daily 8am-11pm
-- Denver Tech Center: new baseline Daily 8am-12am
-- Federal Heights: new baseline Daily 8am-12am
-- Fort Collins: new baseline Daily 8am-12am
-- Garden City: new baseline Daily 8am-12am
-- Lakewood: new baseline Daily 8am-10pm
-- Log Lane: new baseline Daily 8am-10pm
-- Peoria: new baseline Daily 9am-11pm
-- Pueblo North: new baseline Daily 8am-11pm
-- RiNo: new baseline Daily 9am-12am
-- Tower Road: new baseline Daily 8am-12am
-- Uptown: new baseline Daily 8am-12am
+## Held for review
+- **uptown-denver-dispensary** — a time moves by 26h (limit 4h)
+  - proposed: `Mon-Wed 8am-10pm, Thu-Sat 8am-12am, Sun 8am-10pm`
 

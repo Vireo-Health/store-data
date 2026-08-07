@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:15:14.578Z",
+  "generatedAt": "2026-08-07T16:09:28.665Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4434
+      "ratingCount": 4435
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1791
+      "ratingCount": 1792
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7611
+      "ratingCount": 7612
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3677
+      "ratingCount": 3679
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2400
+      "ratingCount": 2403
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -683,7 +683,7 @@
       ],
       "phone": "970-867-7867",
       "rating": 4.7,
-      "ratingCount": 722
+      "ratingCount": 721
     },
     "aurora-peoria-st-dispensary": {
       "name": "Peoria",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2121
+      "ratingCount": 2122
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2557
+      "ratingCount": 2556
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3725
+      "ratingCount": 3726
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
