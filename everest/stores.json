@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:06:41.005Z",
+  "generatedAt": "2026-08-08T15:47:41.600Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -296,8 +296,8 @@
       "city": "Albuquerque",
       "state": "NM",
       "phone": "(505) 872-6150",
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 1073,
       "lat": 35.1043,
       "lng": -106.5666,
       "shopId": "4373",
@@ -441,7 +441,7 @@
       "state": "NM",
       "phone": "(505) 293-1249",
       "rating": 4.8,
-      "ratingCount": 711,
+      "ratingCount": 710,
       "lat": 35.1437,
       "lng": -106.5163,
       "shopId": "4379",
