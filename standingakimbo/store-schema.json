@@ -146,7 +146,7 @@
     "url": "https://standingakimbo.com/stores/fort-collins/",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "5740 S College Ave Unit A",
+      "streetAddress": "5740 S College Ave Unit C 2",
       "addressLocality": "Fort Collins",
       "addressRegion": "CO",
       "addressCountry": "US"
