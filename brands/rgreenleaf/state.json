@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:09:10.589Z",
+  "generatedAt": "2026-08-08T15:46:24.956Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 197
+      "ratingCount": 200
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 497
+      "ratingCount": 498
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -398,7 +398,7 @@
       ],
       "phone": "505-962-2155",
       "rating": 4.7,
-      "ratingCount": 204
+      "ratingCount": 203
     },
     "dispensary-albuquerque-midtown": {
       "name": "Midtown",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1185
+      "ratingCount": 1186
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
