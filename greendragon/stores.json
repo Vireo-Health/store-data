@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:04:16.086Z",
+  "generatedAt": "2026-08-08T15:47:29.669Z",
   "stores": [
     {
       "slug": "thornton-premium-marijuana-dispensary",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1115,
+      "ratingCount": 1116,
       "lat": 39.9289,
       "lng": -104.898,
       "shopId": "413",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 369,
+      "ratingCount": 370,
       "lat": 40.5761,
       "lng": -105.076,
       "shopId": "6993",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1093,
+      "ratingCount": 1096,
       "lat": 39.7713,
       "lng": -105.0534,
       "shopId": "412",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 548,
+      "ratingCount": 550,
       "lat": 39.7038,
       "lng": -105.0003,
       "shopId": "456",
