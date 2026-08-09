@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:46:38.340Z",
+  "generatedAt": "2026-08-09T15:47:03.050Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3019
+      "ratingCount": 3018
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1284
+      "ratingCount": 1285
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5214
+      "ratingCount": 5215
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7612
+      "ratingCount": 7613
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3681
+      "ratingCount": 3683
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2122
+      "ratingCount": 2123
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2555
+      "ratingCount": 2556
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3728
+      "ratingCount": 3730
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1649
+      "ratingCount": 1650
     }
   }
 }
