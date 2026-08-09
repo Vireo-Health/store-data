@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:46:24.956Z",
+  "generatedAt": "2026-08-09T15:46:51.863Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 200
+      "ratingCount": 199
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 549
+      "ratingCount": 547
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 498
+      "ratingCount": 497
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 197
+      "ratingCount": 196
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 512
+      "ratingCount": 511
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -398,7 +398,7 @@
       ],
       "phone": "505-962-2155",
       "rating": 4.7,
-      "ratingCount": 203
+      "ratingCount": 201
     },
     "dispensary-albuquerque-midtown": {
       "name": "Midtown",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1186
+      "ratingCount": 1184
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 466
+      "ratingCount": 463
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -625,8 +625,8 @@
         ]
       ],
       "phone": "505-962-2161",
-      "rating": 4.4,
-      "ratingCount": 194
+      "rating": 4.3,
+      "ratingCount": 192
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
@@ -683,7 +683,7 @@
       ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 891
+      "ratingCount": 890
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 321
+      "ratingCount": 320
     }
   }
 }
