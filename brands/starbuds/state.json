@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:47:15.387Z",
+  "generatedAt": "2026-08-10T16:09:51.960Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2809
+      "ratingCount": 2810
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2572
+      "ratingCount": 2575
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11416
+      "ratingCount": 11417
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1790
+      "ratingCount": 1791
     }
   }
 }
