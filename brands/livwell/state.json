@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:09:30.991Z",
+  "generatedAt": "2026-08-11T02:34:44.977Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2123
+      "ratingCount": 2124
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -919,29 +919,29 @@
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [

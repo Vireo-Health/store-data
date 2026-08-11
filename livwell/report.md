@@ -1,11 +1,10 @@
-# Store hours sync — 2026-08-10T16:09:30.991Z
+# Store hours sync — 2026-08-11T02:34:44.977Z
 
 - checked: 17
-- applied: 0
-- held for review: 1
+- applied: 1
+- held for review: 0
 - errors: 0
 
-## Held for review
-- **uptown-denver-dispensary** — a time moves by 26h (limit 4h)
-  - proposed: `Mon-Wed 8am-10pm, Thu-Sat 8am-12am, Sun 8am-10pm`
+## Applied
+- Uptown: Daily 8am-12am  ->  Mon-Wed 8am-10pm, Thu-Sat 8am-12am, Sun 8am-10pm  [Sun, Mon, Tue, Wed]
 

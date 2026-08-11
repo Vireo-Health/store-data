@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:09:30.991Z",
+  "generatedAt": "2026-08-11T02:34:44.977Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -945,7 +945,7 @@
       "state": "CO",
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2123,
+      "ratingCount": 2124,
       "lat": 38.3475258,
       "lng": -104.6212597,
       "shopId": "6962",
@@ -1166,35 +1166,35 @@
       "lng": -104.9783113,
       "shopId": "6956",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Mon-Wed 8am-10pm, Thu-Sat 8am-12am, Sun 8am-10pm",
+      "hoursDotted": "Mon–Wed 8am–10pm · Thu–Sat 8am–12am · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1320,
+            "closesNextDay": false
           }
         ],
         [
