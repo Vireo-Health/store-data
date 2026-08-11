@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:34:44.977Z",
+  "generatedAt": "2026-08-11T16:10:31.452Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7613
+      "ratingCount": 7614
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2404
+      "ratingCount": 2405
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
