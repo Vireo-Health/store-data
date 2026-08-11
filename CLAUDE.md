@@ -108,8 +108,11 @@ README.md has the step list. What it doesn't say:
   Place ID `ChIJNb7BIST53YYReAfFj_8WD6I` already resolved; page copy for it is
   archived in R.Greenleaf's Webflow Stores collection (item, not deleted).
 - **starbuds**: onboarded 2026-08-05. 17 CO storefronts; site repo
-  Coastal-Division/schwazze-SB holds the embeds; live domain
-  www.starbuds.us. Three locations (Lakeside, Lakewood, Manitou Springs)
+  Coastal-Division/schwazze-SB holds the embeds. Canonical domain is
+  starbudscolorado.com — that is what the Google listings point at and what
+  `site.org.url` must stay set to (starbuds.us also resolves, but pointing
+  the config there made the listing audit flag all 17 stores; corrected
+  2026-08-10). Three locations (Lakeside, Lakewood, Manitou Springs)
   keep separate med + rec CMS items sharing one storefront and Google
   listing — the rec item is `webflowItemId`, the med item rides along via
   `alsoWebflowItemIds` so both pages get the same patch, and both appear as
