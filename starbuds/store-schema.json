@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Aurora Quincy Ave",
-    "url": "https://www.starbuds.us/stores/south-aurora-quincy-ave/",
+    "url": "https://starbudscolorado.com/stores/south-aurora-quincy-ave/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "19151 E Quincy Ave",
@@ -38,7 +38,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Aurora Southeast",
-    "url": "https://www.starbuds.us/stores/aurora-dispensary/",
+    "url": "https://starbudscolorado.com/stores/aurora-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "14655 E Arapahoe Rd",
@@ -73,7 +73,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Glendale",
-    "url": "https://www.starbuds.us/stores/glendale-dispensary/",
+    "url": "https://starbudscolorado.com/stores/glendale-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "492 S Colorado Blvd",
@@ -108,7 +108,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Highlands",
-    "url": "https://www.starbuds.us/stores/highlands-dispensary/",
+    "url": "https://starbudscolorado.com/stores/highlands-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "2675 W 38th Ave",
@@ -143,7 +143,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Lakeside",
-    "url": "https://www.starbuds.us/stores/lakeside-dispensary/",
+    "url": "https://starbudscolorado.com/stores/lakeside-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "5238 W 44th Ave",
@@ -178,7 +178,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Lakewood",
-    "url": "https://www.starbuds.us/stores/lakewood-dispensary/",
+    "url": "https://starbudscolorado.com/stores/lakewood-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "265 S Wadsworth Blvd",
@@ -213,7 +213,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds North Denver",
-    "url": "https://www.starbuds.us/stores/north-denver-dispensary/",
+    "url": "https://starbudscolorado.com/stores/north-denver-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "4690 Brighton Blvd",
@@ -248,7 +248,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Thornton",
-    "url": "https://www.starbuds.us/stores/thornton-premium-marijuana-dispensary/",
+    "url": "https://starbudscolorado.com/stores/thornton-premium-marijuana-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "5823 E 128th Ave",
@@ -283,7 +283,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Fort Collins",
-    "url": "https://www.starbuds.us/stores/fort-collins-dispensary/",
+    "url": "https://starbudscolorado.com/stores/fort-collins-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "5740 S College Ave Unit A",
@@ -318,7 +318,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Garden City",
-    "url": "https://www.starbuds.us/stores/garden-city-dispensary/",
+    "url": "https://starbudscolorado.com/stores/garden-city-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "2502 8th Ave",
@@ -353,7 +353,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Longmont",
-    "url": "https://www.starbuds.us/stores/longmont-dispensary/",
+    "url": "https://starbudscolorado.com/stores/longmont-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "7521 Ute Hwy #66",
@@ -388,7 +388,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Louisville",
-    "url": "https://www.starbuds.us/stores/louisville-dispensary/",
+    "url": "https://starbudscolorado.com/stores/louisville-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "1156 W Dillon Rd",
@@ -423,7 +423,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Niwot",
-    "url": "https://www.starbuds.us/stores/niwot-dispensary/",
+    "url": "https://starbudscolorado.com/stores/niwot-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "6924 N 79th St",
@@ -458,7 +458,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Colorado Springs",
-    "url": "https://www.starbuds.us/stores/colorado-springs-dispensary/",
+    "url": "https://starbudscolorado.com/stores/colorado-springs-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "510 E Pikes Peak Ave",
@@ -493,7 +493,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Manitou Springs",
-    "url": "https://www.starbuds.us/stores/manitou-springs-dispensary/",
+    "url": "https://starbudscolorado.com/stores/manitou-springs-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "27 Manitou Ave",
@@ -528,7 +528,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Pueblo",
-    "url": "https://www.starbuds.us/stores/pueblo-dispensary/",
+    "url": "https://starbudscolorado.com/stores/pueblo-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "4305 Thatcher Ave",
@@ -570,7 +570,7 @@
     "@context": "https://schema.org",
     "@type": "Store",
     "name": "Star Buds Pueblo West",
-    "url": "https://www.starbuds.us/stores/pueblo-west-dispensary/",
+    "url": "https://starbudscolorado.com/stores/pueblo-west-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "428 S McCulloch Blvd",
