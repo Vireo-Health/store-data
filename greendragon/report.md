@@ -1,9 +1,12 @@
-# Store hours sync — 2026-08-11T16:11:17.249Z
+# Store hours sync — 2026-08-12T16:15:22.313Z
 
 - checked: 13
-- applied: 0
+- applied: 1
 - held for review: 0
 - errors: 0
+
+## Applied
+- Aurora Quincy Ave: Daily 8am-11:45pm  ->  Daily 8am-10pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.

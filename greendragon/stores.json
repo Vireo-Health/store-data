@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:11:17.249Z",
+  "generatedAt": "2026-08-12T16:15:22.313Z",
   "stores": [
     {
       "slug": "thornton-premium-marijuana-dispensary",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1123,
+      "ratingCount": 1125,
       "lat": 39.9289,
       "lng": -104.898,
       "shopId": "413",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 370,
+      "ratingCount": 372,
       "lat": 40.5761,
       "lng": -105.076,
       "shopId": "6993",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 610,
+      "ratingCount": 613,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1097,
+      "ratingCount": 1102,
       "lat": 39.7713,
       "lng": -105.0534,
       "shopId": "412",
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 562,
+      "ratingCount": 563,
       "lat": 39.74,
       "lng": -104.9272,
       "shopId": "459",
@@ -585,7 +585,7 @@
       "state": "CO",
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 620,
+      "ratingCount": 629,
       "lat": 39.5076,
       "lng": -106.0523,
       "shopId": "411",
@@ -734,55 +734,55 @@
       "lng": -104.7647,
       "shopId": "6939",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11:45pm",
-      "hoursDotted": "Daily 8am–11:45pm",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -873,7 +873,7 @@
       "state": "CO",
       "phone": "970-422-1422",
       "rating": 4.6,
-      "ratingCount": 233,
+      "ratingCount": 232,
       "lat": 37.9375,
       "lng": -107.8123,
       "shopId": "460",

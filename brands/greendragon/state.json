@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:11:17.249Z",
+  "generatedAt": "2026-08-12T16:15:22.313Z",
   "stores": {
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1123
+      "ratingCount": 1125
     },
     "dispensary-fort-collins-college": {
       "name": "Fort Collins College Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 370
+      "ratingCount": 372
     },
     "fort-collins-smithfield-drive": {
       "name": "East Fort Collins Smithfield Dr",
@@ -170,7 +170,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 610
+      "ratingCount": 613
     },
     "edgewater": {
       "name": "Edgewater",
@@ -284,7 +284,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1097
+      "ratingCount": 1102
     },
     "east-denver-colfax-ave": {
       "name": "Denver Colfax",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 562
+      "ratingCount": 563
     },
     "dispensary-denver-mile-high": {
       "name": "Denver Mile High",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 620
+      "ratingCount": 629
     },
     "boulder": {
       "name": "Boulder 30th St",
@@ -577,49 +577,49 @@
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -740,7 +740,7 @@
       ],
       "phone": "970-422-1422",
       "rating": 4.6,
-      "ratingCount": 233
+      "ratingCount": 232
     }
   }
 }
