@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:10:43.510Z",
+  "generatedAt": "2026-08-12T16:09:43.619Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -14,55 +14,55 @@
       "lng": -104.76479,
       "shopId": "6939",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11:45pm",
-      "hoursDotted": "Daily 8am–11:45pm",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7548,
+      "ratingCount": 7549,
       "lat": 39.59504,
       "lng": -104.79133,
       "shopId": "506",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2810,
+      "ratingCount": 2811,
       "lat": 39.70778,
       "lng": -104.94019,
       "shopId": "1767",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2575,
+      "ratingCount": 2574,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2575,
+      "ratingCount": 2574,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -585,7 +585,7 @@
       "state": "CO",
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 2990,
+      "ratingCount": 2989,
       "lat": 39.78171,
       "lng": -104.96656,
       "shopId": "455",
@@ -657,7 +657,7 @@
       "state": "CO",
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1123,
+      "ratingCount": 1125,
       "lat": 39.92844,
       "lng": -104.92636,
       "shopId": "413",
@@ -1161,7 +1161,7 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11418,
+      "ratingCount": 11421,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
@@ -1233,7 +1233,7 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11418,
+      "ratingCount": 11421,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
