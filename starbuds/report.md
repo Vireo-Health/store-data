@@ -1,4 +1,4 @@
-# Store hours sync — 2026-08-12T16:09:43.619Z
+# Store hours sync — 2026-08-13T16:10:16.694Z
 
 - checked: 17
 - applied: 1
@@ -6,5 +6,5 @@
 - errors: 0
 
 ## Applied
-- Aurora Quincy Ave: Daily 8am-11:45pm  ->  Daily 8am-10pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+- Lakewood: Daily 8am-9:05pm  ->  Daily 8am-9:50pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
