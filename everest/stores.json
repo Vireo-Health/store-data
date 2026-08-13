@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:15:46.899Z",
+  "generatedAt": "2026-08-13T16:11:07.080Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -9,7 +9,7 @@
       "state": "NM",
       "phone": "575-332-9037",
       "rating": 4.5,
-      "ratingCount": 559,
+      "ratingCount": 558,
       "lat": 31.7995,
       "lng": -106.582,
       "shopId": "4383",
@@ -158,8 +158,8 @@
       "lng": -106.723,
       "shopId": "5918",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Sat 8am-10pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Sat 8am–10pm · Sun 8am–9pm",
       "week": [
         [
           {
@@ -171,42 +171,42 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -230,54 +230,54 @@
       "lng": -106.7031,
       "shopId": "4378",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-10pm",
-      "hoursDotted": "Daily 8am–10pm",
+      "hours": "Mon-Sat 9am-10pm, Sun 9am-9pm",
+      "hoursDotted": "Mon–Sat 9am–10pm · Sun 9am–9pm",
       "week": [
         [
           {
-            "open": 480,
+            "open": 540,
+            "close": 1260,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
+            "open": 540,
             "close": 1320,
             "closesNextDay": false
           }
@@ -369,60 +369,60 @@
       "state": "NM",
       "phone": "(505) 836-8620",
       "rating": 4.8,
-      "ratingCount": 679,
+      "ratingCount": 680,
       "lat": 35.0857,
       "lng": -106.7095,
       "shopId": "4382",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 8am-9pm, Fri-Sat 8am-10pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Thu 8am–9pm · Fri–Sat 8am–10pm · Sun 8am–9pm",
+      "hours": "Daily 9am-9pm",
+      "hoursDotted": "Daily 9am–9pm",
       "week": [
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 540,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1320,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1320,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ]

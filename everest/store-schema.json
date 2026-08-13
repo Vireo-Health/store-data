@@ -106,7 +106,7 @@
           "Saturday"
         ],
         "opens": "08:00",
-        "closes": "23:00"
+        "closes": "22:00"
       },
       {
         "@type": "OpeningHoursSpecification",
@@ -145,11 +145,18 @@
           "Wednesday",
           "Thursday",
           "Friday",
-          "Saturday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
           "Sunday"
         ],
-        "opens": "08:00",
-        "closes": "22:00"
+        "opens": "09:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -220,26 +227,12 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday"
-        ],
-        "opens": "08:00",
-        "closes": "21:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Thursday",
           "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "22:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Saturday",
           "Sunday"
         ],
-        "opens": "08:00",
+        "opens": "09:00",
         "closes": "21:00"
       }
     ]
