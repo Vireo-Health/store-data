@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:15:22.313Z",
+  "generatedAt": "2026-08-13T16:10:49.406Z",
   "stores": {
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1125
+      "ratingCount": 1131
     },
     "dispensary-fort-collins-college": {
       "name": "Fort Collins College Ave",
@@ -112,8 +112,8 @@
         ]
       ],
       "phone": "970-225-5421",
-      "rating": 4.5,
-      "ratingCount": 372
+      "rating": 4.6,
+      "ratingCount": 377
     },
     "fort-collins-smithfield-drive": {
       "name": "East Fort Collins Smithfield Dr",
@@ -170,7 +170,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 613
+      "ratingCount": 615
     },
     "edgewater": {
       "name": "Edgewater",
@@ -284,64 +284,64 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1102
+      "ratingCount": 1106
     },
     "east-denver-colfax-ave": {
       "name": "Denver Colfax",
       "week": [
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 600,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 563
+      "ratingCount": 564
     },
     "dispensary-denver-mile-high": {
       "name": "Denver Mile High",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 629
+      "ratingCount": 635
     },
     "boulder": {
       "name": "Boulder 30th St",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 400-1451",
       "rating": 4.4,
-      "ratingCount": 1082
+      "ratingCount": 1084
     },
     "aspen": {
       "name": "Aspen",
