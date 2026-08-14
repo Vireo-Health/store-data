@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:10:49.406Z",
+  "generatedAt": "2026-08-14T16:07:10.249Z",
   "stores": {
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1131
+      "ratingCount": 1135
     },
     "dispensary-fort-collins-college": {
       "name": "Fort Collins College Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 377
+      "ratingCount": 378
     },
     "fort-collins-smithfield-drive": {
       "name": "East Fort Collins Smithfield Dr",
@@ -170,7 +170,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 615
+      "ratingCount": 616
     },
     "edgewater": {
       "name": "Edgewater",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 564
+      "ratingCount": 566
     },
     "dispensary-denver-mile-high": {
       "name": "Denver Mile High",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 635
+      "ratingCount": 641
     },
     "boulder": {
       "name": "Boulder 30th St",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 400-1451",
       "rating": 4.4,
-      "ratingCount": 1084
+      "ratingCount": 1085
     },
     "aspen": {
       "name": "Aspen",

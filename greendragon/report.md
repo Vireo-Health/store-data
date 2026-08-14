@@ -1,12 +1,9 @@
-# Store hours sync — 2026-08-13T16:10:49.406Z
+# Store hours sync — 2026-08-14T16:07:10.249Z
 
 - checked: 13
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Denver Colfax: Daily 9am-11pm  ->  Daily 10am-10pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
