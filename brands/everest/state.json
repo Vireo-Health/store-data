@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:11:07.080Z",
+  "generatedAt": "2026-08-14T16:07:26.307Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -341,7 +341,7 @@
       ],
       "phone": "(505) 836-8620",
       "rating": 4.8,
-      "ratingCount": 680
+      "ratingCount": 681
     },
     "far-northeast-heights": {
       "name": "Far Northeast Heights",
