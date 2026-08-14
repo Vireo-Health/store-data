@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:11:18.408Z",
+  "generatedAt": "2026-08-14T16:07:36.208Z",
   "stores": [
     {
       "slug": "denver",
@@ -225,7 +225,7 @@
       "state": "CO",
       "phone": "970-515-5839",
       "rating": 4.7,
-      "ratingCount": 676,
+      "ratingCount": 677,
       "lat": 40.39714,
       "lng": -104.69101,
       "shopId": "5365",
