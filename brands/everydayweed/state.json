@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:10:30.203Z",
+  "generatedAt": "2026-08-14T16:06:53.071Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2240
+      "ratingCount": 2241
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5696
+      "ratingCount": 5697
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 967
+      "ratingCount": 968
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 635
+      "ratingCount": 641
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins College Ave",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 377
+      "ratingCount": 378
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -683,7 +683,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 615
+      "ratingCount": 616
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
