@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:06:12.032Z",
+  "generatedAt": "2026-08-15T15:35:13.641Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 547
+      "ratingCount": 549
     },
     "dispensary-grants": {
       "name": "Grants",

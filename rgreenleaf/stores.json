@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:06:12.032Z",
+  "generatedAt": "2026-08-15T15:35:13.641Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -297,7 +297,7 @@
       "state": "NM",
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 547,
+      "ratingCount": 549,
       "lat": 35.1989,
       "lng": -106.6267,
       "shopId": "cottonwood",
@@ -369,7 +369,7 @@
       "state": "NM",
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 547,
+      "ratingCount": 549,
       "lat": 35.1989,
       "lng": -106.6267,
       "shopId": "cottonwood",
