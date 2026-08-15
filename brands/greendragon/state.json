@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:07:10.249Z",
+  "generatedAt": "2026-08-15T15:36:12.735Z",
   "stores": {
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1135
+      "ratingCount": 1148
     },
     "dispensary-fort-collins-college": {
       "name": "Fort Collins College Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 378
+      "ratingCount": 382
     },
     "fort-collins-smithfield-drive": {
       "name": "East Fort Collins Smithfield Dr",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 566
+      "ratingCount": 567
     },
     "dispensary-denver-mile-high": {
       "name": "Denver Mile High",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 641
+      "ratingCount": 642
     },
     "boulder": {
       "name": "Boulder 30th St",
@@ -568,8 +568,8 @@
         ]
       ],
       "phone": "720-446-5490",
-      "rating": 4.7,
-      "ratingCount": 178
+      "rating": 4.8,
+      "ratingCount": 180
     },
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
