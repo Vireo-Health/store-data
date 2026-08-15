@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:06:39.728Z",
+  "generatedAt": "2026-08-15T15:35:47.764Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2813
+      "ratingCount": 2814
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1137
+      "ratingCount": 1138
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1135
+      "ratingCount": 1148
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1286
+      "ratingCount": 1287
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11425
+      "ratingCount": 11427
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
