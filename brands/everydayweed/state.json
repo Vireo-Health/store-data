@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:35:58.608Z",
+  "generatedAt": "2026-08-16T15:36:22.216Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2241
+      "ratingCount": 2242
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 531
+      "ratingCount": 533
     },
     "boulder-dispensary": {
       "name": "Boulder",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 382
+      "ratingCount": 384
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -683,7 +683,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 616
+      "ratingCount": 617
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
