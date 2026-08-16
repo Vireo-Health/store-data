@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:35:47.764Z",
+  "generatedAt": "2026-08-16T15:36:09.546Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1138
+      "ratingCount": 1139
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2575
+      "ratingCount": 2576
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 2989
+      "ratingCount": 2994
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1148
+      "ratingCount": 1154
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -683,7 +683,7 @@
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
-      "ratingCount": 1720
+      "ratingCount": 1719
     },
     "niwot-dispensary": {
       "name": "Niwot",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 952
+      "ratingCount": 953
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1791
+      "ratingCount": 1792
     }
   }
 }
