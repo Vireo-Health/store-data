@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:36:12.735Z",
+  "generatedAt": "2026-08-16T15:36:36.198Z",
   "stores": {
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.4,
-      "ratingCount": 1148
+      "ratingCount": 1154
     },
     "dispensary-fort-collins-college": {
       "name": "Fort Collins College Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 382
+      "ratingCount": 384
     },
     "fort-collins-smithfield-drive": {
       "name": "East Fort Collins Smithfield Dr",
@@ -170,57 +170,57 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 616
+      "ratingCount": 617
     },
     "edgewater": {
       "name": "Edgewater",
       "week": [
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1425,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -284,7 +284,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1106
+      "ratingCount": 1108
     },
     "east-denver-colfax-ave": {
       "name": "Denver Colfax",
