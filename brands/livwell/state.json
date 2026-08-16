@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:35:34.057Z",
+  "generatedAt": "2026-08-16T15:35:53.025Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5218
+      "ratingCount": 5217
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7614
+      "ratingCount": 7616
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1795
+      "ratingCount": 1796
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3739
+      "ratingCount": 3742
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1653
+      "ratingCount": 1654
     }
   }
 }
