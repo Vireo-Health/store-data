@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:41:18.666Z",
+  "generatedAt": "2026-08-17T23:52:41.952Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -374,55 +374,55 @@
       "lng": -106.7095,
       "shopId": "4382",
       "timezone": "America/Denver",
-      "hours": "Daily 9am-9pm",
-      "hoursDotted": "Daily 9am–9pm",
+      "hours": "Mon-Thu 8am-9pm, Fri-Sat 8am-10pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Thu 8am–9pm · Fri–Sat 8am–10pm · Sun 8am–9pm",
       "week": [
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
