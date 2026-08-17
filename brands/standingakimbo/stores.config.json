@@ -40,6 +40,10 @@
         "Star Buds"
       ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Colorado Springs storefront (510 E Pikes Peak); a dedicated Standing Akimbo listing may not exist yet, so the listing may carry the rec brand.",
+      "auditWebsiteAllow": [
+        "starbudscolorado.com"
+      ],
+      "auditWebsiteAllowReason": "Shares the Star Buds Colorado Springs listing — the med counter has no listing of its own and keeps the host storefront's hours, so the listing is the right source and legitimately carries the host's domain.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Colorado Springs 510 E Pikes Peak Ave, Colorado Springs, CO 80903",
       "timezone": "America/Denver",
@@ -63,6 +67,10 @@
         "Star Buds"
       ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Lakewood storefront (265 S Wadsworth) — same storefront the starbuds roster syncs as a med/rec pair; the listing may carry the rec brand.",
+      "auditWebsiteAllow": [
+        "starbudscolorado.com"
+      ],
+      "auditWebsiteAllowReason": "Shares the Star Buds Lakewood listing — the med counter has no listing of its own and keeps the host storefront's hours, so the listing is the right source and legitimately carries the host's domain.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Lakewood 265 S Wadsworth Blvd, Lakewood, CO 80226",
       "timezone": "America/Denver",
@@ -86,6 +94,10 @@
         "Star Buds"
       ],
       "resolveNameAllowReason": "Medical counter at the Star Buds Garden City storefront (2502 8th Ave); the listing may carry the rec brand.",
+      "auditWebsiteAllow": [
+        "starbudscolorado.com"
+      ],
+      "auditWebsiteAllowReason": "Shares the Star Buds Garden City listing — the med counter has no listing of its own and keeps the host storefront's hours, so the listing is the right source and legitimately carries the host's domain.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Garden City 2502 8th Ave, Garden City, CO 80631",
       "timezone": "America/Denver",
@@ -132,6 +144,10 @@
         "Every Day Weed"
       ],
       "resolveNameAllowReason": "Medical counter at the Every Day Weed Brighton storefront (560 N 7th Ave); no dedicated Standing Akimbo listing found yet, so the listing may carry the rec brand.",
+      "auditWebsiteAllow": [
+        "everydayweed.com"
+      ],
+      "auditWebsiteAllowReason": "Shares the Every Day Weed Brighton listing — the med counter has no listing of its own and keeps the host storefront's hours, so the listing is the right source and legitimately carries the host's domain.",
       "googleBusinessLink": null,
       "googleSearchQuery": "Standing Akimbo Brighton 560 N 7th Ave, Brighton, CO 80601",
       "timezone": "America/Denver",

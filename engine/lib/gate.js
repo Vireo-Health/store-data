@@ -188,7 +188,7 @@ function evaluatePhone({ name, before, after }) {
  * fixing (stale URL after a brand conversion, a hijacked listing, or a
  * missing link) and that fix happens in Google Business Profile, not here.
  */
-function auditWebsite({ websiteUri, expectedHost }) {
+function auditWebsite({ websiteUri, expectedHost, allowHosts = [] }) {
   if (!expectedHost) return { ok: true, reasons: [] };
   if (!websiteUri) return { ok: false, reasons: ['listing has no website set'] };
   let host;
@@ -197,7 +197,16 @@ function auditWebsite({ websiteUri, expectedHost }) {
   } catch {
     return { ok: false, reasons: [`listing website is not a valid URL: ${websiteUri}`] };
   }
-  if (host === expectedHost || host.endsWith(`.${expectedHost}`)) {
+  // allowHosts covers a store with no listing of its own — a medical counter
+  // or popup trading inside another brand's dispensary. It shares the host
+  // storefront's listing and its hours, so the listing is the right source;
+  // it just carries the host's domain. Declared per store as
+  // auditWebsiteAllow + auditWebsiteAllowReason, never brand-wide: a whole
+  // brand mismatching means its own site.org.url is wrong.
+  const accepted = [expectedHost, ...allowHosts].map((h) =>
+    String(h).trim().toLowerCase().replace(/^www\./, '')
+  );
+  if (accepted.some((a) => a && (host === a || host.endsWith(`.${a}`)))) {
     return { ok: true, reasons: [] };
   }
   return {

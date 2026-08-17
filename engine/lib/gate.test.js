@@ -250,3 +250,30 @@ test('no expected host disables the audit', () => {
   const r = gate.auditWebsite({ websiteUri: 'https://anything.example', expectedHost: null });
   assert.strictEqual(r.ok, true);
 });
+
+test('a declared host listing passes the audit', () => {
+  // Standing Akimbo's med counters trade inside another brand's dispensary and
+  // share its listing, so the listing carries the host's domain by design.
+  for (const uri of [
+    'https://starbudscolorado.com/lakewood',
+    'https://www.starbudscolorado.com/',
+    'https://shop.starbudscolorado.com/menu',
+  ]) {
+    const r = gate.auditWebsite({
+      websiteUri: uri,
+      expectedHost: 'standingakimbo.com',
+      allowHosts: ['starbudscolorado.com'],
+    });
+    assert.strictEqual(r.ok, true, uri);
+  }
+});
+
+test('a declared host does not whitelist every other domain', () => {
+  const r = gate.auditWebsite({
+    websiteUri: 'https://everydayweed.com/brighton',
+    expectedHost: 'standingakimbo.com',
+    allowHosts: ['starbudscolorado.com'],
+  });
+  assert.strictEqual(r.ok, false);
+  assert.match(r.reasons.join(' '), /points at everydayweed\.com/);
+});

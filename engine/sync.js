@@ -153,7 +153,11 @@ async function main() {
     const rating = place.rating != null ? place.rating : beforeRating;
     const ratingCount = place.ratingCount != null ? place.ratingCount : beforeRatingCount;
 
-    const audit = gate.auditWebsite({ websiteUri: place.websiteUri, expectedHost });
+    const audit = gate.auditWebsite({
+      websiteUri: place.websiteUri,
+      expectedHost,
+      allowHosts: store.auditWebsiteAllow || [],
+    });
     if (!audit.ok) audited.push({ slug: store.slug, reasons: audit.reasons });
 
     // Hours and phone are gated independently: a held phone never blocks a

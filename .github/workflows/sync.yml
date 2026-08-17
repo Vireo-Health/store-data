@@ -151,13 +151,42 @@ jobs:
           # Reporting must never fail the job: the sync itself already
           # succeeded, and the report is in the run summary regardless.
           set +e
-          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
-            --json number --jq '.[0].number // empty' 2>/dev/null)
+
+          # GitHub's API returned 503s mid-run on 2026-08-17, which dropped
+          # three brands' reports and duplicated a fourth. Ride out the blip.
+          retry() {
+            for attempt in 1 2 3; do
+              if "$@" >"$RUNNER_TEMP/retry.out" 2>"$RUNNER_TEMP/retry.err"; then
+                cat "$RUNNER_TEMP/retry.out"
+                return 0
+              fi
+              echo "attempt $attempt failed: $(cat "$RUNNER_TEMP/retry.err")" >&2
+              sleep $((attempt * 5))
+            done
+            return 1
+          }
+
+          # Plain list, not `--search`: the search index is eventually
+          # consistent and served an empty result during the outage, which read
+          # as "no issue yet" and opened a duplicate. This hits the issues
+          # endpoint directly. Titles share a prefix across brands, so match
+          # exactly, and take the oldest so a brand's history stays in one
+          # thread even if duplicates already exist.
+          LIST=$(retry gh issue list --state open --limit 100 --json number,title)
+          if [ $? -ne 0 ]; then
+            echo "::warning::Could not look up the held-changes issue for ${{ matrix.brand }}." \
+                 "Not filing a report rather than risk a duplicate." \
+                 "The full report is in the run summary."
+            exit 0
+          fi
+          EXISTING=$(printf '%s' "$LIST" \
+            | jq -r --arg t "$TITLE" '[.[] | select(.title == $t) | .number] | min // empty')
+
           if [ -n "$EXISTING" ]; then
-            gh issue comment "$EXISTING" --body-file "$RUNNER_TEMP/report.md" \
+            retry gh issue comment "$EXISTING" --body-file "$RUNNER_TEMP/report.md" >/dev/null \
               && echo "Commented on issue #$EXISTING"
           else
-            gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/report.md"
+            retry gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/report.md"
           fi
           if [ $? -ne 0 ]; then
             echo "::warning::Could not file the held-changes report." \

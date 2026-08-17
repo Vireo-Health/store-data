@@ -87,4 +87,45 @@ for (const brand of brands) {
       `expected published dir ${brand}/ at the repo root`
     );
   });
+
+  test(`${brand}: a whitelisted listing domain says why`, () => {
+    for (const store of config.stores.filter((s) => (s.auditWebsiteAllow || []).length > 0)) {
+      assert.ok(
+        store.auditWebsiteAllowReason,
+        `${store.slug} whitelists a listing domain without a reason`
+      );
+    }
+  });
 }
+
+test('a Place ID claimed by two brands is declared', () => {
+  // Six Green Dragon stores rode a brand transition into other brands' rosters
+  // and kept syncing to both sites off one listing until 2026-08-17. The
+  // per-brand uniqueness check above cannot see that. Sharing is legitimate
+  // only for a store trading inside another brand's storefront, which declares
+  // the host's domain via auditWebsiteAllow.
+  const claims = new Map();
+  for (const brand of brands) {
+    const config = JSON.parse(
+      fs.readFileSync(path.join(BRANDS_DIR, brand, 'stores.config.json'), 'utf8')
+    );
+    for (const store of config.stores) {
+      if (!store.placeId) continue;
+      if (!claims.has(store.placeId)) claims.set(store.placeId, []);
+      claims.get(store.placeId).push({ brand, store });
+    }
+  }
+
+  for (const [placeId, claimants] of claims) {
+    if (claimants.length < 2) continue;
+    const where = claimants.map((c) => `${c.brand}/${c.store.slug}`).join(', ');
+    const declared = claimants.some(
+      (c) => (c.store.auditWebsiteAllow || []).length > 0 && c.store.auditWebsiteAllowReason
+    );
+    assert.ok(
+      declared,
+      `${placeId} is claimed by ${where} — one roster is wrong, or the shared ` +
+        'listing must be declared with auditWebsiteAllow + auditWebsiteAllowReason'
+    );
+  }
+});

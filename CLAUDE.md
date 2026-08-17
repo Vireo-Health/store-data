@@ -79,7 +79,16 @@ README.md has the step list. What it doesn't say:
   forbids marking up Google-sourced ratings — see the comment in generate.js).
   `websiteUri` is audit-only (`gate.auditWebsite` vs the `site.org.url`
   host): findings land in the report/issue via exit code 2 and re-alert every
-  run until the listing is fixed in Google Business Profile.
+  run until they are resolved. The report says to fix the listing in Google
+  Business Profile, but that is only ever right for a store no other brand
+  claims — **check for a duplicate `placeId` across all
+  `brands/*/stores.config.json` first**. Google is the source of truth for
+  ownership as well as hours: the listing's website identifies who runs the
+  store, and the audit fires only on the brand whose domain does NOT match, so
+  the flagged side is the one whose roster is wrong. Editing that listing's URL
+  to match would corrupt the real owner's listing. A colliding `placeId` also
+  bills the fetch twice a day. All-stores-flagged means the opposite — the
+  brand's own `site.org.url` is wrong (see the starbuds note).
 - An all-held/all-error run writes NO artifacts (empty-roster guard) — good
   data is never replaced by an empty roster.
 - Cadence is daily as of 2026-07-31 (Weston accepted the cost). The fetch
@@ -130,7 +139,29 @@ README.md has the step list. What it doesn't say:
   stores converted to Everyday Weed (Aurora North, Boulder, Brighton,
   Federal Heights, Pecos–Hwy 36, DU) still exist as CMS items but are
   deliberately NOT in the roster.
-- **greendragon** (future): larger roster. Daily cadence means each added
-  store costs ~$0.61/month once the portfolio passes ~32 stores — the full
-  ~100-store portfolio lands around $41/month, which is approved. No cadence
-  change needed when onboarding.
+- **standingakimbo**: 6 stores, and the one brand where sharing another
+  brand's Google listing is CORRECT. It is a medical brand: four of the six
+  (Colorado Springs, Lakewood, Garden City inside Star Buds; Brighton inside
+  Every Day Weed) are med counters or popups trading inside another brand's
+  dispensary, with no listing of their own. They keep the host storefront's
+  hours, so the host listing is the right source — it just carries the host's
+  domain. Each declares `auditWebsiteAllow` + `auditWebsiteAllowReason` so the
+  listing audit stays quiet (added 2026-08-17; before that they re-alerted
+  every run). Do NOT "fix" those listings in Google Business Profile, and do
+  not set `syncFromGoogle: false` on them — that would freeze their hours at
+  whatever state holds and keep republishing it over CMS edits.
+- **greendragon**: 6 storefronts. Onboarded with 13; seven have since left the
+  brand and were removed from the roster 2026-08-17. Six of them carried
+  `resolveNameAllow` for another brand "during the transition" and the
+  transition settled — Fort Collins College, Fort Collins Smithfield,
+  Breckenridge and Boulder to Every Day Weed; Thornton and Aurora Quincy to
+  Star Buds. The seventh, Denver Colfax (5130 E Colfax), had resolved cleanly
+  as Green Dragon at onboarding and converted later; it is the one case the
+  duplicate-`placeId` check could not have caught, and the listing-website
+  audit was the only signal. **It still needs an Every Day Weed roster entry
+  and CMS item — until then nobody syncs 5130 E Colfax.** All seven stay live
+  on the brand that owns them and their Green Dragon CMS items still exist. Do
+  not re-add them. Daily cadence means
+  each added store costs ~$0.61/month once the portfolio passes ~32 stores —
+  the full ~100-store portfolio lands around $41/month, which is approved. No
+  cadence change needed when onboarding.
