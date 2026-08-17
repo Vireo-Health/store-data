@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:08.528Z",
+  "generatedAt": "2026-08-17T23:51:28.615Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -56,14 +56,14 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -128,14 +128,14 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -734,13 +734,13 @@
       "lng": -106.7637,
       "shopId": "las-cruces",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
-      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
+      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -775,15 +775,15 @@
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ]
       ],
@@ -806,13 +806,13 @@
       "lng": -106.7637,
       "shopId": "las-cruces",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
-      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
+      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -847,15 +847,15 @@
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ]
       ],
@@ -1737,7 +1737,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 320,
+      "ratingCount": 321,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
@@ -1809,7 +1809,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 320,
+      "ratingCount": 321,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",

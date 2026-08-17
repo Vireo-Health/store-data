@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:08.528Z",
+  "generatedAt": "2026-08-17T23:51:28.615Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -43,14 +43,14 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -292,7 +292,7 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -327,15 +327,15 @@
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1380,
+            "closesNextDay": false
           }
         ]
       ],
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 320
+      "ratingCount": 321
     }
   }
 }
