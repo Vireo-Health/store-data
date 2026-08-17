@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:35:39.438Z",
+  "generatedAt": "2026-08-17T15:40:08.528Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -9,7 +9,7 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 203,
+      "ratingCount": 205,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",
@@ -81,7 +81,7 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 203,
+      "ratingCount": 205,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",

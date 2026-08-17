@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:35:39.438Z",
+  "generatedAt": "2026-08-17T15:40:08.528Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 203
+      "ratingCount": 205
     },
     "dispensary-clovis": {
       "name": "Clovis",
