@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:36:22.216Z",
+  "generatedAt": "2026-08-17T15:40:45.980Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2561
+      "ratingCount": 2563
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 968
+      "ratingCount": 969
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 642
+      "ratingCount": 648
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins College Ave",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 384
+      "ratingCount": 385
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
