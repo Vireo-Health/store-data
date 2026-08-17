@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:45.980Z",
+  "generatedAt": "2026-08-17T23:52:13.228Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -158,56 +158,56 @@
       "lng": -104.9614,
       "shopId": "1760",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm",
+      "hoursDotted": "Mon–Wed 8am–9:45pm · Thu–Sat 8am–11:45pm · Sun 8am–9:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ]
       ],
@@ -728,8 +728,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-225-5421",
-      "rating": 4.6,
-      "ratingCount": 385,
+      "rating": 4.5,
+      "ratingCount": 387,
       "lat": 40.5761,
       "lng": -105.076,
       "shopId": "6993",
@@ -801,7 +801,7 @@
       "state": "CO",
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 617,
+      "ratingCount": 618,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",

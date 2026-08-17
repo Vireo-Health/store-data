@@ -1,11 +1,10 @@
-# Store hours sync — 2026-08-17T15:40:45.980Z
+# Store hours sync — 2026-08-17T23:52:13.228Z
 
 - checked: 13
-- applied: 0
-- held for review: 1
+- applied: 1
+- held for review: 0
 - errors: 0
 
-## Held for review
-- **denver-dispensary** — a time moves by 26.3h (limit 4h); weekly open hours would be cut in half or more
-  - proposed: `Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm`
+## Applied
+- DU Denver: Daily 8am-12am  ->  Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 

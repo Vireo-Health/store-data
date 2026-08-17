@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:45.980Z",
+  "generatedAt": "2026-08-17T23:52:13.228Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -121,50 +121,50 @@
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1305,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
-            "closesNextDay": true
+            "close": 1425,
+            "closesNextDay": false
           }
         ]
       ],
@@ -625,8 +625,8 @@
         ]
       ],
       "phone": "970-225-5421",
-      "rating": 4.6,
-      "ratingCount": 385
+      "rating": 4.5,
+      "ratingCount": 387
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -683,7 +683,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 617
+      "ratingCount": 618
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
