@@ -1,17 +1,7 @@
-# Store hours sync — 2026-08-17T15:40:59.872Z
+# Store hours sync — 2026-08-17T23:52:25.604Z
 
-- checked: 13
+- checked: 6
 - applied: 0
 - held for review: 0
 - errors: 0
-
-## Listing audit
-Nothing was published from these — fix the listing in Google Business Profile.
-- **thornton-premium-marijuana-dispensary** — listing website points at starbudscolorado.com, expected greendragon.com
-- **dispensary-fort-collins-college** — listing website points at everydayweed.com, expected greendragon.com
-- **fort-collins-smithfield-drive** — listing website points at everydayweed.com, expected greendragon.com
-- **east-denver-colfax-ave** — listing website points at everydayweed.com, expected greendragon.com
-- **breckenridge** — listing website points at everydayweed.com, expected greendragon.com
-- **boulder** — listing website points at everydayweed.com, expected greendragon.com
-- **south-aurora-quincy-ave** — listing website points at starbudscolorado.com, expected greendragon.com
 
