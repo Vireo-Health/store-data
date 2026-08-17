@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:20.691Z",
+  "generatedAt": "2026-08-17T23:51:43.484Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1285,
+      "ratingCount": 1286,
       "lat": 39.9189927,
       "lng": -105.0895643,
       "shopId": "6960",
@@ -165,49 +165,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -230,55 +230,55 @@
       "lng": -104.9080879,
       "shopId": "6964",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -309,49 +309,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -453,49 +453,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -525,49 +525,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -585,7 +585,7 @@
       "state": "CO",
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7614,
+      "ratingCount": 7612,
       "lat": 40.5988416,
       "lng": -105.0760923,
       "shopId": "6952",
@@ -597,49 +597,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -669,49 +669,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -1029,49 +1029,49 @@
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -1101,49 +1101,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -1166,34 +1166,13 @@
       "lng": -104.9783113,
       "shopId": "6956",
       "timezone": "America/Denver",
-      "hours": "Mon-Wed 8am-10pm, Thu-Sat 8am-12am, Sun 8am-10pm",
-      "hoursDotted": "Mon–Wed 8am–10pm · Thu–Sat 8am–12am · Sun 8am–10pm",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
@@ -1201,21 +1180,42 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
           }
         ]
       ],

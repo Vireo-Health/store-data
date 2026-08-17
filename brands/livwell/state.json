@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:40:20.691Z",
+  "generatedAt": "2026-08-17T23:51:43.484Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1285
+      "ratingCount": 1286
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -122,49 +122,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -178,49 +178,49 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -236,49 +236,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -350,49 +350,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -407,49 +407,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -464,55 +464,55 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7614
+      "ratingCount": 7612
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -521,49 +521,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -806,49 +806,49 @@
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -863,49 +863,49 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ]
       ],
@@ -919,28 +919,7 @@
         [
           {
             "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
@@ -948,21 +927,42 @@
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
             "close": 1440,
-            "closesNextDay": true
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
           }
         ]
       ],

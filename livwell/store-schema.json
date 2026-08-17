@@ -135,7 +135,7 @@
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "21:00"
+        "closes": "23:59"
       }
     ]
   },
@@ -583,28 +583,14 @@
         "dayOfWeek": [
           "Monday",
           "Tuesday",
-          "Wednesday"
-        ],
-        "opens": "08:00",
-        "closes": "22:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Wednesday",
           "Thursday",
           "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "23:59"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Saturday",
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "22:00"
+        "closes": "23:59"
       }
     ]
   }
