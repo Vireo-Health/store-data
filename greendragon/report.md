@@ -1,12 +1,9 @@
-# Store hours sync — 2026-08-16T15:36:36.198Z
+# Store hours sync — 2026-08-17T15:40:59.872Z
 
 - checked: 13
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Edgewater: Daily 8am-11:45pm  ->  Mon-Thu 9am-10pm, Fri-Sat 9am-11pm, Sun 9am-10pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
