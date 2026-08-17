@@ -87,6 +87,18 @@ test('past-midnight close is attributed to the opening day', () => {
   assert.strictEqual(week[6].length, 0);
 });
 
+test('a close at exactly midnight ends the day rather than running into the next', () => {
+  // Sat 8am -> Sun 00:00. Google reports this as a close on the following day,
+  // but it is the end of Saturday, not trading into Sunday. Marking it
+  // closesNextDay made every consumer add a second day to a close already
+  // normalized to 1440, reading as a 25h shift and holding the store.
+  const week = h.fromGooglePeriods(periods([6, 8, 0, 0, 0, 0]));
+  assert.strictEqual(week[6][0].close, 1440);
+  assert.strictEqual(week[6][0].closesNextDay, false);
+  assert.strictEqual(week[0].length, 0);
+  assert.strictEqual(h.formatIntervals(week[6], '-'), '8am-12am');
+});
+
 test('split hours on one day survive parsing and schema output', () => {
   const week = h.fromGooglePeriods(periods([1, 8, 0, 12, 0], [1, 13, 0, 20, 0]));
   assert.strictEqual(week[1].length, 2);

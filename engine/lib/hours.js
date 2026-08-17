@@ -63,8 +63,12 @@ function fromGooglePeriods(regularOpeningHours) {
       // A close on a later day (or an earlier clock time on the same day)
       // means the store trades past midnight.
       if (period.close.day !== day || close <= open) {
-        closesNextDay = true;
+        // Closing exactly at midnight ends this day rather than running into
+        // the next one, so it stays a same-day interval ending at 1440. Setting
+        // both close = 1440 and closesNextDay would double-count: consumers add
+        // a day to a closesNextDay interval, putting the close 24h too late.
         if (close === 0) close = MINUTES_PER_DAY;
+        else closesNextDay = true;
       }
     }
 

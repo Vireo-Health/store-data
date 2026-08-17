@@ -47,6 +47,40 @@ test('a routine one-hour shift auto-publishes', () => {
   assert.deepStrictEqual(r.reasons, []);
 });
 
+// How Google actually reports a midnight close: 00:00 on the following day.
+const ALL_DAYS_TO_MIDNIGHT = () =>
+  week(...[0, 1, 2, 3, 4, 5, 6].map((d) => [d, 8, 0, 0, 0, (d + 1) % 7]));
+
+test('pulling a midnight close back to 11pm is a one-hour shift, not 25h', () => {
+  const r = gate.evaluate({
+    name: 'Las Cruces',
+    before: ALL_DAYS_TO_MIDNIGHT(),
+    after: ALL_DAYS(8, 23),
+    place: OPERATIONAL,
+  });
+  assert.strictEqual(gate.maxShiftMinutes(ALL_DAYS_TO_MIDNIGHT(), ALL_DAYS(8, 23)), 60);
+  assert.strictEqual(r.ok, true);
+  assert.deepStrictEqual(r.reasons, []);
+});
+
+test('a baseline storing midnight as closesNextDay does not read as a 24h shift', () => {
+  // State written before the midnight-close fix. Re-parsing yields the same
+  // wall-clock hours, so the gate must see no movement at all.
+  const legacy = ALL_DAYS_TO_MIDNIGHT().map((d) => [{ ...d[0], closesNextDay: true }]);
+  assert.strictEqual(gate.maxShiftMinutes(legacy, ALL_DAYS_TO_MIDNIGHT()), 0);
+  assert.strictEqual(gate.weeklyOpenMinutes(legacy), gate.weeklyOpenMinutes(ALL_DAYS_TO_MIDNIGHT()));
+  assert.strictEqual(gate.weeklyOpenMinutes(legacy), 7 * 16 * 60);
+});
+
+test('a genuine past-midnight close still counts into the next day', () => {
+  // Fri 8am -> Sat 1am is 17 hours, and moving it to a 2am close is a 1h shift.
+  const oneAm = week([5, 8, 0, 1, 0, 6]);
+  const twoAm = week([5, 8, 0, 2, 0, 6]);
+  assert.strictEqual(oneAm[5][0].closesNextDay, true);
+  assert.strictEqual(gate.weeklyOpenMinutes(oneAm), 17 * 60);
+  assert.strictEqual(gate.maxShiftMinutes(oneAm, twoAm), 60);
+});
+
 test('a five-hour swing is held', () => {
   const r = gate.evaluate({
     name: 'Yale',

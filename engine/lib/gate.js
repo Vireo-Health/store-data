@@ -7,17 +7,30 @@
  * which get held for a human.
  */
 
-const { daySignature, DAY_ABBR, formatCompact } = require('./hours');
+const { daySignature, DAY_ABBR, formatCompact, MINUTES_PER_DAY } = require('./hours');
 
 const DEFAULT_MAX_SHIFT_MINUTES = 240; // 4 hours
+
+/**
+ * An interval's close as minutes from its own opening day's midnight, so a
+ * past-midnight close sorts after the times it follows.
+ *
+ * A close already at 1440 is midnight tonight and terminal. Baselines written
+ * before 2026-08-17 stored midnight as { close: 1440, closesNextDay: true };
+ * adding another day to those would put the close 24h late and read as a
+ * 25h+ shift, which held four stores for review. Both shapes land on 1440 here.
+ */
+function effectiveClose(interval) {
+  if (!interval.closesNextDay || interval.close >= MINUTES_PER_DAY) return interval.close;
+  return interval.close + MINUTES_PER_DAY;
+}
 
 /** Total minutes a week is open, treating past-midnight closes correctly. */
 function weeklyOpenMinutes(week) {
   let total = 0;
   for (const day of week) {
     for (const interval of day) {
-      const close = interval.closesNextDay ? interval.close + 1440 : interval.close;
-      total += Math.max(0, close - interval.open);
+      total += Math.max(0, effectiveClose(interval) - interval.open);
     }
   }
   return total;
@@ -39,9 +52,8 @@ function maxShiftMinutes(before, after) {
     if (a.length === 0 || b.length === 0) continue;
     if (a.length !== b.length) continue;
     for (let i = 0; i < a.length; i++) {
-      const aClose = a[i].closesNextDay ? a[i].close + 1440 : a[i].close;
-      const bClose = b[i].closesNextDay ? b[i].close + 1440 : b[i].close;
-      max = Math.max(max, Math.abs(b[i].open - a[i].open), Math.abs(bClose - aClose));
+      const shift = Math.abs(effectiveClose(b[i]) - effectiveClose(a[i]));
+      max = Math.max(max, Math.abs(b[i].open - a[i].open), shift);
     }
   }
   return max;
