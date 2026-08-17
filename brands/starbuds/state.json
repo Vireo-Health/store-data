@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:36:09.546Z",
+  "generatedAt": "2026-08-17T15:40:33.427Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2576
+      "ratingCount": 2575
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -454,8 +454,8 @@
         ]
       ],
       "phone": "970-480-0685",
-      "rating": 4.4,
-      "ratingCount": 1154
+      "rating": 4.5,
+      "ratingCount": 1156
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2219
+      "ratingCount": 2220
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
