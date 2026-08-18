@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:51:43.484Z",
+  "generatedAt": "2026-08-18T15:46:35.874Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4436
+      "ratingCount": 4435
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3685
+      "ratingCount": 3687
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
