@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:46:24.677Z",
+  "generatedAt": "2026-08-19T15:46:36.061Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -1305,7 +1305,7 @@
       "state": "NM",
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 278,
+      "ratingCount": 279,
       "lat": 33.4373,
       "lng": -104.523,
       "shopId": "roswell",
@@ -1377,7 +1377,7 @@
       "state": "NM",
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 278,
+      "ratingCount": 279,
       "lat": 33.4373,
       "lng": -104.523,
       "shopId": "roswell",
@@ -1737,7 +1737,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 321,
+      "ratingCount": 322,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
@@ -1809,7 +1809,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 321,
+      "ratingCount": 322,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",

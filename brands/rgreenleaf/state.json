@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:46:24.677Z",
+  "generatedAt": "2026-08-19T15:46:36.061Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -569,7 +569,7 @@
       ],
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 278
+      "ratingCount": 279
     },
     "dispensary-santa-fe": {
       "name": "Santa Fe",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 321
+      "ratingCount": 322
     }
   }
 }
