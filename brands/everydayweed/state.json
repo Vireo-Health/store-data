@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:47:02.872Z",
+  "generatedAt": "2026-08-19T15:47:14.232Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -64,7 +64,7 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
@@ -121,28 +121,28 @@
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5698
+      "ratingCount": 5703
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3708
+      "ratingCount": 3709
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,56 +455,56 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 534
+      "ratingCount": 535
     },
     "boulder-dispensary": {
       "name": "Boulder",
       "week": [
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
@@ -683,7 +683,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 618
+      "ratingCount": 619
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",

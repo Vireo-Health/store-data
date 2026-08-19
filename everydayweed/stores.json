@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:47:02.872Z",
+  "generatedAt": "2026-08-19T15:47:14.232Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -86,13 +86,13 @@
       "lng": -104.859,
       "shopId": "1764",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11:45pm, Sun 8am-10pm",
-      "hoursDotted": "Mon–Sat 8am–11:45pm · Sun 8am–10pm",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
@@ -158,34 +158,34 @@
       "lng": -104.9614,
       "shopId": "1760",
       "timezone": "America/Denver",
-      "hours": "Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm",
-      "hoursDotted": "Mon–Wed 8am–9:45pm · Thu–Sat 8am–11:45pm · Sun 8am–9:45pm",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5698,
+      "ratingCount": 5703,
       "lat": 39.8602127,
       "lng": -105.024465,
       "shopId": "4499",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3708,
+      "ratingCount": 3709,
       "lat": 39.782,
       "lng": -105.0147,
       "shopId": "1761",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 534,
+      "ratingCount": 535,
       "lat": 39.7361641,
       "lng": -104.9830365,
       "shopId": "436",
@@ -590,54 +590,54 @@
       "lng": -105.2526673,
       "shopId": "435",
       "timezone": "America/Denver",
-      "hours": "Daily 10am-9:45pm",
-      "hoursDotted": "Daily 10am–9:45pm",
+      "hours": "Daily 8am-9:45pm",
+      "hoursDotted": "Daily 8am–9:45pm",
       "week": [
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 600,
+            "open": 480,
             "close": 1305,
             "closesNextDay": false
           }
@@ -801,7 +801,7 @@
       "state": "CO",
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 618,
+      "ratingCount": 619,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",
