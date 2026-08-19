@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:46:35.874Z",
+  "generatedAt": "2026-08-19T15:46:48.120Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -657,7 +657,7 @@
       "state": "CO",
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3687,
+      "ratingCount": 3688,
       "lat": 40.39387019999999,
       "lng": -104.6918357,
       "shopId": "6954",
@@ -806,55 +806,55 @@
       "lng": -103.8315717,
       "shopId": "6967",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-10pm",
-      "hoursDotted": "Daily 8am–10pm",
+      "hours": "Daily 8am-8pm",
+      "hoursDotted": "Daily 8am–8pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ]
@@ -1017,7 +1017,7 @@
       "state": "CO",
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2556,
+      "ratingCount": 2557,
       "lat": 39.7613559,
       "lng": -104.9820442,
       "shopId": "6963",
@@ -1089,7 +1089,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3742,
+      "ratingCount": 3743,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",

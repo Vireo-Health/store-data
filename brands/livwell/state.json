@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:46:35.874Z",
+  "generatedAt": "2026-08-19T15:46:48.120Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3687
+      "ratingCount": 3688
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -634,49 +634,49 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1200,
             "closesNextDay": false
           }
         ]
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2556
+      "ratingCount": 2557
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3742
+      "ratingCount": 3743
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
