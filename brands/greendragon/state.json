@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-08-18T15:47:12.902Z",
+  "generatedAt": "2026-08-19T15:47:29.592Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
       "week": [
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 903
+      "ratingCount": 904
     },
     "west-denver-sheridan-blvd": {
       "name": "Denver Sheridan Blvd",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1122
+      "ratingCount": 1124
     },
     "dispensary-denver-mile-high": {
       "name": "Denver Mile High",

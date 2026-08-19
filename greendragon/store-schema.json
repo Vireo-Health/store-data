@@ -24,27 +24,13 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday"
-        ],
-        "opens": "09:00",
-        "closes": "22:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Thursday",
           "Friday",
-          "Saturday"
-        ],
-        "opens": "09:00",
-        "closes": "23:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Saturday",
           "Sunday"
         ],
-        "opens": "09:00",
-        "closes": "22:00"
+        "opens": "08:00",
+        "closes": "23:45"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:47:12.902Z",
+  "generatedAt": "2026-08-19T15:47:29.592Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -9,60 +9,60 @@
       "state": "CO",
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 903,
+      "ratingCount": 904,
       "lat": 39.7523,
       "lng": -105.0536,
       "shopId": "457",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 9am-10pm, Fri-Sat 9am-11pm, Sun 9am-10pm",
-      "hoursDotted": "Mon–Thu 9am–10pm · Fri–Sat 9am–11pm · Sun 9am–10pm",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
       "week": [
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1320,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1425,
             "closesNextDay": false
           }
         ]
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1122,
+      "ratingCount": 1124,
       "lat": 39.7713,
       "lng": -105.0534,
       "shopId": "412",
