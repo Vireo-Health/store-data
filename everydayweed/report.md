@@ -1,12 +1,15 @@
-# Store hours sync — 2026-08-19T15:47:14.232Z
+# Store hours sync — 2026-08-20T13:40:59.526Z
 
-- checked: 13
-- applied: 3
+- checked: 14
+- applied: 1
 - held for review: 0
 - errors: 0
 
 ## Applied
-- Aurora Montview: Mon-Sat 8am-11:45pm, Sun 8am-10pm  ->  Daily 8am-11:45pm  [Sun]
-- DU Denver: Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm  ->  Daily 8am-11:45pm  [Sun, Mon, Tue, Wed]
-- Boulder: Daily 10am-9:45pm  ->  Daily 8am-9:45pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+- Denver Byers Place: new baseline Mon-Sat 10am-8pm, Sun 10am-6pm
+
+## Listing audit
+Nothing was published from these — fix the listing in Google Business Profile.
+- **capitol-hill-dispensary** — listing website points at greendragon.com, expected everydayweed.com
+- **denver-byers-place-dispensary** — listing website points at greendragon.com, expected everydayweed.com
 

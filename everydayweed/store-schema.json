@@ -279,6 +279,48 @@
       }
     ]
   },
+  "denver-byers-place-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Denver Byers Place",
+    "url": "https://everydayweed.com/stores/denver-byers-place-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "930 W Byers Pl",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-480-0660",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7038,
+      "longitude": -105.0003
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "10:00",
+        "closes": "20:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "10:00",
+        "closes": "18:00"
+      }
+    ]
+  },
   "boulder-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",

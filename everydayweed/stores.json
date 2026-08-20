@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:47:14.232Z",
+  "generatedAt": "2026-08-20T13:40:59.526Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2563,
+      "ratingCount": 2564,
       "lat": 39.7575,
       "lng": -104.859,
       "shopId": "1764",
@@ -225,7 +225,7 @@
       "state": "CO",
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 418,
+      "ratingCount": 420,
       "lat": 39.997363,
       "lng": -104.813406,
       "shopId": "6217",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5703,
+      "ratingCount": 5704,
       "lat": 39.8602127,
       "lng": -105.024465,
       "shopId": "4499",
@@ -578,6 +578,78 @@
       "storeUrl": "/stores/capitol-hill-dispensary/"
     },
     {
+      "slug": "denver-byers-place-dispensary",
+      "name": "Denver Byers Place",
+      "address": "930 W Byers Pl",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "970-480-0660",
+      "rating": 4.6,
+      "ratingCount": 551,
+      "lat": 39.7038,
+      "lng": -105.0003,
+      "shopId": "456",
+      "timezone": "America/Denver",
+      "hours": "Mon-Sat 10am-8pm, Sun 10am-6pm",
+      "hoursDotted": "Mon–Sat 10am–8pm · Sun 10am–6pm",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1080,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/denver-byers-place-dispensary/"
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "address": "1750 30th St Unit 7",
@@ -585,7 +657,7 @@
       "state": "CO",
       "phone": "720-446-5490",
       "rating": 4.8,
-      "ratingCount": 180,
+      "ratingCount": 181,
       "lat": 40.0172624,
       "lng": -105.2526673,
       "shopId": "435",
@@ -801,7 +873,7 @@
       "state": "CO",
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 619,
+      "ratingCount": 620,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",
