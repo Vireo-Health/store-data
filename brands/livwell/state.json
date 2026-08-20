@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:46:48.120Z",
+  "generatedAt": "2026-08-20T15:49:45.283Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -7,56 +7,56 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3017
+      "ratingCount": 3018
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -121,56 +121,56 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4435
+      "ratingCount": 4434
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -291,50 +291,50 @@
       "week": [
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -520,49 +520,49 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -634,49 +634,49 @@
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -748,56 +748,56 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2124
+      "ratingCount": 2123
     },
     "denver-rino-dispensary": {
       "name": "RiNo",

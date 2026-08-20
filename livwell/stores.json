@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:46:48.120Z",
+  "generatedAt": "2026-08-20T15:49:45.283Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -9,60 +9,60 @@
       "state": "CO",
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3017,
+      "ratingCount": 3018,
       "lat": 40.3113553,
       "lng": -105.0765196,
       "shopId": "6955",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
       "week": [
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -153,60 +153,60 @@
       "state": "CO",
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4435,
+      "ratingCount": 4434,
       "lat": 39.7406829,
       "lng": -104.7642405,
       "shopId": "6958",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Daily 8am-11pm",
+      "hoursDotted": "Daily 8am–11pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -374,55 +374,55 @@
       "lng": -108.5624767,
       "shopId": "6961",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
+      "hours": "Daily 9am-9pm",
+      "hoursDotted": "Daily 9am–9pm",
       "week": [
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1380,
+            "open": 540,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -662,55 +662,55 @@
       "lng": -104.6918357,
       "shopId": "6954",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -806,55 +806,55 @@
       "lng": -103.8315717,
       "shopId": "6967",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-8pm",
-      "hoursDotted": "Daily 8am–8pm",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1200,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -945,60 +945,60 @@
       "state": "CO",
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2124,
+      "ratingCount": 2123,
       "lat": 38.3475258,
       "lng": -104.6212597,
       "shopId": "6962",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
