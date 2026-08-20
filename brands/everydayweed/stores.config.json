@@ -193,6 +193,29 @@
       "variants": []
     },
     {
+      "slug": "denver-byers-place-dispensary",
+      "name": "Denver Byers Place",
+      "webflowItemId": "6a85d45aa06ec1a21ebbba5f",
+      "placeId": "ChIJGWI_TBd_bIcRgaB-mdgGr-M",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-08; the Google listing (Green Dragon, 930 W Byers Pl) is the live store's listing and still carries the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/Y4if4MLPdiNd5bn8V",
+      "googleSearchQuery": "Every Day Weed Denver Byers Place 930 W Byers Pl, Denver, CO 80223",
+      "timezone": "America/Denver",
+      "shopId": "456",
+      "city": "Denver",
+      "state": "CO",
+      "address": "930 W Byers Pl",
+      "phone": "970-480-0660",
+      "lat": 39.7038,
+      "lng": -105.0003,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",

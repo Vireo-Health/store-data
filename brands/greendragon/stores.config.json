@@ -70,25 +70,6 @@
       "variants": []
     },
     {
-      "slug": "central-denver-byers-pl",
-      "name": "Denver Byers Place",
-      "webflowItemId": "698a2e5fd0e89f64cfaec323",
-      "placeId": "ChIJGWI_TBd_bIcRgaB-mdgGr-M",
-      "googleBusinessLink": "https://share.google/Y4if4MLPdiNd5bn8V",
-      "googleSearchQuery": "Green Dragon Denver Byers 930 W Byers Pl, Denver, CO 80223",
-      "timezone": "America/Denver",
-      "shopId": "456",
-      "city": "Denver",
-      "state": "CO",
-      "address": "930 W Byers Pl",
-      "phone": "970-480-0660",
-      "lat": 39.7038,
-      "lng": -105.0003,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "aspen",
       "name": "Aspen",
       "webflowItemId": "698a2e22b4a5c45216c1a8ef",
