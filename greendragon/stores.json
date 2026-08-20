@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:47:29.592Z",
+  "generatedAt": "2026-08-20T15:50:29.394Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -216,78 +216,6 @@
       "type": null,
       "storeId": null,
       "storeUrl": "/stores/dispensary-denver-mile-high/"
-    },
-    {
-      "slug": "central-denver-byers-pl",
-      "name": "Denver Byers Place",
-      "address": "930 W Byers Pl",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "970-480-0660",
-      "rating": 4.6,
-      "ratingCount": 551,
-      "lat": 39.7038,
-      "lng": -105.0003,
-      "shopId": "456",
-      "timezone": "America/Denver",
-      "hours": "Mon-Sat 10am-8pm, Sun 10am-6pm",
-      "hoursDotted": "Mon–Sat 10am–8pm · Sun 10am–6pm",
-      "week": [
-        [
-          {
-            "open": 600,
-            "close": 1080,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/stores/central-denver-byers-pl/"
     },
     {
       "slug": "aspen",

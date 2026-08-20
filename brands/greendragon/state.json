@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:47:29.592Z",
+  "generatedAt": "2026-08-20T15:50:29.394Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -171,63 +171,6 @@
       "phone": "970-315-0032",
       "rating": 4.9,
       "ratingCount": 208
-    },
-    "central-denver-byers-pl": {
-      "name": "Denver Byers Place",
-      "week": [
-        [
-          {
-            "open": 600,
-            "close": 1080,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "phone": "970-480-0660",
-      "rating": 4.6,
-      "ratingCount": 551
     },
     "aspen": {
       "name": "Aspen",
