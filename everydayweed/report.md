@@ -1,12 +1,9 @@
-# Store hours sync — 2026-08-20T13:40:59.526Z
+# Store hours sync — 2026-08-20T15:50:13.646Z
 
 - checked: 14
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Denver Byers Place: new baseline Mon-Sat 10am-8pm, Sun 10am-6pm
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
