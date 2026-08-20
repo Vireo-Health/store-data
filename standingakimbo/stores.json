@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:48:07.903Z",
+  "generatedAt": "2026-08-20T15:50:55.657Z",
   "stores": [
     {
       "slug": "denver",
@@ -14,55 +14,55 @@
       "lng": -104.9996229,
       "shopId": "5531",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9:45pm",
-      "hoursDotted": "Daily 8am–9:45pm",
+      "hours": "Daily 8am-9pm",
+      "hoursDotted": "Daily 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -158,55 +158,55 @@
       "lng": -105.082,
       "shopId": "6368",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9:50pm",
-      "hoursDotted": "Daily 8am–9:50pm",
+      "hours": "Daily 8am-9pm",
+      "hoursDotted": "Daily 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 418,
+      "ratingCount": 420,
       "lat": 39.997363,
       "lng": -104.813406,
       "shopId": "6877",
