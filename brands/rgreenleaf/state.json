@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:46:36.061Z",
+  "generatedAt": "2026-08-20T15:49:26.578Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -7,7 +7,7 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -42,21 +42,21 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 205
+      "ratingCount": 208
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 550
+      "ratingCount": 552
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -234,49 +234,49 @@
       "week": [
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
@@ -292,7 +292,7 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -327,14 +327,14 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -612,14 +612,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -683,7 +683,7 @@
       ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 891
+      "ratingCount": 892
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",

@@ -24,7 +24,9 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday"
+          "Thursday",
+          "Friday",
+          "Saturday"
         ],
         "opens": "08:00",
         "closes": "23:00"
@@ -32,19 +34,10 @@
       {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "23:59"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "22:00"
+        "closes": "21:00"
       }
     ]
   },
@@ -189,7 +182,7 @@
           "Friday",
           "Saturday"
         ],
-        "opens": "08:00",
+        "opens": "07:00",
         "closes": "23:00"
       },
       {
@@ -197,7 +190,7 @@
         "dayOfWeek": [
           "Sunday"
         ],
-        "opens": "08:00",
+        "opens": "07:00",
         "closes": "21:00"
       }
     ]
@@ -227,9 +220,7 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday"
+          "Thursday"
         ],
         "opens": "08:00",
         "closes": "23:00"
@@ -237,10 +228,19 @@
       {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "21:00"
+        "closes": "22:00"
       }
     ]
   },
@@ -430,12 +430,19 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday",
+          "Thursday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
           "Friday",
           "Saturday"
         ],
         "opens": "08:00",
-        "closes": "22:00"
+        "closes": "23:00"
       },
       {
         "@type": "OpeningHoursSpecification",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:46:36.061Z",
+  "generatedAt": "2026-08-20T15:49:26.578Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -9,18 +9,18 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 205,
+      "ratingCount": 208,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
-      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
+      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -55,14 +55,14 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -81,18 +81,18 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 205,
+      "ratingCount": 208,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",
       "timezone": "America/Denver",
-      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
-      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
+      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -127,14 +127,14 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -297,7 +297,7 @@
       "state": "NM",
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 550,
+      "ratingCount": 552,
       "lat": 35.1989,
       "lng": -106.6267,
       "shopId": "cottonwood",
@@ -369,7 +369,7 @@
       "state": "NM",
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 550,
+      "ratingCount": 552,
       "lat": 35.1989,
       "lng": -106.6267,
       "shopId": "cottonwood",
@@ -590,54 +590,54 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
       "week": [
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
@@ -662,54 +662,54 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
       "week": [
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
+            "open": 420,
             "close": 1380,
             "closesNextDay": false
           }
@@ -734,13 +734,13 @@
       "lng": -106.7637,
       "shopId": "las-cruces",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
+      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -775,14 +775,14 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -806,13 +806,13 @@
       "lng": -106.7637,
       "shopId": "las-cruces",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
+      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -847,14 +847,14 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -1454,8 +1454,8 @@
       "lng": -105.9613,
       "shopId": "santa-fe",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-10pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–10pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-10pm, Fri-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Thu 8am–10pm · Fri–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
@@ -1495,14 +1495,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -1526,8 +1526,8 @@
       "lng": -105.9613,
       "shopId": "santa-fe",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-10pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–10pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-10pm, Fri-Sat 8am-11pm, Sun 8am-9pm",
+      "hoursDotted": "Mon–Thu 8am–10pm · Fri–Sat 8am–11pm · Sun 8am–9pm",
       "week": [
         [
           {
@@ -1567,14 +1567,14 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -1593,7 +1593,7 @@
       "state": "NM",
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 891,
+      "ratingCount": 892,
       "lat": 35.1345,
       "lng": -106.7095,
       "shopId": "westside",
@@ -1665,7 +1665,7 @@
       "state": "NM",
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 891,
+      "ratingCount": 892,
       "lat": 35.1345,
       "lng": -106.7095,
       "shopId": "westside",
