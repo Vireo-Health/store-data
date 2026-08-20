@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:47:01.662Z",
+  "generatedAt": "2026-08-20T15:50:00.029Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -7,49 +7,49 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ]
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7554
+      "ratingCount": 7556
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -292,49 +292,49 @@
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1188
+      "ratingCount": 1196
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11428
+      "ratingCount": 11433
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -862,7 +862,7 @@
         [
           {
             "open": 540,
-            "close": 1260,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
@@ -919,56 +919,56 @@
         [
           {
             "open": 540,
-            "close": 1260,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1365,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1792
+      "ratingCount": 1793
     }
   }
 }
