@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:50:13.646Z",
+  "generatedAt": "2026-08-21T15:49:09.061Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1748
+      "ratingCount": 1749
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5704
+      "ratingCount": 5705
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 551
+      "ratingCount": 552
     },
     "boulder-dispensary": {
       "name": "Boulder",
