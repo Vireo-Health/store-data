@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:49:26.578Z",
+  "generatedAt": "2026-08-21T15:48:34.482Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -9,18 +9,18 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 208,
+      "ratingCount": 209,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
+      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -55,14 +55,14 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -81,18 +81,18 @@
       "state": "NM",
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 208,
+      "ratingCount": 209,
       "lat": 32.4207,
       "lng": -104.2392,
       "shopId": "carlsbad",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 8am-11pm, Sun 8am-9pm",
-      "hoursDotted": "Mon–Sat 8am–11pm · Sun 8am–9pm",
+      "hours": "Mon-Thu 8am-11pm, Fri-Sat 8am-12am, Sun 8am-10pm",
+      "hoursDotted": "Mon–Thu 8am–11pm · Fri–Sat 8am–12am · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -127,14 +127,14 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -153,7 +153,7 @@
       "state": "NM",
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 398,
+      "ratingCount": 399,
       "lat": 34.4048,
       "lng": -103.2052,
       "shopId": "clovis",
@@ -225,7 +225,7 @@
       "state": "NM",
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 398,
+      "ratingCount": 399,
       "lat": 34.4048,
       "lng": -103.2052,
       "shopId": "clovis",
@@ -1017,7 +1017,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1184,
+      "ratingCount": 1185,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1089,7 +1089,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1184,
+      "ratingCount": 1185,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1161,7 +1161,7 @@
       "state": "NM",
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 466,
+      "ratingCount": 467,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
@@ -1233,7 +1233,7 @@
       "state": "NM",
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 466,
+      "ratingCount": 467,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
@@ -1737,7 +1737,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 322,
+      "ratingCount": 325,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
@@ -1809,7 +1809,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 322,
+      "ratingCount": 325,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",

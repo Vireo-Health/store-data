@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:49:26.578Z",
+  "generatedAt": "2026-08-21T15:48:34.482Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -7,7 +7,7 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -42,21 +42,21 @@
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1380,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 208
+      "ratingCount": 209
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -113,7 +113,7 @@
       ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 398
+      "ratingCount": 399
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1184
+      "ratingCount": 1185
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 466
+      "ratingCount": 467
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 322
+      "ratingCount": 325
     }
   }
 }
