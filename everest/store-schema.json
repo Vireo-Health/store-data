@@ -274,7 +274,7 @@
           "Saturday"
         ],
         "opens": "08:00",
-        "closes": "22:00"
+        "closes": "23:00"
       },
       {
         "@type": "OpeningHoursSpecification",
@@ -282,7 +282,7 @@
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "21:00"
+        "closes": "22:00"
       }
     ]
   }

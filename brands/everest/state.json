@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:50:43.803Z",
+  "generatedAt": "2026-08-21T15:49:39.724Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -349,13 +349,6 @@
         [
           {
             "open": 480,
-            "close": 1260,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
@@ -363,35 +356,42 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
