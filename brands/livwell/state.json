@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:49:45.283Z",
+  "generatedAt": "2026-08-21T15:48:46.813Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4434
+      "ratingCount": 4433
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5221
+      "ratingCount": 5223
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7612
+      "ratingCount": 7611
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2405
+      "ratingCount": 2407
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -683,7 +683,7 @@
       ],
       "phone": "970-867-7867",
       "rating": 4.7,
-      "ratingCount": 721
+      "ratingCount": 722
     },
     "aurora-peoria-st-dispensary": {
       "name": "Peoria",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3743
+      "ratingCount": 3744
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
