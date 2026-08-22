@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:48:57.734Z",
+  "generatedAt": "2026-08-22T15:35:20.374Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7558
+      "ratingCount": 7562
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2814
+      "ratingCount": 2815
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1977
+      "ratingCount": 1976
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1202
+      "ratingCount": 1204
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -568,8 +568,8 @@
         ]
       ],
       "phone": "(970) 515-5839",
-      "rating": 4.7,
-      "ratingCount": 677
+      "rating": 4.6,
+      "ratingCount": 678
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1793
+      "ratingCount": 1794
     }
   }
 }
