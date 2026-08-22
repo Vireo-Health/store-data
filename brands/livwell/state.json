@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:48:46.813Z",
+  "generatedAt": "2026-08-22T15:35:06.973Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3018
+      "ratingCount": 3019
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1286
+      "ratingCount": 1287
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5223
+      "ratingCount": 5224
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7611
+      "ratingCount": 7610
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3688
+      "ratingCount": 3689
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3744
+      "ratingCount": 3743
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1654
+      "ratingCount": 1645
     }
   }
 }
