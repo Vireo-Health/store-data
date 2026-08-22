@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:49:51.433Z",
+  "generatedAt": "2026-08-22T15:36:13.404Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -226,8 +226,8 @@
         ]
       ],
       "phone": "970-515-5839",
-      "rating": 4.7,
-      "ratingCount": 677
+      "rating": 4.6,
+      "ratingCount": 678
     },
     "fort-collins": {
       "name": "Fort Collins",
