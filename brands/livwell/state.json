@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:35:06.973Z",
+  "generatedAt": "2026-08-23T15:36:51.732Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4433
+      "ratingCount": 4432
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1794
+      "ratingCount": 1793
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2123
+      "ratingCount": 2124
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2557
+      "ratingCount": 2558
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3743
+      "ratingCount": 3744
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1645
+      "ratingCount": 1644
     }
   }
 }
