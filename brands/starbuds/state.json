@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:35:20.374Z",
+  "generatedAt": "2026-08-23T15:37:06.366Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7562
+      "ratingCount": 7564
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2815
+      "ratingCount": 2817
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1139
+      "ratingCount": 1140
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1976
+      "ratingCount": 1978
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2574
+      "ratingCount": 2575
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 2997
+      "ratingCount": 2998
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1204
+      "ratingCount": 1207
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1287
+      "ratingCount": 1288
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -683,7 +683,7 @@
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
-      "ratingCount": 1720
+      "ratingCount": 1719
     },
     "niwot-dispensary": {
       "name": "Niwot",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 955
+      "ratingCount": 956
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11436
+      "ratingCount": 11438
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2221
+      "ratingCount": 2222
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1794
+      "ratingCount": 1795
     }
   }
 }
