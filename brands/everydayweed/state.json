@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:35:35.473Z",
+  "generatedAt": "2026-08-23T15:37:17.982Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2564
+      "ratingCount": 2566
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2242
+      "ratingCount": 2243
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5706
+      "ratingCount": 5705
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3709
+      "ratingCount": 3711
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
