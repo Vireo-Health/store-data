@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:38:03.329Z",
+  "generatedAt": "2026-08-24T15:58:00.188Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1156
+      "ratingCount": 1157
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 956
+      "ratingCount": 958
     },
     "lakewood": {
       "name": "Lakewood",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2575
+      "ratingCount": 2574
     },
     "garden-city": {
       "name": "Garden City",
