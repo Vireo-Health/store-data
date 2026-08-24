@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:36:51.732Z",
+  "generatedAt": "2026-08-24T15:56:38.744Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2554
+      "ratingCount": 2553
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5224
+      "ratingCount": 5229
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2407
+      "ratingCount": 2406
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2558
+      "ratingCount": 2559
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",

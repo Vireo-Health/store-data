@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:36:51.732Z",
+  "generatedAt": "2026-08-24T15:56:38.744Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2554,
+      "ratingCount": 2553,
       "lat": 37.3486219,
       "lng": -108.5624767,
       "shopId": "6961",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5224,
+      "ratingCount": 5229,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -729,7 +729,7 @@
       "state": "CO",
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2407,
+      "ratingCount": 2406,
       "lat": 39.6494539,
       "lng": -105.0807339,
       "shopId": "6957",
@@ -1017,7 +1017,7 @@
       "state": "CO",
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2558,
+      "ratingCount": 2559,
       "lat": 39.7613559,
       "lng": -104.9820442,
       "shopId": "6963",
