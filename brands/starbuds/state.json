@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:37:06.366Z",
+  "generatedAt": "2026-08-24T15:56:51.875Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -55,8 +55,8 @@
         ]
       ],
       "phone": "303-400-1451",
-      "rating": 4.4,
-      "ratingCount": 1085
+      "rating": 4.5,
+      "ratingCount": 1111
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7564
+      "ratingCount": 7570
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2575
+      "ratingCount": 2574
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1207
+      "ratingCount": 1208
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 956
+      "ratingCount": 958
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2222
+      "ratingCount": 2223
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
