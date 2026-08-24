@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:37:17.982Z",
+  "generatedAt": "2026-08-24T15:57:05.464Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1750,
+      "ratingCount": 1751,
       "lat": 39.8083,
       "lng": -104.9344,
       "shopId": "1758",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5705,
+      "ratingCount": 5706,
       "lat": 39.8602127,
       "lng": -105.024465,
       "shopId": "4499",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3711,
+      "ratingCount": 3710,
       "lat": 39.782,
       "lng": -105.0147,
       "shopId": "1761",
@@ -590,13 +590,13 @@
       "lng": -105.0003,
       "shopId": "456",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 10am-8pm, Sun 10am-6pm",
-      "hoursDotted": "Mon–Sat 10am–8pm · Sun 10am–6pm",
+      "hours": "Daily 10am-8pm",
+      "hoursDotted": "Daily 10am–8pm",
       "week": [
         [
           {
             "open": 600,
-            "close": 1080,
+            "close": 1200,
             "closesNextDay": false
           }
         ],
@@ -657,7 +657,7 @@
       "state": "CO",
       "phone": "720-446-5490",
       "rating": 4.8,
-      "ratingCount": 181,
+      "ratingCount": 180,
       "lat": 40.0172624,
       "lng": -105.2526673,
       "shopId": "435",
@@ -800,8 +800,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-225-5421",
-      "rating": 4.5,
-      "ratingCount": 388,
+      "rating": 4.6,
+      "ratingCount": 389,
       "lat": 40.5761,
       "lng": -105.076,
       "shopId": "6993",
