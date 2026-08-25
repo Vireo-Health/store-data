@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:57:05.464Z",
+  "generatedAt": "2026-08-25T16:01:13.867Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -797,7 +797,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 720
+      "ratingCount": 718
     }
   }
 }

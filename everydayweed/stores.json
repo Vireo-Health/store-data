@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:57:05.464Z",
+  "generatedAt": "2026-08-25T16:01:13.867Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -945,7 +945,7 @@
       "state": "NM",
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 720,
+      "ratingCount": 718,
       "lat": 31.7989,
       "lng": -106.5812,
       "shopId": "4957",
