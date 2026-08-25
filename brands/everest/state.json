@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:57:42.429Z",
+  "generatedAt": "2026-08-25T16:01:38.804Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -113,7 +113,7 @@
       ],
       "phone": "(505) 865-6635",
       "rating": 4.7,
-      "ratingCount": 764
+      "ratingCount": 763
     },
     "las-cruces-north": {
       "name": "Las Cruces North",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 872-6150",
       "rating": 4.8,
-      "ratingCount": 1077
+      "ratingCount": 1090
     },
     "west-central": {
       "name": "West Central",
@@ -398,7 +398,7 @@
       ],
       "phone": "(505) 293-1249",
       "rating": 4.8,
-      "ratingCount": 710
+      "ratingCount": 708
     }
   }
 }
