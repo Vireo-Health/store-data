@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:01:13.867Z",
+  "generatedAt": "2026-08-26T16:35:10.514Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2566
+      "ratingCount": 2568
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 968
+      "ratingCount": 969
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
