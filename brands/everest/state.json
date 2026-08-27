@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:35:37.591Z",
+  "generatedAt": "2026-08-27T13:49:17.075Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 872-6150",
       "rating": 4.8,
-      "ratingCount": 1092
+      "ratingCount": 1095
     },
     "west-central": {
       "name": "West Central",
@@ -341,7 +341,7 @@
       ],
       "phone": "(505) 836-8620",
       "rating": 4.8,
-      "ratingCount": 681
+      "ratingCount": 680
     },
     "far-northeast-heights": {
       "name": "Far Northeast Heights",
@@ -398,7 +398,7 @@
       ],
       "phone": "(505) 293-1249",
       "rating": 4.8,
-      "ratingCount": 709
+      "ratingCount": 708
     }
   }
 }
