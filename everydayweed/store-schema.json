@@ -14,8 +14,8 @@
     "telephone": "303-999-0401",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.8083,
-      "longitude": -104.9344
+      "latitude": 39.8029,
+      "longitude": -104.9313
     },
     "openingHoursSpecification": [
       {
@@ -49,8 +49,8 @@
     "telephone": "720-459-7143",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.7575,
-      "longitude": -104.859
+      "latitude": 39.7471,
+      "longitude": -104.8702
     },
     "openingHoursSpecification": [
       {
@@ -84,8 +84,8 @@
     "telephone": "303-975-6485",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.6791,
-      "longitude": -104.9614
+      "latitude": 39.6784,
+      "longitude": -104.9682
     },
     "openingHoursSpecification": [
       {
@@ -119,8 +119,8 @@
     "telephone": "720-668-9823",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.997363,
-      "longitude": -104.813406
+      "latitude": 39.9936,
+      "longitude": -104.8141
     },
     "openingHoursSpecification": [
       {
@@ -294,8 +294,8 @@
     "telephone": "970-480-0660",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.7038,
-      "longitude": -105.0003
+      "latitude": 39.7117,
+      "longitude": -104.999
     },
     "openingHoursSpecification": [
       {
@@ -469,8 +469,8 @@
     "telephone": "575-636-2480",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 31.7989,
-      "longitude": -106.5812
+      "latitude": 31.8019,
+      "longitude": -106.5645
     },
     "openingHoursSpecification": [
       {
