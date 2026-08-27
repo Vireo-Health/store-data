@@ -279,6 +279,41 @@
       }
     ]
   },
+  "denver-colfax-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Denver Colfax",
+    "url": "https://everydayweed.com/stores/denver-colfax-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5130 E Colfax Ave",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-458-6450",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7402,
+      "longitude": -104.9272
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      }
+    ]
+  },
   "denver-byers-place-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
@@ -311,6 +346,41 @@
         ],
         "opens": "10:00",
         "closes": "20:00"
+      }
+    ]
+  },
+  "mile-high-stadium-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Denver Mile High",
+    "url": "https://everydayweed.com/stores/mile-high-stadium-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1845 Federal Blvd",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-315-0032",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7461,
+      "longitude": -105.0257
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "22:00"
       }
     ]
   },

@@ -1,15 +1,13 @@
-# Store hours sync — 2026-08-27T13:48:48.892Z
+# Store hours sync — 2026-08-27T13:58:29.303Z
 
 - checked: 16
-- applied: 0
-- held for review: 2
+- applied: 2
+- held for review: 0
 - errors: 0
 
-## Held for review
-- **denver-colfax-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-11pm`
-- **mile-high-stadium-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-10pm`
+## Applied
+- Denver Colfax: new baseline Daily 9am-11pm
+- Denver Mile High: new baseline Daily 9am-10pm
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
