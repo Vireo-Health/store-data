@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:35:25.461Z",
+  "generatedAt": "2026-08-27T13:49:00.336Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -144,78 +144,6 @@
       "type": null,
       "storeId": null,
       "storeUrl": "/stores/west-denver-sheridan-blvd/"
-    },
-    {
-      "slug": "dispensary-denver-mile-high",
-      "name": "Denver Mile High",
-      "address": "1845 Federal Blvd",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "970-315-0032",
-      "rating": 4.9,
-      "ratingCount": 207,
-      "lat": 39.7461341,
-      "lng": -105.0741143,
-      "shopId": "7021",
-      "timezone": "America/Denver",
-      "hours": "Daily 9am-10pm",
-      "hoursDotted": "Daily 9am–10pm",
-      "week": [
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/stores/dispensary-denver-mile-high/"
     },
     {
       "slug": "aspen",

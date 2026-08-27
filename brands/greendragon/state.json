@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:35:25.461Z",
+  "generatedAt": "2026-08-27T13:49:00.336Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -114,63 +114,6 @@
       "phone": "720-458-6650",
       "rating": 4.6,
       "ratingCount": 1125
-    },
-    "dispensary-denver-mile-high": {
-      "name": "Denver Mile High",
-      "week": [
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "phone": "970-315-0032",
-      "rating": 4.9,
-      "ratingCount": 207
     },
     "aspen": {
       "name": "Aspen",

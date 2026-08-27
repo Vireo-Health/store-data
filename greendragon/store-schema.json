@@ -69,41 +69,6 @@
       }
     ]
   },
-  "dispensary-denver-mile-high": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "Green Dragon Denver Mile High",
-    "url": "https://greendragon.com/stores/dispensary-denver-mile-high/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "1845 Federal Blvd",
-      "addressLocality": "Denver",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "970-315-0032",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7461341,
-      "longitude": -105.0741143
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "22:00"
-      }
-    ]
-  },
   "aspen": {
     "@context": "https://schema.org",
     "@type": "Store",
