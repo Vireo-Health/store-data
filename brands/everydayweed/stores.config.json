@@ -25,8 +25,8 @@
       "state": "CO",
       "address": "5844 Dahlia St",
       "phone": "303-999-0401",
-      "lat": 39.8083,
-      "lng": -104.9344,
+      "lat": 39.8029,
+      "lng": -104.9313,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
@@ -48,8 +48,8 @@
       "state": "CO",
       "address": "10100 E Montview Blvd",
       "phone": "720-459-7143",
-      "lat": 39.7575,
-      "lng": -104.859,
+      "lat": 39.7471,
+      "lng": -104.8702,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
@@ -71,8 +71,8 @@
       "state": "CO",
       "address": "1640 E Evans Ave",
       "phone": "303-975-6485",
-      "lat": 39.6791,
-      "lng": -104.9614,
+      "lat": 39.6784,
+      "lng": -104.9682,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
@@ -94,8 +94,8 @@
       "state": "CO",
       "address": "560 N 7th Ave",
       "phone": "720-668-9823",
-      "lat": 39.997363,
-      "lng": -104.813406,
+      "lat": 39.9936,
+      "lng": -104.8141,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
@@ -193,6 +193,29 @@
       "variants": []
     },
     {
+      "slug": "denver-colfax-dispensary",
+      "name": "Denver Colfax",
+      "webflowItemId": "6a7b5385e2e8ce5ff66346ff",
+      "placeId": "ChIJI-1VXw98bIcRW7f8oyu6NoA",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-08; the Google listing (Green Dragon Weed Dispensary - East Colfax, 5130 E Colfax Ave) is the live store's listing and still carries the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/ZuX028ITTkXnauah3",
+      "googleSearchQuery": "Every Day Weed Denver Colfax 5130 E Colfax Ave, Denver, CO 80220",
+      "timezone": "America/Denver",
+      "shopId": "459",
+      "city": "Denver",
+      "state": "CO",
+      "address": "5130 E Colfax Ave",
+      "phone": "720-458-6450",
+      "lat": 39.7402,
+      "lng": -104.9272,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "denver-byers-place-dispensary",
       "name": "Denver Byers Place",
       "webflowItemId": "6a85d45aa06ec1a21ebbba5f",
@@ -209,8 +232,31 @@
       "state": "CO",
       "address": "930 W Byers Pl",
       "phone": "970-480-0660",
-      "lat": 39.7038,
-      "lng": -105.0003,
+      "lat": 39.7117,
+      "lng": -104.999,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "mile-high-stadium-dispensary",
+      "name": "Denver Mile High",
+      "webflowItemId": "6a85d4db34db1668aec1f093",
+      "placeId": "ChIJH67cZZJ5bIcRUo5O9bwbNDo",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-08; the Google listing (Green Dragon Cannabis - Mile High, 1845 Federal Blvd) is the live store's listing and still carries the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/IPZJpoXrf7QKzxPuQ",
+      "googleSearchQuery": "Every Day Weed Mile High 1845 Federal Blvd, Denver, CO 80204",
+      "timezone": "America/Denver",
+      "shopId": "7021",
+      "city": "Denver",
+      "state": "CO",
+      "address": "1845 Federal Blvd",
+      "phone": "970-315-0032",
+      "lat": 39.7461,
+      "lng": -105.0257,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
@@ -321,8 +367,8 @@
       "state": "NM",
       "address": "1541 Appaloosa Dr",
       "phone": "575-636-2480",
-      "lat": 31.7989,
-      "lng": -106.5812,
+      "lat": 31.8019,
+      "lng": -106.5645,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
