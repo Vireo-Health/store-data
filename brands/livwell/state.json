@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:58:02.097Z",
+  "generatedAt": "2026-08-28T00:25:24.130Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4440
+      "ratingCount": 4442
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2553
+      "ratingCount": 2555
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5236
+      "ratingCount": 5237
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3691
+      "ratingCount": 3692
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1796
+      "ratingCount": 1798
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3754
+      "ratingCount": 3755
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
