@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:58:58.129Z",
+  "generatedAt": "2026-08-28T00:26:11.486Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -230,54 +230,54 @@
       "lng": -106.7031,
       "shopId": "4378",
       "timezone": "America/Denver",
-      "hours": "Daily 9am-10pm",
-      "hoursDotted": "Daily 9am–10pm",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
       "week": [
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
@@ -297,7 +297,7 @@
       "state": "NM",
       "phone": "(505) 872-6150",
       "rating": 4.8,
-      "ratingCount": 1095,
+      "ratingCount": 1098,
       "lat": 35.1043,
       "lng": -106.5666,
       "shopId": "4373",

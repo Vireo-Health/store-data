@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:58:58.129Z",
+  "generatedAt": "2026-08-28T00:26:11.486Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -177,49 +177,49 @@
       "week": [
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
+            "open": 480,
             "close": 1320,
             "closesNextDay": false
           }
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 872-6150",
       "rating": 4.8,
-      "ratingCount": 1095
+      "ratingCount": 1098
     },
     "west-central": {
       "name": "West Central",
