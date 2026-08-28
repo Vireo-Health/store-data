@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:58:18.209Z",
+  "generatedAt": "2026-08-28T00:25:36.088Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7571
+      "ratingCount": 7572
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2819
+      "ratingCount": 2821
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3001
+      "ratingCount": 3002
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
