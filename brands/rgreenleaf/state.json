@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:57:46.073Z",
+  "generatedAt": "2026-08-28T00:25:10.941Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 501
+      "ratingCount": 502
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 520
+      "ratingCount": 521
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 468
+      "ratingCount": 469
     },
     "dispensary-roswell": {
       "name": "Roswell",
