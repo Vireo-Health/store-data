@@ -1,4 +1,4 @@
-# Store hours sync — 2026-08-28T00:25:49.003Z
+# Store hours sync — 2026-08-29T00:01:26.777Z
 
 - checked: 16
 - applied: 0
@@ -9,5 +9,5 @@
 Nothing was published from these — fix the listing in Google Business Profile.
 - **capitol-hill-dispensary** — listing website points at greendragon.com, expected everydayweed.com
 - **denver-colfax-dispensary** — listing website points at greendragon.com, expected everydayweed.com
-- **mile-high-stadium-dispensary** — listing website points at greendragon.com, expected everydayweed.com
+- **denver-byers-place-dispensary** — listing website points at greendragon.com, expected everydayweed.com
 
