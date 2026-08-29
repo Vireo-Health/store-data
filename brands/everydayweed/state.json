@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:01:26.777Z",
+  "generatedAt": "2026-08-29T18:31:07.974Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5708
+      "ratingCount": 5707
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
