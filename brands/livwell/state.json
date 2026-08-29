@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:01:05.011Z",
+  "generatedAt": "2026-08-29T18:30:44.791Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3019
+      "ratingCount": 3020
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4449
+      "ratingCount": 4455
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1903
+      "ratingCount": 1904
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2124
+      "ratingCount": 2127
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3756
+      "ratingCount": 3757
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1642
+      "ratingCount": 1644
     }
   }
 }
