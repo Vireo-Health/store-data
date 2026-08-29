@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T00:25:36.088Z",
+  "generatedAt": "2026-08-29T00:01:16.084Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7572
+      "ratingCount": 7573
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -568,8 +568,8 @@
         ]
       ],
       "phone": "(970) 515-5839",
-      "rating": 4.6,
-      "ratingCount": 678
+      "rating": 4.7,
+      "ratingCount": 680
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11438
+      "ratingCount": 11439
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2224
+      "ratingCount": 2225
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
