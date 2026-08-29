@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:01:16.084Z",
+  "generatedAt": "2026-08-29T18:30:56.333Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1115
+      "ratingCount": 1116
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7573
+      "ratingCount": 7574
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2821
+      "ratingCount": 2823
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1215
+      "ratingCount": 1217
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 680
+      "ratingCount": 681
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -683,7 +683,7 @@
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
-      "ratingCount": 1719
+      "ratingCount": 1720
     },
     "niwot-dispensary": {
       "name": "Niwot",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 952
+      "ratingCount": 949
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
