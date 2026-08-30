@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:30:32.517Z",
+  "generatedAt": "2026-08-30T18:38:28.156Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -113,7 +113,7 @@
       ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 407
+      "ratingCount": 408
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 469
+      "ratingCount": 470
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 328
+      "ratingCount": 329
     }
   }
 }
