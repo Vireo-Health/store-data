@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:31:44.264Z",
+  "generatedAt": "2026-08-30T18:39:36.612Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1158
+      "ratingCount": 1159
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 949
+      "ratingCount": 948
     },
     "lakewood": {
       "name": "Lakewood",
@@ -226,8 +226,8 @@
         ]
       ],
       "phone": "970-515-5839",
-      "rating": 4.7,
-      "ratingCount": 681
+      "rating": 4.6,
+      "ratingCount": 682
     },
     "fort-collins": {
       "name": "Fort Collins",

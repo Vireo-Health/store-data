@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:31:44.264Z",
+  "generatedAt": "2026-08-30T18:39:36.612Z",
   "stores": [
     {
       "slug": "denver",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1158,
+      "ratingCount": 1159,
       "lat": 39.769447,
       "lng": -104.9996229,
       "shopId": "5531",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 949,
+      "ratingCount": 948,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "5532",
@@ -224,8 +224,8 @@
       "city": "Garden City",
       "state": "CO",
       "phone": "970-515-5839",
-      "rating": 4.7,
-      "ratingCount": 681,
+      "rating": 4.6,
+      "ratingCount": 682,
       "lat": 40.39714,
       "lng": -104.69101,
       "shopId": "5365",
