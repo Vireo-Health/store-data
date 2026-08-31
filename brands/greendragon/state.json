@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:39:18.311Z",
+  "generatedAt": "2026-08-31T20:50:51.668Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 907
+      "ratingCount": 908
     },
     "west-denver-sheridan-blvd": {
       "name": "Denver Sheridan Blvd",
