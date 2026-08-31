@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:39:27.337Z",
+  "generatedAt": "2026-08-31T20:51:04.244Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "505-295-3245",
       "rating": 4.6,
-      "ratingCount": 291
+      "ratingCount": 292
     },
     "uptown": {
       "name": "Uptown",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 872-6150",
       "rating": 4.8,
-      "ratingCount": 1124
+      "ratingCount": 1125
     },
     "west-central": {
       "name": "West Central",
