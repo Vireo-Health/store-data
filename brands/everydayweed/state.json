@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:50:38.319Z",
+  "generatedAt": "2026-09-01T18:31:40.747Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1758
+      "ratingCount": 1760
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 970
+      "ratingCount": 971
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -797,7 +797,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 390
+      "ratingCount": 391
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -911,7 +911,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 718
+      "ratingCount": 719
     }
   }
 }
