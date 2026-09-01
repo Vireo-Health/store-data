@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:50:25.867Z",
+  "generatedAt": "2026-09-01T18:31:27.600Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1118
+      "ratingCount": 1119
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7576
+      "ratingCount": 7579
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2824
+      "ratingCount": 2823
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2573
+      "ratingCount": 2572
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1223
+      "ratingCount": 1228
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 682
+      "ratingCount": 683
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1288
+      "ratingCount": 1287
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11440
+      "ratingCount": 11438
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
