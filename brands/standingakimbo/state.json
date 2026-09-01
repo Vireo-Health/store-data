@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:51:16.918Z",
+  "generatedAt": "2026-09-01T18:32:22.928Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2573
+      "ratingCount": 2572
     },
     "garden-city": {
       "name": "Garden City",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 682
+      "ratingCount": 683
     },
     "fort-collins": {
       "name": "Fort Collins",
