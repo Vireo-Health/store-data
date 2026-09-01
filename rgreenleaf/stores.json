@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:50:00.931Z",
+  "generatedAt": "2026-09-01T18:31:00.099Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -1160,8 +1160,8 @@
       "city": "Albuquerque",
       "state": "NM",
       "phone": "(505) 217-9101",
-      "rating": 4.5,
-      "ratingCount": 470,
+      "rating": 4.4,
+      "ratingCount": 471,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
@@ -1232,8 +1232,8 @@
       "city": "Albuquerque",
       "state": "NM",
       "phone": "(505) 217-9101",
-      "rating": 4.5,
-      "ratingCount": 470,
+      "rating": 4.4,
+      "ratingCount": 471,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
