@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:51:04.244Z",
+  "generatedAt": "2026-09-01T18:32:06.936Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -56,7 +56,7 @@
       ],
       "phone": "575-332-9037",
       "rating": 4.5,
-      "ratingCount": 559
+      "ratingCount": 558
     },
     "los-lunas": {
       "name": "Los Lunas",
