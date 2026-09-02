@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:31:27.600Z",
+  "generatedAt": "2026-09-02T18:43:24.193Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -446,55 +446,55 @@
       "lng": -105.082,
       "shopId": "5590",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-9:50pm",
+      "hoursDotted": "Daily 8am–9:50pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ]
@@ -518,55 +518,55 @@
       "lng": -105.082,
       "shopId": "5590",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-9:50pm",
+      "hoursDotted": "Daily 8am–9:50pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ]
@@ -657,7 +657,7 @@
       "state": "CO",
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1228,
+      "ratingCount": 1230,
       "lat": 39.92844,
       "lng": -104.92636,
       "shopId": "413",
@@ -729,7 +729,7 @@
       "state": "CO",
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 988,
+      "ratingCount": 989,
       "lat": 40.50689,
       "lng": -105.07682,
       "shopId": "5367",
@@ -873,7 +873,7 @@
       "state": "CO",
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1287,
+      "ratingCount": 1286,
       "lat": 40.20333,
       "lng": -105.13153,
       "shopId": "3659",
