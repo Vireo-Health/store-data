@@ -262,6 +262,29 @@
       "variants": []
     },
     {
+      "slug": "wheat-ridge-dispensary",
+      "name": "Denver Sheridan Blvd",
+      "webflowItemId": "6a286280e1a8c8043a9d577c",
+      "placeId": "ChIJc7akEJ-Ha4cRbGBAMbBQAUk",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-09; the Google listing (Green Dragon Weed Dispensary - West Denver, 4103 Sheridan Blvd) is the live store's listing and still carries the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/N3qPvGOA3Z7laOAKz",
+      "googleSearchQuery": "Every Day Weed Denver Sheridan 4103 Sheridan Blvd, Denver, CO 80212",
+      "timezone": "America/Denver",
+      "shopId": "412",
+      "city": "Denver",
+      "state": "CO",
+      "address": "4103 Sheridan Blvd",
+      "phone": "720-458-6650",
+      "lat": 39.7731,
+      "lng": -105.0534,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",

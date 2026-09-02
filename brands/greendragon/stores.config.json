@@ -32,25 +32,6 @@
       "variants": []
     },
     {
-      "slug": "west-denver-sheridan-blvd",
-      "name": "Denver Sheridan Blvd",
-      "webflowItemId": "698a2e7d88847251ea693754",
-      "placeId": "ChIJc7akEJ-Ha4cRbGBAMbBQAUk",
-      "googleBusinessLink": "https://share.google/N3qPvGOA3Z7laOAKz",
-      "googleSearchQuery": "Green Dragon Denver Sheridan 4103 Sheridan Blvd, Denver, CO 80212",
-      "timezone": "America/Denver",
-      "shopId": "412",
-      "city": "Denver",
-      "state": "CO",
-      "address": "4103 Sheridan Blvd",
-      "phone": "720-458-6650",
-      "lat": 39.7713,
-      "lng": -105.0534,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "aspen",
       "name": "Aspen",
       "webflowItemId": "698a2e22b4a5c45216c1a8ef",
