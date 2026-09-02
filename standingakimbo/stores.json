@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:32:22.928Z",
+  "generatedAt": "2026-09-02T18:44:14.251Z",
   "stores": [
     {
       "slug": "denver",
@@ -158,55 +158,55 @@
       "lng": -105.082,
       "shopId": "6368",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-9:50pm",
+      "hoursDotted": "Daily 8am–9:50pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1310,
             "closesNextDay": false
           }
         ]
