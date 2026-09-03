@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:44:14.251Z",
+  "generatedAt": "2026-09-03T18:41:00.896Z",
   "stores": [
     {
       "slug": "denver",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "(970) 232-9034",
       "rating": 4.7,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "lat": 40.50689,
       "lng": -105.07682,
       "shopId": "5368",
