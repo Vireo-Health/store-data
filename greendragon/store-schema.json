@@ -34,41 +34,6 @@
       }
     ]
   },
-  "west-denver-sheridan-blvd": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "Green Dragon Denver Sheridan Blvd",
-    "url": "https://greendragon.com/stores/west-denver-sheridan-blvd/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "4103 Sheridan Blvd",
-      "addressLocality": "Denver",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "720-458-6650",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7713,
-      "longitude": -105.0534
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "23:45"
-      }
-    ]
-  },
   "aspen": {
     "@context": "https://schema.org",
     "@type": "Store",

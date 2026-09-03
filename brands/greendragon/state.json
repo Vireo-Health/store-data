@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:43:47.619Z",
+  "generatedAt": "2026-09-03T18:40:33.254Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -57,63 +57,6 @@
       "phone": "970-480-0640",
       "rating": 4.6,
       "ratingCount": 908
-    },
-    "west-denver-sheridan-blvd": {
-      "name": "Denver Sheridan Blvd",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "phone": "720-458-6650",
-      "rating": 4.6,
-      "ratingCount": 1125
     },
     "aspen": {
       "name": "Aspen",

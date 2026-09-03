@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:43:47.619Z",
+  "generatedAt": "2026-09-03T18:40:33.254Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -72,78 +72,6 @@
       "type": null,
       "storeId": null,
       "storeUrl": "/stores/edgewater/"
-    },
-    {
-      "slug": "west-denver-sheridan-blvd",
-      "name": "Denver Sheridan Blvd",
-      "address": "4103 Sheridan Blvd",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "720-458-6650",
-      "rating": 4.6,
-      "ratingCount": 1125,
-      "lat": 39.7713,
-      "lng": -105.0534,
-      "shopId": "412",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-11:45pm",
-      "hoursDotted": "Daily 8am–11:45pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1425,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/stores/west-denver-sheridan-blvd/"
     },
     {
       "slug": "aspen",
