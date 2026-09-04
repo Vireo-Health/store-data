@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:41:00.896Z",
+  "generatedAt": "2026-09-04T18:26:01.250Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 420
+      "ratingCount": 421
     }
   }
 }
