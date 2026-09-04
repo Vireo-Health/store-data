@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:40:06.687Z",
+  "generatedAt": "2026-09-04T18:25:02.342Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7580
+      "ratingCount": 7581
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2823
+      "ratingCount": 2825
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3003
+      "ratingCount": 3004
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1230
+      "ratingCount": 1231
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 989
+      "ratingCount": 988
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2226
+      "ratingCount": 2227
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
