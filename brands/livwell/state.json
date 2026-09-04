@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:39:46.420Z",
+  "generatedAt": "2026-09-04T18:24:49.843Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4491
+      "ratingCount": 4501
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -178,49 +178,49 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5239
+      "ratingCount": 5244
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1905
+      "ratingCount": 1907
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3693
+      "ratingCount": 3694
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2133
+      "ratingCount": 2132
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3763
+      "ratingCount": 3766
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",

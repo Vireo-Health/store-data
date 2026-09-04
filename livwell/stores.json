@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:39:46.420Z",
+  "generatedAt": "2026-09-04T18:24:49.843Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4491,
+      "ratingCount": 4501,
       "lat": 39.7406829,
       "lng": -104.7642405,
       "shopId": "6958",
@@ -230,55 +230,55 @@
       "lng": -104.9080879,
       "shopId": "6964",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5239,
+      "ratingCount": 5244,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1905,
+      "ratingCount": 1907,
       "lat": 39.8573585,
       "lng": -105.0238961,
       "shopId": "6959",
@@ -657,7 +657,7 @@
       "state": "CO",
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3693,
+      "ratingCount": 3694,
       "lat": 40.39387019999999,
       "lng": -104.6918357,
       "shopId": "6954",
@@ -945,7 +945,7 @@
       "state": "CO",
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2133,
+      "ratingCount": 2132,
       "lat": 38.3475258,
       "lng": -104.6212597,
       "shopId": "6962",
@@ -1089,7 +1089,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3763,
+      "ratingCount": 3766,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",
