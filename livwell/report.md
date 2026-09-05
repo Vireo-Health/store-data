@@ -1,10 +1,7 @@
-# Store hours sync — 2026-09-04T18:24:49.843Z
+# Store hours sync — 2026-09-05T17:21:16.494Z
 
 - checked: 17
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Central Park: Daily 8am-9pm  ->  Daily 8am-12am  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
