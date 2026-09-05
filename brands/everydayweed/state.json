@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T18:25:14.831Z",
+  "generatedAt": "2026-09-05T17:21:41.363Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2570
+      "ratingCount": 2571
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -568,8 +568,8 @@
         ]
       ],
       "phone": "970-480-0660",
-      "rating": 4.5,
-      "ratingCount": 553
+      "rating": 4.6,
+      "ratingCount": 554
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -911,7 +911,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 721
+      "ratingCount": 722
     }
   }
 }
