@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:22:16.514Z",
+  "generatedAt": "2026-09-06T17:37:49.526Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 943
+      "ratingCount": 942
     },
     "lakewood": {
       "name": "Lakewood",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2572
+      "ratingCount": 2573
     },
     "garden-city": {
       "name": "Garden City",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 683
+      "ratingCount": 684
     },
     "fort-collins": {
       "name": "Fort Collins",
