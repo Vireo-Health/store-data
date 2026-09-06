@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:21:02.774Z",
+  "generatedAt": "2026-09-06T17:36:33.140Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -113,7 +113,7 @@
       ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 414
+      "ratingCount": 415
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 605
+      "ratingCount": 607
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 503
+      "ratingCount": 504
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 197
+      "ratingCount": 198
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 524
+      "ratingCount": 526
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -398,7 +398,7 @@
       ],
       "phone": "505-962-2155",
       "rating": 4.8,
-      "ratingCount": 201
+      "ratingCount": 202
     },
     "dispensary-albuquerque-midtown": {
       "name": "Midtown",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.4,
-      "ratingCount": 471
+      "ratingCount": 472
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -569,7 +569,7 @@
       ],
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 279
+      "ratingCount": 280
     },
     "dispensary-santa-fe": {
       "name": "Santa Fe",
