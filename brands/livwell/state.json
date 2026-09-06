@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:21:16.494Z",
+  "generatedAt": "2026-09-06T17:36:44.938Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3024
+      "ratingCount": 3026
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4508
+      "ratingCount": 4516
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2080
+      "ratingCount": 2081
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1794
+      "ratingCount": 1793
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2556
+      "ratingCount": 2555
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1907
+      "ratingCount": 1908
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7606
+      "ratingCount": 7603
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2416
+      "ratingCount": 2418
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1799
+      "ratingCount": 1800
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3766
+      "ratingCount": 3763
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
