@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:41:06.766Z",
+  "generatedAt": "2026-09-09T18:37:22.615Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7587
+      "ratingCount": 7586
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 942
+      "ratingCount": 944
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11438
+      "ratingCount": 11437
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
