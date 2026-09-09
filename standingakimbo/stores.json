@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:41:49.793Z",
+  "generatedAt": "2026-09-09T18:38:09.466Z",
   "stores": [
     {
       "slug": "denver",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 942,
+      "ratingCount": 944,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "5532",
