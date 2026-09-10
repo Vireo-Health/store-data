@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:36:59.915Z",
+  "generatedAt": "2026-09-10T18:29:03.834Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 613
+      "ratingCount": 614
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 526
+      "ratingCount": 527
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -683,7 +683,7 @@
       ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 893
+      "ratingCount": 895
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",
