@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:38:09.466Z",
+  "generatedAt": "2026-09-10T18:30:27.246Z",
   "stores": [
     {
       "slug": "denver",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1161,
+      "ratingCount": 1162,
       "lat": 39.769447,
       "lng": -104.9996229,
       "shopId": "5531",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 944,
+      "ratingCount": 945,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "5532",
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 421,
+      "ratingCount": 422,
       "lat": 39.997363,
       "lng": -104.813406,
       "shopId": "6877",
