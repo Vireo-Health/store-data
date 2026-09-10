@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:37:34.541Z",
+  "generatedAt": "2026-09-10T18:29:48.280Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1767,
+      "ratingCount": 1769,
       "lat": 39.8029,
       "lng": -104.9313,
       "shopId": "1758",
@@ -86,13 +86,13 @@
       "lng": -104.8702,
       "shopId": "1764",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-11:45pm",
-      "hoursDotted": "Daily 8am–11:45pm",
+      "hours": "Mon-Sat 8am-11:45pm, Sun 8am-10pm",
+      "hoursDotted": "Mon–Sat 8am–11:45pm · Sun 8am–10pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -225,7 +225,7 @@
       "state": "CO",
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 421,
+      "ratingCount": 422,
       "lat": 39.9936,
       "lng": -104.8141,
       "shopId": "6217",
@@ -584,8 +584,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "720-458-6450",
-      "rating": 4.6,
-      "ratingCount": 599,
+      "rating": 4.7,
+      "ratingCount": 595,
       "lat": 39.7402,
       "lng": -104.9272,
       "shopId": "459",
@@ -1017,7 +1017,7 @@
       "state": "CO",
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 629,
+      "ratingCount": 630,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",

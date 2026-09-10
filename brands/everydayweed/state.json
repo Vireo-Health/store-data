@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:37:34.541Z",
+  "generatedAt": "2026-09-10T18:29:48.280Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1767
+      "ratingCount": 1769
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -64,7 +64,7 @@
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 421
+      "ratingCount": 422
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -511,8 +511,8 @@
         ]
       ],
       "phone": "720-458-6450",
-      "rating": 4.6,
-      "ratingCount": 599
+      "rating": 4.7,
+      "ratingCount": 595
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -854,7 +854,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 629
+      "ratingCount": 630
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
