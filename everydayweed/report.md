@@ -1,4 +1,4 @@
-# Store hours sync — 2026-09-10T18:29:48.280Z
+# Store hours sync — 2026-09-11T18:34:22.598Z
 
 - checked: 17
 - applied: 1
@@ -6,17 +6,9 @@
 - errors: 0
 
 ## Applied
-- Aurora Montview: Daily 8am-11:45pm  ->  Mon-Sat 8am-11:45pm, Sun 8am-10pm  [Sun]
+- Aurora Montview: Mon-Sat 8am-11:45pm, Sun 8am-10pm  ->  Daily 8am-11:45pm  [Sun]
 
 ## Held for review
 - **wheat-ridge-dispensary** — no stored baseline yet — first run needs confirmation
   - proposed: `Daily 8am-11:45pm`
-
-## Listing audit
-Nothing was published from these — fix the listing in Google Business Profile.
-- **capitol-hill-dispensary** — listing website points at greendragon.com, expected everydayweed.com
-- **denver-colfax-dispensary** — listing website points at greendragon.com, expected everydayweed.com
-- **denver-byers-place-dispensary** — listing website points at greendragon.com, expected everydayweed.com
-- **mile-high-stadium-dispensary** — listing website points at greendragon.com, expected everydayweed.com
-- **wheat-ridge-dispensary** — listing website points at greendragon.com, expected everydayweed.com
 

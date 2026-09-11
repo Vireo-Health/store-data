@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:29:48.280Z",
+  "generatedAt": "2026-09-11T18:34:22.598Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -64,7 +64,7 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 971
+      "ratingCount": 972
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 182
+      "ratingCount": 184
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",

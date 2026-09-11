@@ -61,18 +61,11 @@
           "Wednesday",
           "Thursday",
           "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "23:45"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Saturday",
           "Sunday"
         ],
         "opens": "08:00",
-        "closes": "22:00"
+        "closes": "23:45"
       }
     ]
   },
