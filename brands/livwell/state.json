@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:29:19.212Z",
+  "generatedAt": "2026-09-11T18:33:53.008Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1287
+      "ratingCount": 1286
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4529
+      "ratingCount": 4532
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2080
+      "ratingCount": 2081
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2556
+      "ratingCount": 2558
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5250
+      "ratingCount": 5251
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1908
+      "ratingCount": 1907
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7604
+      "ratingCount": 7605
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2558
+      "ratingCount": 2557
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
