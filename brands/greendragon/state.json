@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:30:00.186Z",
+  "generatedAt": "2026-09-11T18:34:38.893Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -135,14 +135,14 @@
         [
           {
             "open": 660,
-            "close": 1200,
+            "close": 960,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 660,
-            "close": 1200,
+            "close": 960,
             "closesNextDay": false
           }
         ],
