@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:34:22.598Z",
+  "generatedAt": "2026-09-12T17:45:26.624Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1769
+      "ratingCount": 1768
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5709
+      "ratingCount": 5708
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 972
+      "ratingCount": 973
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3717
+      "ratingCount": 3719
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 184
+      "ratingCount": 185
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
