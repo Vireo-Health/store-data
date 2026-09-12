@@ -1,10 +1,7 @@
-# Store hours sync — 2026-09-11T18:34:38.893Z
+# Store hours sync — 2026-09-12T17:45:41.041Z
 
 - checked: 3
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Telluride: Daily 11am-8pm  ->  Mon 11am-8pm, Tue-Wed 11am-4pm, Thu-Sun 11am-8pm  [Tue, Wed]
 
