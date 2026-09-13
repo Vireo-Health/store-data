@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:45:15.472Z",
+  "generatedAt": "2026-09-13T18:12:49.699Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7591
+      "ratingCount": 7590
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1978
+      "ratingCount": 1979
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2577
+      "ratingCount": 2578
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3010
+      "ratingCount": 3011
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1232
+      "ratingCount": 1234
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 986
+      "ratingCount": 988
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1289
+      "ratingCount": 1290
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11439
+      "ratingCount": 11440
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
