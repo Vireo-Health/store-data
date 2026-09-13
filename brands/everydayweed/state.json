@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:45:26.624Z",
+  "generatedAt": "2026-09-13T18:13:01.676Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1768
+      "ratingCount": 1769
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2574
+      "ratingCount": 2575
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 422
+      "ratingCount": 423
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 973
+      "ratingCount": 974
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
