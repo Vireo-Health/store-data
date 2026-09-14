@@ -1,4 +1,4 @@
-# Store hours sync — 2026-09-13T18:13:01.676Z
+# Store hours sync — 2026-09-14T19:51:30.064Z
 
 - checked: 17
 - applied: 0
