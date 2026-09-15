@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:51:02.640Z",
+  "generatedAt": "2026-09-15T19:01:02.530Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1287
+      "ratingCount": 1288
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4545
+      "ratingCount": 4549
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7602
+      "ratingCount": 7604
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1799
+      "ratingCount": 1800
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2136
+      "ratingCount": 2137
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
