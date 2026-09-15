@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:50:47.161Z",
+  "generatedAt": "2026-09-15T19:00:50.030Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 615
+      "ratingCount": 616
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -398,7 +398,7 @@
       ],
       "phone": "505-962-2155",
       "rating": 4.7,
-      "ratingCount": 204
+      "ratingCount": 203
     },
     "dispensary-albuquerque-midtown": {
       "name": "Midtown",
