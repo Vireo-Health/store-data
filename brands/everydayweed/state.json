@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:51:30.064Z",
+  "generatedAt": "2026-09-15T19:01:29.792Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1773
+      "ratingCount": 1774
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 423
+      "ratingCount": 424
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3719
+      "ratingCount": 3718
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 595
+      "ratingCount": 594
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 557
+      "ratingCount": 556
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -911,7 +911,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 722
+      "ratingCount": 723
     }
   }
 }
