@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:00:50.030Z",
+  "generatedAt": "2026-09-16T18:54:21.623Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -585,7 +585,7 @@
       "state": "NM",
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "lat": 32.7126,
       "lng": -103.136,
       "shopId": "hobbs",
@@ -657,7 +657,7 @@
       "state": "NM",
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "lat": 32.7126,
       "lng": -103.136,
       "shopId": "hobbs",
@@ -1017,7 +1017,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1188,
+      "ratingCount": 1189,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1089,7 +1089,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1188,
+      "ratingCount": 1189,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",

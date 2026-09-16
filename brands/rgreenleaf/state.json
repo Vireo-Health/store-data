@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:00:50.030Z",
+  "generatedAt": "2026-09-16T18:54:21.623Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 200
+      "ratingCount": 201
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1188
+      "ratingCount": 1189
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
