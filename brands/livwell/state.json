@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:01:02.530Z",
+  "generatedAt": "2026-09-16T18:54:32.050Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4549
+      "ratingCount": 4555
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3770
+      "ratingCount": 3771
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
