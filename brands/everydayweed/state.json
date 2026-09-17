@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:54:59.468Z",
+  "generatedAt": "2026-09-17T19:02:43.488Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1777
+      "ratingCount": 1778
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2246
+      "ratingCount": 2247
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 424
+      "ratingCount": 425
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5709
+      "ratingCount": 5710
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 184
+      "ratingCount": 185
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
@@ -797,7 +797,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.6,
-      "ratingCount": 396
+      "ratingCount": 397
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
