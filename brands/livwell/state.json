@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:02:19.639Z",
+  "generatedAt": "2026-09-18T18:29:09.851Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4559
+      "ratingCount": 4565
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1792
+      "ratingCount": 1791
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2559
+      "ratingCount": 2560
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5257
+      "ratingCount": 5262
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1907
+      "ratingCount": 1908
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2558
+      "ratingCount": 2557
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3775
+      "ratingCount": 3781
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
