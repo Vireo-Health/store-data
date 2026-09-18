@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:02:43.488Z",
+  "generatedAt": "2026-09-18T18:29:35.563Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 425
+      "ratingCount": 426
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 595
+      "ratingCount": 596
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
