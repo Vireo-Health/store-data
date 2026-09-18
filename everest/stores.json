@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:03:07.273Z",
+  "generatedAt": "2026-09-18T18:30:04.221Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -225,7 +225,7 @@
       "state": "NM",
       "phone": "505-295-3245",
       "rating": 4.6,
-      "ratingCount": 294,
+      "ratingCount": 295,
       "lat": 35.1296,
       "lng": -106.7031,
       "shopId": "4378",

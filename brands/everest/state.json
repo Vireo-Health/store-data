@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:03:07.273Z",
+  "generatedAt": "2026-09-18T18:30:04.221Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "505-295-3245",
       "rating": 4.6,
-      "ratingCount": 294
+      "ratingCount": 295
     },
     "uptown": {
       "name": "Uptown",
