@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:29:35.563Z",
+  "generatedAt": "2026-09-19T18:01:51.145Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 426
+      "ratingCount": 427
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 185
+      "ratingCount": 186
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
