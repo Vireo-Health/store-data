@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:29:22.758Z",
+  "generatedAt": "2026-09-19T18:01:36.886Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7589
+      "ratingCount": 7587
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2828
+      "ratingCount": 2829
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2580
+      "ratingCount": 2581
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3013
+      "ratingCount": 3012
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1235
+      "ratingCount": 1236
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 943
+      "ratingCount": 942
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11439
+      "ratingCount": 11440
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
