@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:02:14.313Z",
+  "generatedAt": "2026-09-20T18:13:08.668Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -369,7 +369,7 @@
       "state": "NM",
       "phone": "(505) 836-8620",
       "rating": 4.8,
-      "ratingCount": 684,
+      "ratingCount": 685,
       "lat": 35.0857,
       "lng": -106.7095,
       "shopId": "4382",
