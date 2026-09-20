@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:01:36.886Z",
+  "generatedAt": "2026-09-20T18:12:30.719Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2829
+      "ratingCount": 2830
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2229
+      "ratingCount": 2230
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
