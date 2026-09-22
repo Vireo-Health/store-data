@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:01:27.812Z",
+  "generatedAt": "2026-09-22T18:55:25.681Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7587
+      "ratingCount": 7588
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1983
+      "ratingCount": 1984
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2581
+      "ratingCount": 2582
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 942
+      "ratingCount": 943
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1805
+      "ratingCount": 1806
     }
   }
 }
