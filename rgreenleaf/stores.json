@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:00:53.721Z",
+  "generatedAt": "2026-09-22T18:54:55.684Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -729,7 +729,7 @@
       "state": "NM",
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 528,
+      "ratingCount": 530,
       "lat": 32.3199,
       "lng": -106.7637,
       "shopId": "las-cruces",
@@ -801,7 +801,7 @@
       "state": "NM",
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 528,
+      "ratingCount": 530,
       "lat": 32.3199,
       "lng": -106.7637,
       "shopId": "las-cruces",
