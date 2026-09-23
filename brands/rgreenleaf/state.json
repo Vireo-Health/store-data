@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:54:55.684Z",
+  "generatedAt": "2026-09-23T19:03:45.855Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 201
+      "ratingCount": 202
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -625,8 +625,8 @@
         ]
       ],
       "phone": "505-962-2161",
-      "rating": 4.3,
-      "ratingCount": 193
+      "rating": 4.4,
+      "ratingCount": 192
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
