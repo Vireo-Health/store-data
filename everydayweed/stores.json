@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:55:36.681Z",
+  "generatedAt": "2026-09-23T19:04:19.446Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 974,
+      "ratingCount": 975,
       "lat": 39.726,
       "lng": -104.8116,
       "shopId": "458",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 537,
+      "ratingCount": 539,
       "lat": 39.7361641,
       "lng": -104.9830365,
       "shopId": "436",
@@ -585,7 +585,7 @@
       "state": "CO",
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 596,
+      "ratingCount": 598,
       "lat": 39.7402,
       "lng": -104.9272,
       "shopId": "459",

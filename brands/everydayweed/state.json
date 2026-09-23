@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:55:36.681Z",
+  "generatedAt": "2026-09-23T19:04:19.446Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 974
+      "ratingCount": 975
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 537
+      "ratingCount": 539
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 596
+      "ratingCount": 598
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
