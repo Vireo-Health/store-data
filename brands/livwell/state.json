@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:55:12.424Z",
+  "generatedAt": "2026-09-23T19:03:57.194Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5267
+      "ratingCount": 5270
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1802
+      "ratingCount": 1804
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1664
+      "ratingCount": 1665
     }
   }
 }
