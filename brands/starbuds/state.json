@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:04:08.525Z",
+  "generatedAt": "2026-09-24T19:10:45.352Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1236
+      "ratingCount": 1235
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 685
+      "ratingCount": 686
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 943
+      "ratingCount": 944
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11439
+      "ratingCount": 11440
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
