@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:05:32.987Z",
+  "generatedAt": "2026-09-24T19:11:29.583Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 943
+      "ratingCount": 944
     },
     "lakewood": {
       "name": "Lakewood",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 685
+      "ratingCount": 686
     },
     "fort-collins": {
       "name": "Fort Collins",
