@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:11:29.583Z",
+  "generatedAt": "2026-09-25T19:16:17.936Z",
   "stores": [
     {
       "slug": "denver",
@@ -14,55 +14,55 @@
       "lng": -104.9996229,
       "shopId": "5531",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-9:45pm",
+      "hoursDotted": "Daily 8am–9:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ]
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 944,
+      "ratingCount": 947,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "5532",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2582,
+      "ratingCount": 2586,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "6368",
@@ -225,7 +225,7 @@
       "state": "CO",
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 686,
+      "ratingCount": 687,
       "lat": 40.39714,
       "lng": -104.69101,
       "shopId": "5365",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:11:29.583Z",
+  "generatedAt": "2026-09-25T19:16:17.936Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -7,49 +7,49 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1305,
             "closesNextDay": false
           }
         ]
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 944
+      "ratingCount": 947
     },
     "lakewood": {
       "name": "Lakewood",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2582
+      "ratingCount": 2586
     },
     "garden-city": {
       "name": "Garden City",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 686
+      "ratingCount": 687
     },
     "fort-collins": {
       "name": "Fort Collins",
