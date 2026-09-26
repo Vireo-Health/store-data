@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:15:17.624Z",
+  "generatedAt": "2026-09-26T18:37:04.330Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3024
+      "ratingCount": 3023
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4585
+      "ratingCount": 4589
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2082
+      "ratingCount": 2081
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
-      "ratingCount": 1908
+      "ratingCount": 1907
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7603
+      "ratingCount": 7605
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3701
+      "ratingCount": 3700
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
