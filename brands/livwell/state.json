@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:37:04.330Z",
+  "generatedAt": "2026-09-27T18:59:06.066Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4589
+      "ratingCount": 4591
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2081
+      "ratingCount": 2082
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2561
+      "ratingCount": 2560
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7605
+      "ratingCount": 7604
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2421
+      "ratingCount": 2422
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3787
+      "ratingCount": 3788
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
