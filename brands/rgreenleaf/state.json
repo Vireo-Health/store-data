@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:36:51.659Z",
+  "generatedAt": "2026-09-27T18:58:54.920Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -341,7 +341,7 @@
       ],
       "phone": "(575) 366-9072",
       "rating": 4.5,
-      "ratingCount": 531
+      "ratingCount": 532
     },
     "dispensary-las-vegas-nm": {
       "name": "Las Vegas",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 338
+      "ratingCount": 339
     }
   }
 }
