@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:37:14.556Z",
+  "generatedAt": "2026-09-27T18:59:17.988Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1124
+      "ratingCount": 1125
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7593
+      "ratingCount": 7591
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1984
+      "ratingCount": 1983
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3014
+      "ratingCount": 3015
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 947
+      "ratingCount": 948
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11443
+      "ratingCount": 11442
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
