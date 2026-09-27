@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:38:02.627Z",
+  "generatedAt": "2026-09-27T19:00:05.969Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 947
+      "ratingCount": 948
     },
     "lakewood": {
       "name": "Lakewood",
