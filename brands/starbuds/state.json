@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:59:17.988Z",
+  "generatedAt": "2026-09-28T21:14:56.062Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -292,56 +292,56 @@
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2588
+      "ratingCount": 2589
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1236
+      "ratingCount": 1238
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 948
+      "ratingCount": 949
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1807
+      "ratingCount": 1808
     }
   }
 }
