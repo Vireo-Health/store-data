@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:59:42.140Z",
+  "generatedAt": "2026-09-28T21:15:26.681Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 912,
+      "ratingCount": 913,
       "lat": 39.7523,
       "lng": -105.0536,
       "shopId": "457",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 218,
+      "ratingCount": 220,
       "lat": 39.1888,
       "lng": -106.8195,
       "shopId": "434",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "970-422-1422",
       "rating": 4.6,
-      "ratingCount": 233,
+      "ratingCount": 234,
       "lat": 37.9375,
       "lng": -107.8123,
       "shopId": "460",
