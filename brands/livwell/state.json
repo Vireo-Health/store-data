@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:59:06.066Z",
+  "generatedAt": "2026-09-28T21:14:43.659Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3023
+      "ratingCount": 3024
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4591
+      "ratingCount": 4595
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1791
+      "ratingCount": 1792
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2560
+      "ratingCount": 2561
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5281
+      "ratingCount": 5284
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7604
+      "ratingCount": 7606
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3700
+      "ratingCount": 3703
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2422
+      "ratingCount": 2423
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2560
+      "ratingCount": 2561
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1669
+      "ratingCount": 1668
     }
   }
 }
