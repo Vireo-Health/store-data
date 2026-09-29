@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:14:56.062Z",
+  "generatedAt": "2026-09-29T19:59:37.155Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7591
+      "ratingCount": 7595
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 995
+      "ratingCount": 997
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11442
+      "ratingCount": 11447
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2230
+      "ratingCount": 2231
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1808
+      "ratingCount": 1810
     }
   }
 }
