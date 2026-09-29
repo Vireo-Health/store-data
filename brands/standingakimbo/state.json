@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:15:59.273Z",
+  "generatedAt": "2026-09-29T20:00:36.546Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1169
+      "ratingCount": 1171
     },
     "colorado-springs": {
       "name": "Colorado Springs",
