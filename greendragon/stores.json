@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:02:10.622Z",
+  "generatedAt": "2026-10-01T20:22:18.167Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 914,
+      "ratingCount": 913,
       "lat": 39.7523,
       "lng": -105.0536,
       "shopId": "457",
