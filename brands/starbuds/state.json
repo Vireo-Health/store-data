@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:01:43.110Z",
+  "generatedAt": "2026-10-01T20:21:51.235Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7597
+      "ratingCount": 7599
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2590
+      "ratingCount": 2591
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 688
+      "ratingCount": 687
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11449
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -862,56 +862,56 @@
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2231
+      "ratingCount": 2232
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1811
+      "ratingCount": 1812
     }
   }
 }
