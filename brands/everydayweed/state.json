@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:01:57.223Z",
+  "generatedAt": "2026-10-01T20:22:05.264Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2249
+      "ratingCount": 2250
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 426
+      "ratingCount": 427
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5711
+      "ratingCount": 5712
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 979
+      "ratingCount": 980
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-315-0032",
       "rating": 4.9,
-      "ratingCount": 211
+      "ratingCount": 212
     },
     "boulder-dispensary": {
       "name": "Boulder",
@@ -854,7 +854,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 632
+      "ratingCount": 633
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
