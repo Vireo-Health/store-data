@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:22:48.469Z",
+  "generatedAt": "2026-10-02T19:58:55.777Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -113,7 +113,7 @@
       ],
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 952
+      "ratingCount": 954
     },
     "lakewood": {
       "name": "Lakewood",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2591
+      "ratingCount": 2590
     },
     "garden-city": {
       "name": "Garden City",
@@ -283,8 +283,8 @@
         ]
       ],
       "phone": "(970) 232-9034",
-      "rating": 4.7,
-      "ratingCount": 58
+      "rating": 4.6,
+      "ratingCount": 60
     },
     "brighton": {
       "name": "Brighton",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:22:48.469Z",
+  "generatedAt": "2026-10-02T19:58:55.777Z",
   "stores": [
     {
       "slug": "denver",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "719-465-3699",
       "rating": 4.9,
-      "ratingCount": 952,
+      "ratingCount": 954,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "5532",
@@ -153,7 +153,7 @@
       "state": "CO",
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2591,
+      "ratingCount": 2590,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "6368",
@@ -296,8 +296,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "(970) 232-9034",
-      "rating": 4.7,
-      "ratingCount": 58,
+      "rating": 4.6,
+      "ratingCount": 60,
       "lat": 40.50689,
       "lng": -105.07682,
       "shopId": "5368",
