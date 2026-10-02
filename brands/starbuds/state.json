@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:21:51.235Z",
+  "generatedAt": "2026-10-02T19:57:49.507Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7599
+      "ratingCount": 7600
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1983
+      "ratingCount": 1984
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2591
+      "ratingCount": 2590
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 952
+      "ratingCount": 954
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -805,49 +805,49 @@
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1812
+      "ratingCount": 1813
     }
   }
 }

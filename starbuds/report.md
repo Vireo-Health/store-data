@@ -1,4 +1,4 @@
-# Store hours sync — 2026-10-01T20:21:51.235Z
+# Store hours sync — 2026-10-02T19:57:49.507Z
 
 - checked: 17
 - applied: 1
@@ -6,5 +6,5 @@
 - errors: 0
 
 ## Applied
-- Pueblo: Daily 9am-11pm  ->  Mon-Sat 9am-10:45pm, Sun 9am-9pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+- Manitou Springs: Daily 8am-11:45pm  ->  Daily 8am-12am  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
