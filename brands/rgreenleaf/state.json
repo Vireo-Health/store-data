@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:21:12.397Z",
+  "generatedAt": "2026-10-02T19:57:27.341Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -113,7 +113,7 @@
       ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 434
+      "ratingCount": 435
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -626,7 +626,7 @@
       ],
       "phone": "505-962-2161",
       "rating": 4.3,
-      "ratingCount": 195
+      "ratingCount": 197
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
