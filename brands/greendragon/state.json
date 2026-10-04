@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:41:46.106Z",
+  "generatedAt": "2026-10-04T18:39:13.645Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 913
+      "ratingCount": 914
     },
     "aspen": {
       "name": "Aspen",
