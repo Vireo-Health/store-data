@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:38:36.969Z",
+  "generatedAt": "2026-10-05T22:01:10.665Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4631
+      "ratingCount": 4634
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2084
+      "ratingCount": 2085
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7607
+      "ratingCount": 7608
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3709
+      "ratingCount": 3708
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1805
+      "ratingCount": 1806
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3792
+      "ratingCount": 3793
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1677
+      "ratingCount": 1678
     }
   }
 }
