@@ -13,25 +13,6 @@
   },
   "stores": [
     {
-      "slug": "edgewater",
-      "name": "Edgewater",
-      "webflowItemId": "698a2e8f43201300526a79b4",
-      "placeId": "ChIJOVArGxSHa4cRAXZbtprqqXw",
-      "googleBusinessLink": "https://share.google/bG8CnbHulbv366FQY",
-      "googleSearchQuery": "Green Dragon Edgewater 2467 Sheridan Blvd, Edgewater, CO 80214",
-      "timezone": "America/Denver",
-      "shopId": "457",
-      "city": "Edgewater",
-      "state": "CO",
-      "address": "2467 Sheridan Blvd",
-      "phone": "970-480-0640",
-      "lat": 39.7523,
-      "lng": -105.0536,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "aspen",
       "name": "Aspen",
       "webflowItemId": "698a2e22b4a5c45216c1a8ef",

@@ -285,6 +285,29 @@
       "variants": []
     },
     {
+      "slug": "edgewater-dispensary",
+      "name": "Edgewater",
+      "webflowItemId": "6a85d4f23fe476a9bf4369fb",
+      "placeId": "ChIJOVArGxSHa4cRAXZbtprqqXw",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-10; the Google listing (2467 Sheridan Blvd) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/bG8CnbHulbv366FQY",
+      "googleSearchQuery": "Every Day Weed Edgewater 2467 Sheridan Blvd, Edgewater, CO 80214",
+      "timezone": "America/Denver",
+      "shopId": "457",
+      "city": "Edgewater",
+      "state": "CO",
+      "address": "2467 Sheridan Blvd",
+      "phone": "970-480-0640",
+      "lat": 39.7523,
+      "lng": -105.0536,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",
