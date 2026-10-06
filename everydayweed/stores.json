@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:01:31.160Z",
+  "generatedAt": "2026-10-06T20:21:01.791Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -945,7 +945,7 @@
       "state": "CO",
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 401,
+      "ratingCount": 403,
       "lat": 40.5761,
       "lng": -105.076,
       "shopId": "6993",
@@ -1016,8 +1016,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-225-5420",
-      "rating": 4.1,
-      "ratingCount": 634,
+      "rating": 4,
+      "ratingCount": 635,
       "lat": 40.578,
       "lng": -105.0031,
       "shopId": "6991",
