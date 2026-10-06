@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:01:21.118Z",
+  "generatedAt": "2026-10-06T20:20:51.263Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2832
+      "ratingCount": 2835
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2593
+      "ratingCount": 2594
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3017
+      "ratingCount": 3018
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 997
+      "ratingCount": 999
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 686
+      "ratingCount": 687
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11449
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2232
+      "ratingCount": 2231
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
