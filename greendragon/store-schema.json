@@ -1,39 +1,4 @@
 {
-  "edgewater": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "Green Dragon Edgewater",
-    "url": "https://greendragon.com/stores/edgewater/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "2467 Sheridan Blvd",
-      "addressLocality": "Edgewater",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "970-480-0640",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7523,
-      "longitude": -105.0536
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "23:45"
-      }
-    ]
-  },
   "aspen": {
     "@context": "https://schema.org",
     "@type": "Store",
