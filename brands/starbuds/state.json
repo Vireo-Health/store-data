@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T20:20:51.263Z",
+  "generatedAt": "2026-10-07T20:38:21.454Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7608
+      "ratingCount": 7610
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2835
+      "ratingCount": 2836
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -349,49 +349,49 @@
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1305,
+            "close": 1290,
             "closesNextDay": false
           }
         ]
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 687
+      "ratingCount": 688
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 956
+      "ratingCount": 957
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11450
+      "ratingCount": 11451
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
