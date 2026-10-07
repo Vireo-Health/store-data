@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T20:21:01.791Z",
+  "generatedAt": "2026-10-07T20:38:32.615Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2583
+      "ratingCount": 2585
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3723
+      "ratingCount": 3727
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -797,7 +797,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 403
+      "ratingCount": 404
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
