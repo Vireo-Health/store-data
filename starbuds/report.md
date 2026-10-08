@@ -1,4 +1,4 @@
-# Store hours sync — 2026-10-07T20:38:21.454Z
+# Store hours sync — 2026-10-08T20:42:17.599Z
 
 - checked: 17
 - applied: 1
@@ -6,5 +6,5 @@
 - errors: 0
 
 ## Applied
-- North Denver: Daily 8am-9:45pm  ->  Daily 8am-9:30pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+- Lakewood: Daily 8am-9pm  ->  Daily 8am-9:05pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 

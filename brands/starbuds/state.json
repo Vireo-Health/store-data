@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:38:21.454Z",
+  "generatedAt": "2026-10-08T20:42:17.599Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1984
+      "ratingCount": 1983
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -292,56 +292,56 @@
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2594
+      "ratingCount": 2595
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11451
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2231
+      "ratingCount": 2232
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1815
+      "ratingCount": 1817
     }
   }
 }
