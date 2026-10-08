@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:38:32.615Z",
+  "generatedAt": "2026-10-08T20:42:28.879Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1789
+      "ratingCount": 1790
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2585
+      "ratingCount": 2587
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2249
+      "ratingCount": 2248
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5711
+      "ratingCount": 5712
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3727
+      "ratingCount": 3729
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 539
+      "ratingCount": 540
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -854,7 +854,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4,
-      "ratingCount": 635
+      "ratingCount": 636
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
