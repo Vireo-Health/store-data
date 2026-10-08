@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:39:08.421Z",
+  "generatedAt": "2026-10-08T20:43:19.865Z",
   "stores": [
     {
       "slug": "denver",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1174,
+      "ratingCount": 1177,
       "lat": 39.769447,
       "lng": -104.9996229,
       "shopId": "5531",
@@ -153,60 +153,60 @@
       "state": "CO",
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2594,
+      "ratingCount": 2595,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "6368",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9pm",
-      "hoursDotted": "Daily 8am–9pm",
+      "hours": "Daily 8am-9:05pm",
+      "hoursDotted": "Daily 8am–9:05pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1260,
+            "close": 1265,
             "closesNextDay": false
           }
         ]
