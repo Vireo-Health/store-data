@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:37:57.690Z",
+  "generatedAt": "2026-10-08T20:41:52.866Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 344
+      "ratingCount": 345
     }
   }
 }
