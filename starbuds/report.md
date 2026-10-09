@@ -1,10 +1,7 @@
-# Store hours sync — 2026-10-08T20:42:17.599Z
+# Store hours sync — 2026-10-09T20:07:00.620Z
 
 - checked: 17
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Lakewood: Daily 8am-9pm  ->  Daily 8am-9:05pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 

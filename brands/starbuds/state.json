@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T20:42:17.599Z",
+  "generatedAt": "2026-10-09T20:07:00.620Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7610
+      "ratingCount": 7612
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1237
+      "ratingCount": 1238
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 957
+      "ratingCount": 958
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
