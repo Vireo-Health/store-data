@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:06:48.014Z",
+  "generatedAt": "2026-10-10T19:16:59.462Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4640
+      "ratingCount": 4644
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5307
+      "ratingCount": 5309
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3710
+      "ratingCount": 3711
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2425
+      "ratingCount": 2426
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1807
+      "ratingCount": 1808
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1679
+      "ratingCount": 1678
     }
   }
 }
