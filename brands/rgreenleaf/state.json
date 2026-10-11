@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:16:44.184Z",
+  "generatedAt": "2026-10-11T19:33:38.818Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 512
+      "ratingCount": 511
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
