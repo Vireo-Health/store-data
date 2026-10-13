@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:29:54.847Z",
+  "generatedAt": "2026-10-13T20:42:53.578Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -178,49 +178,49 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1310,
             "closesNextDay": false
           }
         ]
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5313
+      "ratingCount": 5314
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2426
+      "ratingCount": 2425
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -690,50 +690,50 @@
       "week": [
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1380,
+            "open": 480,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
