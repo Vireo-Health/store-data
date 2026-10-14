@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:43:39.980Z",
+  "generatedAt": "2026-10-14T19:25:12.027Z",
   "stores": [
     {
       "slug": "aspen",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 220,
+      "ratingCount": 221,
       "lat": 39.1888,
       "lng": -106.8195,
       "shopId": "434",
