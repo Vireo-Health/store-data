@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:42:53.578Z",
+  "generatedAt": "2026-10-14T19:24:26.512Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4646
+      "ratingCount": 4647
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -178,49 +178,49 @@
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1310,
+            "close": 1320,
             "closesNextDay": false
           }
         ]
@@ -291,50 +291,50 @@
       "week": [
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 540,
-            "close": 1260,
+            "open": 480,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5314
+      "ratingCount": 5315
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7608
+      "ratingCount": 7610
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3711
+      "ratingCount": 3712
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2425
+      "ratingCount": 2426
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -748,49 +748,49 @@
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1320,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3801
+      "ratingCount": 3803
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
