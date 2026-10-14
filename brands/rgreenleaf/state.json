@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:41:01.180Z",
+  "generatedAt": "2026-10-14T19:24:12.894Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 625
+      "ratingCount": 626
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -683,7 +683,7 @@
       ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 900
+      "ratingCount": 901
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",
