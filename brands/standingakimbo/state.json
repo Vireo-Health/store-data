@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:25:35.341Z",
+  "generatedAt": "2026-10-15T19:08:53.158Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2597
+      "ratingCount": 2598
     },
     "garden-city": {
       "name": "Garden City",
