@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:24:26.512Z",
+  "generatedAt": "2026-10-15T19:07:47.183Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2089
+      "ratingCount": 2088
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5315
+      "ratingCount": 5316
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3712
+      "ratingCount": 3713
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2426
+      "ratingCount": 2427
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2566
+      "ratingCount": 2565
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3803
+      "ratingCount": 3806
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1679
+      "ratingCount": 1678
     }
   }
 }
