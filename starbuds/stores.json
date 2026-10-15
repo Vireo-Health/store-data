@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:24:41.291Z",
+  "generatedAt": "2026-10-15T19:07:59.412Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2597,
+      "ratingCount": 2598,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2597,
+      "ratingCount": 2598,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -585,7 +585,7 @@
       "state": "CO",
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3020,
+      "ratingCount": 3021,
       "lat": 39.78171,
       "lng": -104.96656,
       "shopId": "455",
@@ -729,7 +729,7 @@
       "state": "CO",
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1001,
+      "ratingCount": 1002,
       "lat": 40.50689,
       "lng": -105.07682,
       "shopId": "5367",
@@ -1161,60 +1161,60 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11456,
+      "ratingCount": 11455,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ]
@@ -1233,60 +1233,60 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11456,
+      "ratingCount": 11455,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ]

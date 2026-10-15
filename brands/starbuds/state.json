@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:24:41.291Z",
+  "generatedAt": "2026-10-15T19:07:59.412Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2597
+      "ratingCount": 2598
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3020
+      "ratingCount": 3021
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1001
+      "ratingCount": 1002
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -805,56 +805,56 @@
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1440,
+            "close": 1425,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11456
+      "ratingCount": 11455
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
