@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:08:16.171Z",
+  "generatedAt": "2026-10-16T18:49:25.026Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.7,
-      "ratingCount": 1795
+      "ratingCount": 1794
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2589
+      "ratingCount": 2590
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3735
+      "ratingCount": 3736
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.6,
-      "ratingCount": 603
+      "ratingCount": 605
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -797,7 +797,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 410
+      "ratingCount": 411
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
