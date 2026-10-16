@@ -1,10 +1,7 @@
-# Store hours sync — 2026-10-15T19:07:59.412Z
+# Store hours sync — 2026-10-16T18:49:13.993Z
 
 - checked: 17
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Manitou Springs: Daily 8am-12am  ->  Daily 8am-11:45pm  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
