@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:07:47.183Z",
+  "generatedAt": "2026-10-16T18:49:00.165Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3023
+      "ratingCount": 3024
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1289
+      "ratingCount": 1290
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1792
+      "ratingCount": 1793
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -797,7 +797,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2137
+      "ratingCount": 2138
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3806
+      "ratingCount": 3805
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1678
+      "ratingCount": 1679
     }
   }
 }
