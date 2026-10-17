@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:49:13.993Z",
+  "generatedAt": "2026-10-17T17:52:08.814Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7621
+      "ratingCount": 7622
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1291
+      "ratingCount": 1290
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -683,7 +683,7 @@
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
-      "ratingCount": 1719
+      "ratingCount": 1720
     },
     "niwot-dispensary": {
       "name": "Niwot",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11457
+      "ratingCount": 11456
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
