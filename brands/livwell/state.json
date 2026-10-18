@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:51:55.197Z",
+  "generatedAt": "2026-10-18T18:05:53.615Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3024
+      "ratingCount": 3023
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5317
+      "ratingCount": 5320
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7610
+      "ratingCount": 7609
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3716
+      "ratingCount": 3717
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2428
+      "ratingCount": 2429
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -968,7 +968,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1677
+      "ratingCount": 1678
     }
   }
 }
