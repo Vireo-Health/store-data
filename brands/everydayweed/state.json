@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T20:35:56.740Z",
+  "generatedAt": "2026-10-20T19:17:44.577Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 600
+      "ratingCount": 598
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
