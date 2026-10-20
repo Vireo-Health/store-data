@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T20:35:17.157Z",
+  "generatedAt": "2026-10-20T19:17:05.357Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -626,7 +626,7 @@
       ],
       "phone": "505-962-2161",
       "rating": 4.3,
-      "ratingCount": 197
+      "ratingCount": 198
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
