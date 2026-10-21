@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:17:16.999Z",
+  "generatedAt": "2026-10-21T19:17:51.037Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3022
+      "ratingCount": 3021
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1290
+      "ratingCount": 1291
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5326
+      "ratingCount": 5331
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1808
+      "ratingCount": 1809
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
