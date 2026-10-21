@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:17:05.357Z",
+  "generatedAt": "2026-10-21T19:17:40.796Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -1737,7 +1737,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 348,
+      "ratingCount": 349,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
@@ -1809,7 +1809,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 348,
+      "ratingCount": 349,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
