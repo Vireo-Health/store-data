@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:17:30.859Z",
+  "generatedAt": "2026-10-21T19:18:05.338Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2600
+      "ratingCount": 2602
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3027
+      "ratingCount": 3028
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 689
+      "ratingCount": 690
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1819
+      "ratingCount": 1820
     }
   }
 }
