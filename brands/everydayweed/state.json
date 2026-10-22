@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:18:18.651Z",
+  "generatedAt": "2026-10-22T19:14:00.260Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2593
+      "ratingCount": 2594
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5711
+      "ratingCount": 5712
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 598
+      "ratingCount": 599
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 188
+      "ratingCount": 189
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
