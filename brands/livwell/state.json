@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:13:20.382Z",
+  "generatedAt": "2026-10-23T19:13:34.259Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4647
+      "ratingCount": 4646
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5332
+      "ratingCount": 5335
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2428
+      "ratingCount": 2427
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
