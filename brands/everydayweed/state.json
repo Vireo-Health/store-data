@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:14:02.068Z",
+  "generatedAt": "2026-10-24T18:10:12.294Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 429
+      "ratingCount": 430
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5712
+      "ratingCount": 5708
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3736
+      "ratingCount": 3737
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.6,
-      "ratingCount": 541
+      "ratingCount": 538
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 599
+      "ratingCount": 600
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-315-0032",
       "rating": 4.9,
-      "ratingCount": 214
+      "ratingCount": 215
     },
     "boulder-dispensary": {
       "name": "Boulder",
