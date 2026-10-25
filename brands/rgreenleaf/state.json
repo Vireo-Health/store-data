@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:09:34.653Z",
+  "generatedAt": "2026-10-25T18:24:15.861Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.8,
-      "ratingCount": 221
+      "ratingCount": 222
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -113,7 +113,7 @@
       ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 451
+      "ratingCount": 453
     },
     "dispensary-albuquerque-cottonwood": {
       "name": "Cottonwood",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1201
+      "ratingCount": 1203
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 349
+      "ratingCount": 350
     }
   }
 }
