@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:10:00.814Z",
+  "generatedAt": "2026-10-25T18:24:40.353Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1128
+      "ratingCount": 1124
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7619
+      "ratingCount": 7621
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2846
+      "ratingCount": 2842
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1153
+      "ratingCount": 1151
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1984
+      "ratingCount": 1982
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2603
+      "ratingCount": 2600
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3029
+      "ratingCount": 3025
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1238
+      "ratingCount": 1236
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 691
+      "ratingCount": 690
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11462
+      "ratingCount": 11452
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
