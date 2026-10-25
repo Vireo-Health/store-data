@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:10:12.294Z",
+  "generatedAt": "2026-10-25T18:24:55.085Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -55,8 +55,8 @@
         ]
       ],
       "phone": "303-999-0401",
-      "rating": 4.7,
-      "ratingCount": 1794
+      "rating": 4.8,
+      "ratingCount": 1789
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2250
+      "ratingCount": 2249
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 430
+      "ratingCount": 429
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5708
+      "ratingCount": 5710
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 985
+      "ratingCount": 983
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3737
+      "ratingCount": 3734
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -454,8 +454,8 @@
         ]
       ],
       "phone": "720-505-5887",
-      "rating": 4.6,
-      "ratingCount": 538
+      "rating": 4.7,
+      "ratingCount": 537
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 600
+      "ratingCount": 598
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -682,8 +682,8 @@
         ]
       ],
       "phone": "720-446-5490",
-      "rating": 4.7,
-      "ratingCount": 189
+      "rating": 4.8,
+      "ratingCount": 188
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
@@ -797,7 +797,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 412
+      "ratingCount": 411
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -853,8 +853,8 @@
         ]
       ],
       "phone": "970-225-5420",
-      "rating": 4,
-      "ratingCount": 641
+      "rating": 4.1,
+      "ratingCount": 638
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
