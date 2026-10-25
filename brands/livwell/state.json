@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:09:46.275Z",
+  "generatedAt": "2026-10-25T18:24:27.499Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3022
+      "ratingCount": 3021
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1291
+      "ratingCount": 1290
     },
     "aurora-buckley-dispensary": {
       "name": "Buckley",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4646
+      "ratingCount": 4621
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2088
+      "ratingCount": 2087
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1793
+      "ratingCount": 1789
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3720
+      "ratingCount": 3712
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2429
+      "ratingCount": 2423
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -740,7 +740,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1806
+      "ratingCount": 1807
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2566
+      "ratingCount": 2551
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
