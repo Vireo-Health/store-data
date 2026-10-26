@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:24:15.861Z",
+  "generatedAt": "2026-10-26T20:28:58.201Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 626
+      "ratingCount": 623
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 202
+      "ratingCount": 203
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1203
+      "ratingCount": 1200
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 478
+      "ratingCount": 476
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -683,7 +683,7 @@
       ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
-      "ratingCount": 901
+      "ratingCount": 899
     },
     "dispensary-albuquerque-yale": {
       "name": "Yale",
