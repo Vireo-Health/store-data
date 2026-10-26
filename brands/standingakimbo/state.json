@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:25:33.961Z",
+  "generatedAt": "2026-10-26T20:30:22.198Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -284,7 +284,7 @@
       ],
       "phone": "(970) 232-9034",
       "rating": 4.6,
-      "ratingCount": 60
+      "ratingCount": 59
     },
     "brighton": {
       "name": "Brighton",
