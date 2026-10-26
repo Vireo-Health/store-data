@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:25:05.419Z",
+  "generatedAt": "2026-10-26T20:29:54.631Z",
   "stores": {
     "aspen": {
       "name": "Aspen",
@@ -113,7 +113,7 @@
       ],
       "phone": "970-422-1422",
       "rating": 4.6,
-      "ratingCount": 236
+      "ratingCount": 235
     }
   }
 }
