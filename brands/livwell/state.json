@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:29:10.283Z",
+  "generatedAt": "2026-10-27T20:05:27.686Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -56,7 +56,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3021
+      "ratingCount": 3022
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4621
+      "ratingCount": 4588
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -341,7 +341,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2561
+      "ratingCount": 2557
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -398,7 +398,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5329
+      "ratingCount": 5331
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -626,7 +626,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2425
+      "ratingCount": 2426
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -690,57 +690,57 @@
       "week": [
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ],
         [
           {
-            "open": 480,
-            "close": 1440,
+            "open": 540,
+            "close": 1380,
             "closesNextDay": false
           }
         ]
       ],
       "phone": "303-993-7548",
-      "rating": 4.8,
-      "ratingCount": 1807
+      "rating": 4.9,
+      "ratingCount": 1773
     },
     "pueblo-north-dispensary": {
       "name": "Pueblo North",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2551
+      "ratingCount": 2536
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -911,7 +911,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3805
+      "ratingCount": 3806
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
