@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:28:58.201Z",
+  "generatedAt": "2026-10-27T20:05:14.322Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -153,7 +153,7 @@
       "state": "NM",
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 453,
+      "ratingCount": 451,
       "lat": 34.4048,
       "lng": -103.2052,
       "shopId": "clovis",
@@ -225,7 +225,7 @@
       "state": "NM",
       "phone": "(575) 305-9223",
       "rating": 4.9,
-      "ratingCount": 453,
+      "ratingCount": 451,
       "lat": 34.4048,
       "lng": -103.2052,
       "shopId": "clovis",
@@ -1305,7 +1305,7 @@
       "state": "NM",
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 283,
+      "ratingCount": 282,
       "lat": 33.4373,
       "lng": -104.523,
       "shopId": "roswell",
@@ -1377,7 +1377,7 @@
       "state": "NM",
       "phone": "(505) 522-2122",
       "rating": 4.4,
-      "ratingCount": 283,
+      "ratingCount": 282,
       "lat": 33.4373,
       "lng": -104.523,
       "shopId": "roswell",
