@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:29:27.721Z",
+  "generatedAt": "2026-10-27T20:05:40.470Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7623,
+      "ratingCount": 7624,
       "lat": 39.59504,
       "lng": -104.79133,
       "shopId": "506",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2600,
+      "ratingCount": 2601,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2600,
+      "ratingCount": 2601,
       "lat": 39.71166,
       "lng": -105.082,
       "shopId": "5590",
@@ -873,7 +873,7 @@
       "state": "CO",
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1289,
+      "ratingCount": 1290,
       "lat": 40.20333,
       "lng": -105.13153,
       "shopId": "3659",
@@ -1310,55 +1310,55 @@
       "lng": -104.66591,
       "shopId": "4651",
       "timezone": "America/Denver",
-      "hours": "Daily 9am-11pm",
-      "hoursDotted": "Daily 9am–11pm",
+      "hours": "Mon-Sat 9am-10:45pm, Sun 9am-9pm",
+      "hoursDotted": "Mon–Sat 9am–10:45pm · Sun 9am–9pm",
       "week": [
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ]

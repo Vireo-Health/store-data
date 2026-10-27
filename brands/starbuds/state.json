@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:29:27.721Z",
+  "generatedAt": "2026-10-27T20:05:40.470Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7623
+      "ratingCount": 7624
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -341,7 +341,7 @@
       ],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2600
+      "ratingCount": 2601
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1289
+      "ratingCount": 1290
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -862,49 +862,49 @@
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1380,
+            "close": 1365,
             "closesNextDay": false
           }
         ]
