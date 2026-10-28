@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:05:40.470Z",
+  "generatedAt": "2026-10-28T20:16:23.663Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1125
+      "ratingCount": 1126
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7624
+      "ratingCount": 7625
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1152
+      "ratingCount": 1153
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3028
+      "ratingCount": 3029
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1003
+      "ratingCount": 1004
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -683,7 +683,7 @@
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
-      "ratingCount": 1719
+      "ratingCount": 1720
     },
     "niwot-dispensary": {
       "name": "Niwot",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11452
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
