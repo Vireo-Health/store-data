@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:05:14.322Z",
+  "generatedAt": "2026-10-28T20:15:54.337Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -1017,7 +1017,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1200,
+      "ratingCount": 1205,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1089,7 +1089,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1200,
+      "ratingCount": 1205,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
