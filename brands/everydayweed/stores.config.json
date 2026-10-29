@@ -308,6 +308,98 @@
       "variants": []
     },
     {
+      "slug": "aurora-peoria-st-dispensary",
+      "name": "Aurora Peoria",
+      "webflowItemId": "6ac6a8ecbf544f2f1376c203",
+      "placeId": "ChIJ2VJO4rR8bIcRr_WTGH--Y1M",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-10; the Google listing (1401 Peoria St) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/XubShgcNKUJJZvwUT",
+      "googleSearchQuery": "Every Day Weed Aurora Peoria 1401 Peoria St, Aurora, CO 80010",
+      "timezone": "America/Denver",
+      "shopId": "6966",
+      "city": "Aurora",
+      "state": "CO",
+      "address": "1401 Peoria St",
+      "phone": "303-993-7548",
+      "lat": 39.7389778,
+      "lng": -104.8473846,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "aurora-buckley-dispensary",
+      "name": "Aurora Buckley",
+      "webflowItemId": "6ac6a9021fcbfa945b7ee72b",
+      "placeId": "ChIJpTPaPetjbIcRrd2ejzH-Um0",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-10; the Google listing (19201 E Colfax Ave) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/G3sl6jg4HKBmvnroU",
+      "googleSearchQuery": "Every Day Weed Aurora Buckley 19201 E Colfax Ave, Aurora, CO 80011",
+      "timezone": "America/Denver",
+      "shopId": "6958",
+      "city": "Aurora",
+      "state": "CO",
+      "address": "19201 E Colfax Ave",
+      "phone": "303-366-1077",
+      "lat": 39.7406829,
+      "lng": -104.7642405,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "denver-rino-dispensary",
+      "name": "RiNo",
+      "webflowItemId": "6ac6a91e12faed423b87051d",
+      "placeId": "ChIJoyvgAh95bIcR3OKfCfhMnh0",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-10; the Google listing (2863 Larimer St) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/5X134rJIl9hV880U9",
+      "googleSearchQuery": "Every Day Weed RiNo 2863 Larimer St, Denver, CO 80205",
+      "timezone": "America/Denver",
+      "shopId": "6963",
+      "city": "Denver",
+      "state": "CO",
+      "address": "2863 Larimer St",
+      "phone": "303-484-1662",
+      "lat": 39.7613559,
+      "lng": -104.9820442,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "aspen-dispensary",
+      "name": "Aspen",
+      "webflowItemId": "6ac6a93c23f343d9db8efefd",
+      "placeId": "ChIJIRwoy2I5QIcRAYPDZCoWjDI",
+      "resolveNameAllow": [
+        "Green Dragon"
+      ],
+      "resolveNameAllowReason": "Cut over from Green Dragon 2026-10; the Google listing (409 E Hyman Ave) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/WGlP0Ybh3H13froDJ",
+      "googleSearchQuery": "Every Day Weed Aspen 409 E Hyman Ave, Aspen, CO 81611",
+      "timezone": "America/Denver",
+      "shopId": "434",
+      "city": "Aspen",
+      "state": "CO",
+      "address": "409 E Hyman Ave",
+      "phone": "970-429-4365",
+      "lat": 39.1888,
+      "lng": -106.8195,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",

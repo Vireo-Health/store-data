@@ -13,25 +13,6 @@
   },
   "stores": [
     {
-      "slug": "aspen",
-      "name": "Aspen",
-      "webflowItemId": "698a2e22b4a5c45216c1a8ef",
-      "placeId": "ChIJIRwoy2I5QIcRAYPDZCoWjDI",
-      "googleBusinessLink": "https://share.google/WGlP0Ybh3H13froDJ",
-      "googleSearchQuery": "Green Dragon Aspen 409 E Hyman Ave, Aspen, CO 81611",
-      "timezone": "America/Denver",
-      "shopId": "434",
-      "city": "Aspen",
-      "state": "CO",
-      "address": "409 E Hyman Ave",
-      "phone": "970-429-4365",
-      "lat": 39.1888,
-      "lng": -106.8195,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "telluride-premium-marijuana-dispensary",
       "name": "Telluride",
       "webflowItemId": "69815b3d32dc91383e5addc1",
