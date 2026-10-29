@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:17:05.219Z",
+  "generatedAt": "2026-10-29T20:18:41.384Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -170,7 +170,7 @@
       ],
       "phone": "(575) 446-1438",
       "rating": 4.7,
-      "ratingCount": 104
+      "ratingCount": 103
     },
     "montano-plaza": {
       "name": "Montaño Plaza",
@@ -341,7 +341,7 @@
       ],
       "phone": "(505) 836-8620",
       "rating": 4.8,
-      "ratingCount": 693
+      "ratingCount": 694
     },
     "far-northeast-heights": {
       "name": "Far Northeast Heights",
