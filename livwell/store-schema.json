@@ -69,41 +69,6 @@
       }
     ]
   },
-  "aurora-buckley-dispensary": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "LivWell Buckley",
-    "url": "https://livwell.com/locations/aurora-buckley-dispensary/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "19201 E Colfax Ave",
-      "addressLocality": "Aurora",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "303-366-1077",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7406829,
-      "longitude": -104.7642405
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "23:00"
-      }
-    ]
-  },
   "denver-central-park-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
@@ -419,41 +384,6 @@
       }
     ]
   },
-  "aurora-peoria-st-dispensary": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "LivWell Peoria",
-    "url": "https://livwell.com/locations/aurora-peoria-st-dispensary/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "1401 Peoria St",
-      "addressLocality": "Aurora",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "303-993-7548",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7389778,
-      "longitude": -104.8473846
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "23:00"
-      }
-    ]
-  },
   "pueblo-north-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
@@ -486,41 +416,6 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
-      }
-    ]
-  },
-  "denver-rino-dispensary": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "LivWell RiNo",
-    "url": "https://livwell.com/locations/denver-rino-dispensary/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "2863 Larimer St",
-      "addressLocality": "Denver",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "303-484-1662",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.7613559,
-      "longitude": -104.9820442
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "23:59"
       }
     ]
   },

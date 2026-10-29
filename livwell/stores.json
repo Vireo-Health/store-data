@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:16:10.114Z",
+  "generatedAt": "2026-10-29T20:17:51.310Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -146,78 +146,6 @@
       "storeUrl": "/locations/broomfield-dispensary/"
     },
     {
-      "slug": "aurora-buckley-dispensary",
-      "name": "Buckley",
-      "address": "19201 E Colfax Ave",
-      "city": "Aurora",
-      "state": "CO",
-      "phone": "303-366-1077",
-      "rating": 4.9,
-      "ratingCount": 4589,
-      "lat": 39.7406829,
-      "lng": -104.7642405,
-      "shopId": "6958",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/aurora-buckley-dispensary/"
-    },
-    {
       "slug": "denver-central-park-dispensary",
       "name": "Central Park",
       "address": "3955 Oneida St",
@@ -297,7 +225,7 @@
       "state": "CO",
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1788,
+      "ratingCount": 1787,
       "lat": 39.6797361,
       "lng": -104.9404824,
       "shopId": "6965",
@@ -657,7 +585,7 @@
       "state": "CO",
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3713,
+      "ratingCount": 3714,
       "lat": 40.39387019999999,
       "lng": -104.6918357,
       "shopId": "6954",
@@ -866,78 +794,6 @@
       "storeUrl": "/locations/log-lane-village-dispensary/"
     },
     {
-      "slug": "aurora-peoria-st-dispensary",
-      "name": "Peoria",
-      "address": "1401 Peoria St",
-      "city": "Aurora",
-      "state": "CO",
-      "phone": "303-993-7548",
-      "rating": 4.9,
-      "ratingCount": 1773,
-      "lat": 39.7389778,
-      "lng": -104.8473846,
-      "shopId": "6966",
-      "timezone": "America/Denver",
-      "hours": "Daily 9am-11pm",
-      "hoursDotted": "Daily 9am–11pm",
-      "week": [
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/aurora-peoria-st-dispensary/"
-    },
-    {
       "slug": "pueblo-north-dispensary",
       "name": "Pueblo North",
       "address": "2565 N I-25 Exit 104",
@@ -1010,78 +866,6 @@
       "storeUrl": "/locations/pueblo-north-dispensary/"
     },
     {
-      "slug": "denver-rino-dispensary",
-      "name": "RiNo",
-      "address": "2863 Larimer St",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "303-484-1662",
-      "rating": 4.9,
-      "ratingCount": 2534,
-      "lat": 39.7613559,
-      "lng": -104.9820442,
-      "shopId": "6963",
-      "timezone": "America/Denver",
-      "hours": "Daily 9am-12am",
-      "hoursDotted": "Daily 9am–12am",
-      "week": [
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 540,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/denver-rino-dispensary/"
-    },
-    {
       "slug": "denver-dia-dispensary",
       "name": "Tower Road",
       "address": "6651 N Tower Rd Suite 120",
@@ -1089,7 +873,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3806,
+      "ratingCount": 3807,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",
