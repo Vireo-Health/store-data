@@ -1,63 +1,6 @@
 {
-  "generatedAt": "2026-10-28T20:16:53.496Z",
+  "generatedAt": "2026-10-29T20:18:30.545Z",
   "stores": {
-    "aspen": {
-      "name": "Aspen",
-      "week": [
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 600,
-            "close": 1200,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "phone": "970-429-4365",
-      "rating": 4.4,
-      "ratingCount": 220
-    },
     "telluride-premium-marijuana-dispensary": {
       "name": "Telluride",
       "week": [

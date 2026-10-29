@@ -1,11 +1,7 @@
-# Store hours sync — 2026-10-28T20:16:53.496Z
+# Store hours sync — 2026-10-29T20:18:30.545Z
 
-- checked: 2
+- checked: 1
 - applied: 0
 - held for review: 0
 - errors: 0
-
-## Listing audit
-Nothing was published from these — fix the listing in Google Business Profile.
-- **aspen** — listing website points at everydayweed.com, expected greendragon.com
 
