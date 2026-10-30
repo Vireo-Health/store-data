@@ -1,8 +1,8 @@
-# Store hours sync — 2026-10-29T20:18:17.489Z
+# Store hours sync — 2026-10-30T19:56:15.648Z
 
-- checked: 22
+- checked: 23
 - applied: 0
-- held for review: 6
+- held for review: 7
 - errors: 0
 
 ## Held for review
@@ -18,4 +18,10 @@
   - proposed: `Daily 9am-12am`
 - **aspen-dispensary** — no stored baseline yet — first run needs confirmation
   - proposed: `Daily 10am-8pm`
+- **lakewood-dispensary** — no stored baseline yet — first run needs confirmation
+  - proposed: `Daily 8am-10pm`
+
+## Listing audit
+Nothing was published from these — fix the listing in Google Business Profile.
+- **lakewood-dispensary** — listing website points at livwell.com, expected everydayweed.com
 
