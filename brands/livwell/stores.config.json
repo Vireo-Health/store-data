@@ -184,25 +184,6 @@
       "variants": []
     },
     {
-      "slug": "lakewood-dispensary",
-      "name": "Lakewood",
-      "webflowItemId": "69b8363fc28f22bfbde9fdd8",
-      "placeId": "ChIJw4WOl9SBa4cRlWNVLPnGNKY",
-      "googleBusinessLink": "https://share.google/t9iN87GTSR8iSWwUN",
-      "googleSearchQuery": "LivWell Lakewood 3600 S. Wadsworth Blvd, Lakewood, CO 80235",
-      "timezone": "America/Denver",
-      "shopId": "6957",
-      "city": "Lakewood",
-      "state": "CO",
-      "address": "3600 S. Wadsworth Blvd",
-      "phone": "303-484-8853",
-      "lat": 39.6494539,
-      "lng": -105.0807339,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "log-lane-village-dispensary",
       "name": "Log Lane",
       "webflowItemId": "69b8363f8a08bdfebea44fd0",

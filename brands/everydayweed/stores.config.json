@@ -400,6 +400,29 @@
       "variants": []
     },
     {
+      "slug": "lakewood-dispensary",
+      "name": "Lakewood",
+      "webflowItemId": "6ac6a98c264fd21a4533fc88",
+      "placeId": "ChIJw4WOl9SBa4cRlWNVLPnGNKY",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-10; the Google listing (3600 S Wadsworth Blvd) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/t9iN87GTSR8iSWwUN",
+      "googleSearchQuery": "Every Day Weed Lakewood 3600 S Wadsworth Blvd, Lakewood, CO 80235",
+      "timezone": "America/Denver",
+      "shopId": "6957",
+      "city": "Lakewood",
+      "state": "CO",
+      "address": "3600 S Wadsworth Blvd",
+      "phone": "303-484-8853",
+      "lat": 39.6494539,
+      "lng": -105.0807339,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",
