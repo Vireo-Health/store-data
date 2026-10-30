@@ -314,41 +314,6 @@
       }
     ]
   },
-  "lakewood-dispensary": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "LivWell Lakewood",
-    "url": "https://livwell.com/locations/lakewood-dispensary/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "3600 S. Wadsworth Blvd",
-      "addressLocality": "Lakewood",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "303-484-8853",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.6494539,
-      "longitude": -105.0807339
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "22:00"
-      }
-    ]
-  },
   "log-lane-village-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
