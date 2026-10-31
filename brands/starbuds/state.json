@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:56:02.395Z",
+  "generatedAt": "2026-10-31T19:18:17.697Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1152
+      "ratingCount": 1151
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11451
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1819
+      "ratingCount": 1820
     }
   }
 }

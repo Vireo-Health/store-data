@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:56:02.395Z",
+  "generatedAt": "2026-10-31T19:18:17.697Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -225,7 +225,7 @@
       "state": "CO",
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1152,
+      "ratingCount": 1151,
       "lat": 39.76953,
       "lng": -105.02032,
       "shopId": "4474",
@@ -1161,7 +1161,7 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11451,
+      "ratingCount": 11450,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
@@ -1233,7 +1233,7 @@
       "state": "CO",
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11451,
+      "ratingCount": 11450,
       "lat": 38.85694,
       "lng": -104.89006,
       "shopId": "601",
@@ -1377,7 +1377,7 @@
       "state": "CO",
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1819,
+      "ratingCount": 1820,
       "lat": 38.30025,
       "lng": -104.76513,
       "shopId": "1089",
