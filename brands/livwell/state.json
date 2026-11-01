@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:18:07.971Z",
+  "generatedAt": "2026-11-01T19:40:47.350Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2091
+      "ratingCount": 2093
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Boulevard",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5333
+      "ratingCount": 5334
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
