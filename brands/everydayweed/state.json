@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:07:12.159Z",
+  "generatedAt": "2026-11-03T20:59:59.399Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -64,7 +64,7 @@
         [
           {
             "open": 480,
-            "close": 1425,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2597
+      "ratingCount": 2598
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5715
+      "ratingCount": 5714
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -854,7 +854,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 640
+      "ratingCount": 641
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
