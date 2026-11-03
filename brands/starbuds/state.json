@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:06:52.252Z",
+  "generatedAt": "2026-11-03T20:59:39.786Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1127
+      "ratingCount": 1128
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1152
+      "ratingCount": 1153
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -455,7 +455,7 @@
       ],
       "phone": "970-480-0685",
       "rating": 4.5,
-      "ratingCount": 1239
+      "ratingCount": 1238
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11449
+      "ratingCount": 11450
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
