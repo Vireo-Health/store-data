@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:59:39.786Z",
+  "generatedAt": "2026-11-04T21:20:23.209Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1128
+      "ratingCount": 1129
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7628
+      "ratingCount": 7629
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1982
+      "ratingCount": 1983
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -292,49 +292,49 @@
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -349,49 +349,49 @@
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ]

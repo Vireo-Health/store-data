@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:59:39.786Z",
+  "generatedAt": "2026-11-04T21:20:23.209Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1128,
+      "ratingCount": 1129,
       "lat": 39.63859,
       "lng": -104.76479,
       "shopId": "6939",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7628,
+      "ratingCount": 7629,
       "lat": 39.59504,
       "lng": -104.79133,
       "shopId": "506",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1982,
+      "ratingCount": 1983,
       "lat": 39.77658,
       "lng": -105.04804,
       "shopId": "1765",
@@ -369,7 +369,7 @@
       "state": "CO",
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1982,
+      "ratingCount": 1983,
       "lat": 39.77658,
       "lng": -105.04804,
       "shopId": "1765",
@@ -446,55 +446,55 @@
       "lng": -105.082,
       "shopId": "5590",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9:05pm",
-      "hoursDotted": "Daily 8am–9:05pm",
+      "hours": "Daily 8am-9pm",
+      "hoursDotted": "Daily 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -518,55 +518,55 @@
       "lng": -105.082,
       "shopId": "5590",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9:05pm",
-      "hoursDotted": "Daily 8am–9:05pm",
+      "hours": "Daily 8am-9pm",
+      "hoursDotted": "Daily 8am–9pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
@@ -590,55 +590,55 @@
       "lng": -104.96656,
       "shopId": "455",
       "timezone": "America/Denver",
-      "hours": "Daily 8am-9:30pm",
-      "hoursDotted": "Daily 8am–9:30pm",
+      "hours": "Daily 8am-9:45pm",
+      "hoursDotted": "Daily 8am–9:45pm",
       "week": [
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1290,
+            "close": 1305,
             "closesNextDay": false
           }
         ]
