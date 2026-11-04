@@ -1,12 +1,9 @@
-# Store hours sync — 2026-11-03T20:59:59.399Z
+# Store hours sync — 2026-11-04T21:20:36.447Z
 
 - checked: 23
-- applied: 1
+- applied: 0
 - held for review: 7
 - errors: 0
-
-## Applied
-- Aurora Montview: Daily 8am-11:45pm  ->  Mon-Sat 8am-11:45pm, Sun 8am-10pm  [Sun]
 
 ## Held for review
 - **wheat-ridge-dispensary** — no stored baseline yet — first run needs confirmation
