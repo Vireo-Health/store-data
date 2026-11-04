@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:00:54.615Z",
+  "generatedAt": "2026-11-04T21:21:18.549Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1191
+      "ratingCount": 1193
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -121,49 +121,49 @@
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 480,
-            "close": 1265,
+            "close": 1260,
             "closesNextDay": false
           }
         ]
