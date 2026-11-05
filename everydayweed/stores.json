@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:20:36.447Z",
+  "generatedAt": "2026-11-05T10:56:51.343Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -297,7 +297,7 @@
       "state": "CO",
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5714,
+      "ratingCount": 5715,
       "lat": 39.8602127,
       "lng": -105.024465,
       "shopId": "4499",
@@ -794,14 +794,590 @@
       "storeUrl": "/stores/mile-high-stadium-dispensary/"
     },
     {
+      "slug": "wheat-ridge-dispensary",
+      "name": "Denver Sheridan Blvd",
+      "address": "4103 Sheridan Blvd",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "720-458-6650",
+      "rating": 4.6,
+      "ratingCount": 1135,
+      "lat": 39.7731,
+      "lng": -105.0534,
+      "shopId": "412",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/wheat-ridge-dispensary/"
+    },
+    {
+      "slug": "edgewater-dispensary",
+      "name": "Edgewater",
+      "address": "2467 Sheridan Blvd",
+      "city": "Edgewater",
+      "state": "CO",
+      "phone": "970-480-0640",
+      "rating": 4.6,
+      "ratingCount": 913,
+      "lat": 39.7523,
+      "lng": -105.0536,
+      "shopId": "457",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-11:45pm",
+      "hoursDotted": "Daily 8am–11:45pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/edgewater-dispensary/"
+    },
+    {
+      "slug": "aurora-peoria-st-dispensary",
+      "name": "Aurora Peoria",
+      "address": "1401 Peoria St",
+      "city": "Aurora",
+      "state": "CO",
+      "phone": "303-993-7548",
+      "rating": 4.9,
+      "ratingCount": 1773,
+      "lat": 39.7389778,
+      "lng": -104.8473846,
+      "shopId": "6966",
+      "timezone": "America/Denver",
+      "hours": "Daily 9am-11pm",
+      "hoursDotted": "Daily 9am–11pm",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/aurora-peoria-st-dispensary/"
+    },
+    {
+      "slug": "aurora-buckley-dispensary",
+      "name": "Aurora Buckley",
+      "address": "19201 E Colfax Ave",
+      "city": "Aurora",
+      "state": "CO",
+      "phone": "303-366-1077",
+      "rating": 4.9,
+      "ratingCount": 4591,
+      "lat": 39.7406829,
+      "lng": -104.7642405,
+      "shopId": "6958",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-11pm",
+      "hoursDotted": "Daily 8am–11pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/aurora-buckley-dispensary/"
+    },
+    {
+      "slug": "denver-rino-dispensary",
+      "name": "RiNo",
+      "address": "2863 Larimer St",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "303-484-1662",
+      "rating": 4.9,
+      "ratingCount": 2531,
+      "lat": 39.7613559,
+      "lng": -104.9820442,
+      "shopId": "6963",
+      "timezone": "America/Denver",
+      "hours": "Daily 9am-12am",
+      "hoursDotted": "Daily 9am–12am",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/denver-rino-dispensary/"
+    },
+    {
+      "slug": "aspen-dispensary",
+      "name": "Aspen",
+      "address": "409 E Hyman Ave",
+      "city": "Aspen",
+      "state": "CO",
+      "phone": "970-429-4365",
+      "rating": 4.4,
+      "ratingCount": 221,
+      "lat": 39.1888,
+      "lng": -106.8195,
+      "shopId": "434",
+      "timezone": "America/Denver",
+      "hours": "Daily 10am-8pm",
+      "hoursDotted": "Daily 10am–8pm",
+      "week": [
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1200,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/aspen-dispensary/"
+    },
+    {
+      "slug": "lakewood-dispensary",
+      "name": "Lakewood",
+      "address": "3600 S Wadsworth Blvd",
+      "city": "Lakewood",
+      "state": "CO",
+      "phone": "303-484-8853",
+      "rating": 4.9,
+      "ratingCount": 2428,
+      "lat": 39.6494539,
+      "lng": -105.0807339,
+      "shopId": "6957",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/lakewood-dispensary/"
+    },
+    {
+      "slug": "cortez-dispensary",
+      "name": "Cortez",
+      "address": "1819 E Main St",
+      "city": "Cortez",
+      "state": "CO",
+      "phone": "970-565-9577",
+      "rating": 4.9,
+      "ratingCount": 2557,
+      "lat": 37.3486219,
+      "lng": -108.5624767,
+      "shopId": "6961",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-11pm",
+      "hoursDotted": "Daily 8am–11pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/cortez-dispensary/"
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "address": "1750 30th St Unit 7",
       "city": "Boulder",
       "state": "CO",
       "phone": "720-446-5490",
-      "rating": 4.8,
-      "ratingCount": 190,
+      "rating": 4.7,
+      "ratingCount": 191,
       "lat": 40.0172624,
       "lng": -105.2526673,
       "shopId": "435",

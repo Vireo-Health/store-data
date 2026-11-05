@@ -1,27 +1,22 @@
-# Store hours sync — 2026-11-04T21:20:36.447Z
+# Store hours sync — 2026-11-05T10:56:51.343Z
 
-- checked: 23
-- applied: 0
-- held for review: 7
+- checked: 24
+- applied: 8
+- held for review: 0
 - errors: 0
 
-## Held for review
-- **wheat-ridge-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **edgewater-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11:45pm`
-- **aurora-peoria-st-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-11pm`
-- **aurora-buckley-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-11pm`
-- **denver-rino-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 9am-12am`
-- **aspen-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 10am-8pm`
-- **lakewood-dispensary** — no stored baseline yet — first run needs confirmation
-  - proposed: `Daily 8am-10pm`
+## Applied
+- Denver Sheridan Blvd: new baseline Daily 8am-11:45pm
+- Edgewater: new baseline Daily 8am-11:45pm
+- Aurora Peoria: new baseline Daily 9am-11pm
+- Aurora Buckley: new baseline Daily 8am-11pm
+- RiNo: new baseline Daily 9am-12am
+- Aspen: new baseline Daily 10am-8pm
+- Lakewood: new baseline Daily 8am-10pm
+- Cortez: new baseline Daily 8am-11pm
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
 - **lakewood-dispensary** — listing website points at livwell.com, expected everydayweed.com
+- **cortez-dispensary** — listing website points at livwell.com, expected everydayweed.com
 

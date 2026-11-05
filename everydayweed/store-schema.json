@@ -391,6 +391,286 @@
       }
     ]
   },
+  "wheat-ridge-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Denver Sheridan Blvd",
+    "url": "https://everydayweed.com/stores/wheat-ridge-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4103 Sheridan Blvd",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-458-6650",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7731,
+      "longitude": -105.0534
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "edgewater-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Edgewater",
+    "url": "https://everydayweed.com/stores/edgewater-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2467 Sheridan Blvd",
+      "addressLocality": "Edgewater",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-480-0640",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7523,
+      "longitude": -105.0536
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ]
+  },
+  "aurora-peoria-st-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Aurora Peoria",
+    "url": "https://everydayweed.com/stores/aurora-peoria-st-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1401 Peoria St",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-993-7548",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7389778,
+      "longitude": -104.8473846
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "aurora-buckley-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Aurora Buckley",
+    "url": "https://everydayweed.com/stores/aurora-buckley-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "19201 E Colfax Ave",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-366-1077",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7406829,
+      "longitude": -104.7642405
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "denver-rino-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed RiNo",
+    "url": "https://everydayweed.com/stores/denver-rino-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2863 Larimer St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-484-1662",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7613559,
+      "longitude": -104.9820442
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "aspen-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Aspen",
+    "url": "https://everydayweed.com/stores/aspen-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "409 E Hyman Ave",
+      "addressLocality": "Aspen",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-429-4365",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.1888,
+      "longitude": -106.8195
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "10:00",
+        "closes": "20:00"
+      }
+    ]
+  },
+  "lakewood-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Lakewood",
+    "url": "https://everydayweed.com/stores/lakewood-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3600 S Wadsworth Blvd",
+      "addressLocality": "Lakewood",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-484-8853",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6494539,
+      "longitude": -105.0807339
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "cortez-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Cortez",
+    "url": "https://everydayweed.com/stores/cortez-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1819 E Main St",
+      "addressLocality": "Cortez",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-565-9577",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.3486219,
+      "longitude": -108.5624767
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
   "boulder-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
