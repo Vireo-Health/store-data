@@ -89,25 +89,6 @@
       "variants": []
     },
     {
-      "slug": "cortez-dispensary",
-      "name": "Cortez",
-      "webflowItemId": "69b8363e857d3f0c72c9210d",
-      "placeId": "ChIJc3uHRHFvOYcRwyNVcHBC4Pc",
-      "googleBusinessLink": "https://share.google/zpmg2JdBuKswTfqZp",
-      "googleSearchQuery": "LivWell Cortez 1819 E Main St, Cortez, CO 81321",
-      "timezone": "America/Denver",
-      "shopId": "6961",
-      "city": "Cortez",
-      "state": "CO",
-      "address": "1819 E Main St",
-      "phone": "970-565-9577",
-      "lat": 37.3486219,
-      "lng": -108.5624767,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "denver-tech-center-dispensary",
       "name": "Denver Tech Center",
       "webflowItemId": "69b8363eb15e7c733802c037",

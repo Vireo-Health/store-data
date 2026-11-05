@@ -423,6 +423,29 @@
       "variants": []
     },
     {
+      "slug": "cortez-dispensary",
+      "name": "Cortez",
+      "webflowItemId": "6ac6a95a12faed423b8730cc",
+      "placeId": "ChIJc3uHRHFvOYcRwyNVcHBC4Pc",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-11; the Google listing (1819 E Main St) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/zpmg2JdBuKswTfqZp",
+      "googleSearchQuery": "Every Day Weed Cortez 1819 E Main St, Cortez, CO 81321",
+      "timezone": "America/Denver",
+      "shopId": "6961",
+      "city": "Cortez",
+      "state": "CO",
+      "address": "1819 E Main St",
+      "phone": "970-565-9577",
+      "lat": 37.3486219,
+      "lng": -108.5624767,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",
