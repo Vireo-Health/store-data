@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:20:23.209Z",
+  "generatedAt": "2026-11-05T21:28:39.094Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7629
+      "ratingCount": 7631
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2845
+      "ratingCount": 2847
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1153
+      "ratingCount": 1154
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -284,7 +284,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1983
+      "ratingCount": 1985
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1006
+      "ratingCount": 1007
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 690
+      "ratingCount": 692
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11450
+      "ratingCount": 11461
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -968,7 +968,7 @@
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
-      "ratingCount": 1820
+      "ratingCount": 1821
     }
   }
 }
