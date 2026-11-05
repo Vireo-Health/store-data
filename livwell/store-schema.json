@@ -139,41 +139,6 @@
       }
     ]
   },
-  "cortez-dispensary": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "LivWell Cortez",
-    "url": "https://livwell.com/locations/cortez-dispensary/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "1819 E Main St",
-      "addressLocality": "Cortez",
-      "addressRegion": "CO",
-      "addressCountry": "US"
-    },
-    "telephone": "970-565-9577",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 37.3486219,
-      "longitude": -108.5624767
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "23:00"
-      }
-    ]
-  },
   "denver-tech-center-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",

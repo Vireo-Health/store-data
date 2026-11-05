@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:20:11.965Z",
+  "generatedAt": "2026-11-05T21:28:27.015Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -81,7 +81,7 @@
       "state": "CO",
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1291,
+      "ratingCount": 1293,
       "lat": 39.9189927,
       "lng": -105.0895643,
       "shopId": "6960",
@@ -290,78 +290,6 @@
       "storeUrl": "/locations/denver-colorado-blvd-dispensary/"
     },
     {
-      "slug": "cortez-dispensary",
-      "name": "Cortez",
-      "address": "1819 E Main St",
-      "city": "Cortez",
-      "state": "CO",
-      "phone": "970-565-9577",
-      "rating": 4.9,
-      "ratingCount": 2557,
-      "lat": 37.3486219,
-      "lng": -108.5624767,
-      "shopId": "6961",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/cortez-dispensary/"
-    },
-    {
       "slug": "denver-tech-center-dispensary",
       "name": "Denver Tech Center",
       "address": "7795 E. Belleview Ave #2",
@@ -369,7 +297,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5340,
+      "ratingCount": 5339,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -801,7 +729,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3812,
+      "ratingCount": 3820,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",
@@ -873,7 +801,7 @@
       "state": "CO",
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1678,
+      "ratingCount": 1682,
       "lat": 39.7431351,
       "lng": -104.9783113,
       "shopId": "6956",

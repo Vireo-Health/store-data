@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:20:11.965Z",
+  "generatedAt": "2026-11-05T21:28:27.015Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
-      "ratingCount": 1291
+      "ratingCount": 1293
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
@@ -229,63 +229,6 @@
       "rating": 4.8,
       "ratingCount": 1788
     },
-    "cortez-dispensary": {
-      "name": "Cortez",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "phone": "970-565-9577",
-      "rating": 4.9,
-      "ratingCount": 2557
-    },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
       "week": [
@@ -341,7 +284,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5340
+      "ratingCount": 5339
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -683,7 +626,7 @@
       ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3812
+      "ratingCount": 3820
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -740,7 +683,7 @@
       ],
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1678
+      "ratingCount": 1682
     }
   }
 }
