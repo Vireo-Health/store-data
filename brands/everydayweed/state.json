@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:28:53.623Z",
+  "generatedAt": "2026-11-06T20:55:08.564Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1793
+      "ratingCount": 1794
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5715
+      "ratingCount": 5716
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 981
+      "ratingCount": 982
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 599
+      "ratingCount": 600
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -796,8 +796,8 @@
         ]
       ],
       "phone": "303-993-7548",
-      "rating": 4.9,
-      "ratingCount": 1773
+      "rating": 4.8,
+      "ratingCount": 1774
     },
     "aurora-buckley-dispensary": {
       "name": "Aurora Buckley",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4591
+      "ratingCount": 4590
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2531
+      "ratingCount": 2538
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1025,7 +1025,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2428
+      "ratingCount": 2430
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1082,7 +1082,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2557
+      "ratingCount": 2558
     },
     "boulder-dispensary": {
       "name": "Boulder",
