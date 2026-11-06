@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:28:39.094Z",
+  "generatedAt": "2026-11-06T20:54:56.602Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7631
+      "ratingCount": 7632
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -170,7 +170,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2847
+      "ratingCount": 2846
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1154
+      "ratingCount": 1153
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -398,7 +398,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3031
+      "ratingCount": 3034
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.6,
-      "ratingCount": 692
+      "ratingCount": 697
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11461
+      "ratingCount": 11475
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
@@ -911,7 +911,7 @@
       ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
-      "ratingCount": 2232
+      "ratingCount": 2233
     },
     "pueblo-west-dispensary": {
       "name": "Pueblo West",
