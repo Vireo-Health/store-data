@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:55:42.647Z",
+  "generatedAt": "2026-11-07T19:26:51.686Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1193
+      "ratingCount": 1194
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.6,
-      "ratingCount": 697
+      "ratingCount": 706
     },
     "fort-collins": {
       "name": "Fort Collins",
