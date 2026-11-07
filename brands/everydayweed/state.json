@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:55:08.564Z",
+  "generatedAt": "2026-11-07T19:26:18.998Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -1025,7 +1025,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2430
+      "ratingCount": 2431
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1367,7 +1367,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 728
+      "ratingCount": 729
     }
   }
 }
