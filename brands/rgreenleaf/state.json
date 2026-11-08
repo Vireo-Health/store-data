@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:25:44.072Z",
+  "generatedAt": "2026-11-08T19:41:07.711Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -284,7 +284,7 @@
       ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 203
+      "ratingCount": 204
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
