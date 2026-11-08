@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:26:18.998Z",
+  "generatedAt": "2026-11-08T19:41:40.295Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.8,
-      "ratingCount": 1794
+      "ratingCount": 1795
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2597
+      "ratingCount": 2596
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2256
+      "ratingCount": 2255
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5716
+      "ratingCount": 5718
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 982
+      "ratingCount": 983
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3738
+      "ratingCount": 3739
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1135
+      "ratingCount": 1136
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -740,7 +740,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 913
+      "ratingCount": 914
     },
     "aurora-peoria-st-dispensary": {
       "name": "Aurora Peoria",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4590
+      "ratingCount": 4592
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2538
+      "ratingCount": 2543
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1025,7 +1025,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2431
+      "ratingCount": 2432
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1082,7 +1082,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2558
+      "ratingCount": 2557
     },
     "boulder-dispensary": {
       "name": "Boulder",
@@ -1253,7 +1253,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 413
+      "ratingCount": 414
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
