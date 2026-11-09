@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:41:40.295Z",
+  "generatedAt": "2026-11-09T23:47:03.012Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2255
+      "ratingCount": 2258
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3739
+      "ratingCount": 3740
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 600
+      "ratingCount": 601
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 560
+      "ratingCount": 561
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -625,8 +625,8 @@
         ]
       ],
       "phone": "970-315-0032",
-      "rating": 4.9,
-      "ratingCount": 217
+      "rating": 4.8,
+      "ratingCount": 219
     },
     "wheat-ridge-dispensary": {
       "name": "Denver Sheridan Blvd",
@@ -797,7 +797,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1774
+      "ratingCount": 1775
     },
     "aurora-buckley-dispensary": {
       "name": "Aurora Buckley",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4592
+      "ratingCount": 4593
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2543
+      "ratingCount": 2544
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1082,7 +1082,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2557
+      "ratingCount": 2558
     },
     "boulder-dispensary": {
       "name": "Boulder",
@@ -1139,7 +1139,7 @@
       ],
       "phone": "720-446-5490",
       "rating": 4.7,
-      "ratingCount": 191
+      "ratingCount": 192
     },
     "breckenridge-dispensary": {
       "name": "Breckenridge",
