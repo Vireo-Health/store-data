@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:47:03.012Z",
+  "generatedAt": "2026-11-10T21:18:28.373Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-315-0032",
       "rating": 4.8,
-      "ratingCount": 219
+      "ratingCount": 220
     },
     "wheat-ridge-dispensary": {
       "name": "Denver Sheridan Blvd",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4593
+      "ratingCount": 4594
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -1025,7 +1025,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2432
+      "ratingCount": 2433
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1253,7 +1253,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 414
+      "ratingCount": 415
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -1367,7 +1367,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 729
+      "ratingCount": 730
     }
   }
 }
