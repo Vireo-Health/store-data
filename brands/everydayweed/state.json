@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:18:28.373Z",
+  "generatedAt": "2026-11-11T21:58:27.960Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2596
+      "ratingCount": 2597
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 983
+      "ratingCount": 985
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3740
+      "ratingCount": 3742
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.7,
-      "ratingCount": 536
+      "ratingCount": 535
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 601
+      "ratingCount": 600
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -625,7 +625,7 @@
         ]
       ],
       "phone": "970-315-0032",
-      "rating": 4.8,
+      "rating": 4.9,
       "ratingCount": 220
     },
     "wheat-ridge-dispensary": {
@@ -740,7 +740,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 914
+      "ratingCount": 913
     },
     "aurora-peoria-st-dispensary": {
       "name": "Aurora Peoria",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4594
+      "ratingCount": 4593
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -968,7 +968,7 @@
       ],
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 221
+      "ratingCount": 222
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -1310,7 +1310,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 641
+      "ratingCount": 642
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
@@ -1367,7 +1367,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 730
+      "ratingCount": 731
     }
   }
 }
