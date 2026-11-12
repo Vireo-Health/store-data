@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:57:47.728Z",
+  "generatedAt": "2026-11-12T21:50:21.964Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -590,13 +590,13 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 7am-11pm, Sun 7am-10pm",
-      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–10pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
       "week": [
         [
           {
             "open": 420,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -662,13 +662,13 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 7am-11pm, Sun 7am-10pm",
-      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–10pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
       "week": [
         [
           {
             "open": 420,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -1737,7 +1737,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 352,
+      "ratingCount": 351,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",
@@ -1809,7 +1809,7 @@
       "state": "NM",
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 352,
+      "ratingCount": 351,
       "lat": 35.0785,
       "lng": -106.6214,
       "shopId": "yale",

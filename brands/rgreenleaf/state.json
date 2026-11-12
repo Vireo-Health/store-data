@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:57:47.728Z",
+  "generatedAt": "2026-11-12T21:50:21.964Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -235,7 +235,7 @@
         [
           {
             "open": 420,
-            "close": 1320,
+            "close": 1260,
             "closesNextDay": false
           }
         ],
@@ -740,7 +740,7 @@
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
-      "ratingCount": 352
+      "ratingCount": 351
     }
   }
 }
