@@ -446,6 +446,75 @@
       "variants": []
     },
     {
+      "slug": "denver-central-park-dispensary",
+      "name": "Central Park",
+      "webflowItemId": "6ac6a976a0ed4fe08c958a6c",
+      "placeId": "ChIJgZwoRrx7bIcRyOCIwWSKf2Q",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-11; the Google listing (3955 Oneida St) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/oHFIzgUp2oJfaXKzP",
+      "googleSearchQuery": "Every Day Weed Central Park 3955 Oneida St, Denver, CO 80207",
+      "timezone": "America/Denver",
+      "shopId": "6964",
+      "city": "Denver",
+      "state": "CO",
+      "address": "3955 Oneida St",
+      "phone": "720-573-4735",
+      "lat": 39.771911,
+      "lng": -104.9080879,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "log-lane-village-dispensary",
+      "name": "Log Lane",
+      "webflowItemId": "6ac6a9c2bf544f2f13773af0",
+      "placeId": "ChIJo0NDdLfobYcR7blw4X1ONNM",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-11; the Google listing (130 Maine St Suite B) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/IbsOkiG49VVhWS052",
+      "googleSearchQuery": "Every Day Weed Log Lane 130 Maine St Suite B, Log Lane Village, CO 80705",
+      "timezone": "America/Denver",
+      "shopId": "6967",
+      "city": "Log Lane Village",
+      "state": "CO",
+      "address": "130 Maine St Suite B",
+      "phone": "970-867-7867",
+      "lat": 40.2683349,
+      "lng": -103.8315717,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "pueblo-north-dispensary",
+      "name": "North Pueblo",
+      "webflowItemId": "6ac6a9f358daa570597fca0b",
+      "placeId": "ChIJ39Bl-AqhE4cRy08wLEorycU",
+      "resolveNameAllow": [
+        "LivWell"
+      ],
+      "resolveNameAllowReason": "Cut over from LivWell 2026-11; the Google listing (2565 N I-25 Exit 104) is the live store's listing and may still carry the old brand until the rename propagates.",
+      "googleBusinessLink": "https://share.google/5zLxvzOYiHzUjWfE1",
+      "googleSearchQuery": "Every Day Weed North Pueblo 2565 N I-25 Exit 104, Pueblo, CO 81008",
+      "timezone": "America/Denver",
+      "shopId": "6962",
+      "city": "Pueblo",
+      "state": "CO",
+      "address": "2565 N I-25 Exit 104",
+      "phone": "719-306-0042",
+      "lat": 38.3475258,
+      "lng": -104.6212597,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
       "slug": "boulder-dispensary",
       "name": "Boulder",
       "webflowItemId": "69d55fd35192be6e3d4e2521",
