@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:57:58.345Z",
+  "generatedAt": "2026-11-12T21:50:32.652Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -146,78 +146,6 @@
       "storeUrl": "/locations/broomfield-dispensary/"
     },
     {
-      "slug": "denver-central-park-dispensary",
-      "name": "Central Park",
-      "address": "3955 Oneida St",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "720-573-4735",
-      "rating": 4.8,
-      "ratingCount": 2096,
-      "lat": 39.771911,
-      "lng": -104.9080879,
-      "shopId": "6964",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-10pm",
-      "hoursDotted": "Daily 8am–10pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/denver-central-park-dispensary/"
-    },
-    {
       "slug": "denver-colorado-blvd-dispensary",
       "name": "Colorado Boulevard",
       "address": "2020 S. Colorado Blvd",
@@ -297,7 +225,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5378,
+      "ratingCount": 5389,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -441,7 +369,7 @@
       "state": "CO",
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7603,
+      "ratingCount": 7604,
       "lat": 40.5988416,
       "lng": -105.0760923,
       "shopId": "6952",
@@ -578,150 +506,6 @@
       "storeUrl": "/locations/garden-city-dispensary/"
     },
     {
-      "slug": "log-lane-village-dispensary",
-      "name": "Log Lane",
-      "address": "130 Maine St Suite B",
-      "city": "Log Lane Village",
-      "state": "CO",
-      "phone": "970-867-7867",
-      "rating": 4.7,
-      "ratingCount": 720,
-      "lat": 40.2683349,
-      "lng": -103.8315717,
-      "shopId": "6967",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-10pm",
-      "hoursDotted": "Daily 8am–10pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1320,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/log-lane-village-dispensary/"
-    },
-    {
-      "slug": "pueblo-north-dispensary",
-      "name": "Pueblo North",
-      "address": "2565 N I-25 Exit 104",
-      "city": "Pueblo",
-      "state": "CO",
-      "phone": "719-306-0042",
-      "rating": 4.9,
-      "ratingCount": 2137,
-      "lat": 38.3475258,
-      "lng": -104.6212597,
-      "shopId": "6962",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-11pm",
-      "hoursDotted": "Daily 8am–11pm",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/pueblo-north-dispensary/"
-    },
-    {
       "slug": "denver-dia-dispensary",
       "name": "Tower Road",
       "address": "6651 N Tower Rd Suite 120",
@@ -729,7 +513,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3830,
+      "ratingCount": 3838,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",
@@ -801,7 +585,7 @@
       "state": "CO",
       "phone": "303-952-9150",
       "rating": 4.7,
-      "ratingCount": 1693,
+      "ratingCount": 1692,
       "lat": 39.7431351,
       "lng": -104.9783113,
       "shopId": "6956",

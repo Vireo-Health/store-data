@@ -1,6 +1,6 @@
-# Store hours sync — 2026-11-11T21:57:58.345Z
+# Store hours sync — 2026-11-12T21:50:32.652Z
 
-- checked: 12
+- checked: 9
 - applied: 0
 - held for review: 0
 - errors: 0
