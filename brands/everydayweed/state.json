@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:58:27.960Z",
+  "generatedAt": "2026-11-12T08:46:49.587Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3742
+      "ratingCount": 3744
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.7,
-      "ratingCount": 535
+      "ratingCount": 536
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -625,8 +625,8 @@
         ]
       ],
       "phone": "970-315-0032",
-      "rating": 4.9,
-      "ratingCount": 220
+      "rating": 4.8,
+      "ratingCount": 221
     },
     "wheat-ridge-dispensary": {
       "name": "Denver Sheridan Blvd",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1136
+      "ratingCount": 1137
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2544
+      "ratingCount": 2546
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1083,6 +1083,177 @@
       "phone": "970-565-9577",
       "rating": 4.9,
       "ratingCount": 2558
+    },
+    "denver-central-park-dispensary": {
+      "name": "Central Park",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "720-573-4735",
+      "rating": 4.8,
+      "ratingCount": 2096
+    },
+    "log-lane-village-dispensary": {
+      "name": "Log Lane",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "970-867-7867",
+      "rating": 4.7,
+      "ratingCount": 720
+    },
+    "pueblo-north-dispensary": {
+      "name": "North Pueblo",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "phone": "719-306-0042",
+      "rating": 4.9,
+      "ratingCount": 2137
     },
     "boulder-dispensary": {
       "name": "Boulder",

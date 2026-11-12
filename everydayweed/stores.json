@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:58:27.960Z",
+  "generatedAt": "2026-11-12T08:46:49.587Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -441,7 +441,7 @@
       "state": "CO",
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3742,
+      "ratingCount": 3744,
       "lat": 39.782,
       "lng": -105.0147,
       "shopId": "1761",
@@ -513,7 +513,7 @@
       "state": "CO",
       "phone": "720-505-5887",
       "rating": 4.7,
-      "ratingCount": 535,
+      "ratingCount": 536,
       "lat": 39.7361641,
       "lng": -104.9830365,
       "shopId": "436",
@@ -728,8 +728,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "970-315-0032",
-      "rating": 4.9,
-      "ratingCount": 220,
+      "rating": 4.8,
+      "ratingCount": 221,
       "lat": 39.7461,
       "lng": -105.0257,
       "shopId": "7021",
@@ -801,7 +801,7 @@
       "state": "CO",
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1136,
+      "ratingCount": 1137,
       "lat": 39.7731,
       "lng": -105.0534,
       "shopId": "412",
@@ -1089,7 +1089,7 @@
       "state": "CO",
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2544,
+      "ratingCount": 2546,
       "lat": 39.7613559,
       "lng": -104.9820442,
       "shopId": "6963",
@@ -1368,6 +1368,222 @@
       "type": null,
       "storeId": null,
       "storeUrl": "/stores/cortez-dispensary/"
+    },
+    {
+      "slug": "denver-central-park-dispensary",
+      "name": "Central Park",
+      "address": "3955 Oneida St",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "720-573-4735",
+      "rating": 4.8,
+      "ratingCount": 2096,
+      "lat": 39.771911,
+      "lng": -104.9080879,
+      "shopId": "6964",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/denver-central-park-dispensary/"
+    },
+    {
+      "slug": "log-lane-village-dispensary",
+      "name": "Log Lane",
+      "address": "130 Maine St Suite B",
+      "city": "Log Lane Village",
+      "state": "CO",
+      "phone": "970-867-7867",
+      "rating": 4.7,
+      "ratingCount": 720,
+      "lat": 40.2683349,
+      "lng": -103.8315717,
+      "shopId": "6967",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/log-lane-village-dispensary/"
+    },
+    {
+      "slug": "pueblo-north-dispensary",
+      "name": "North Pueblo",
+      "address": "2565 N I-25 Exit 104",
+      "city": "Pueblo",
+      "state": "CO",
+      "phone": "719-306-0042",
+      "rating": 4.9,
+      "ratingCount": 2137,
+      "lat": 38.3475258,
+      "lng": -104.6212597,
+      "shopId": "6962",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-11pm",
+      "hoursDotted": "Daily 8am–11pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/pueblo-north-dispensary/"
     },
     {
       "slug": "boulder-dispensary",

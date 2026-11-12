@@ -671,6 +671,111 @@
       }
     ]
   },
+  "denver-central-park-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Central Park",
+    "url": "https://everydayweed.com/stores/denver-central-park-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3955 Oneida St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-573-4735",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.771911,
+      "longitude": -104.9080879
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "log-lane-village-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Log Lane",
+    "url": "https://everydayweed.com/stores/log-lane-village-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "130 Maine St Suite B",
+      "addressLocality": "Log Lane Village",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-867-7867",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.2683349,
+      "longitude": -103.8315717
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "pueblo-north-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed North Pueblo",
+    "url": "https://everydayweed.com/stores/pueblo-north-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2565 N I-25 Exit 104",
+      "addressLocality": "Pueblo",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "719-306-0042",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.3475258,
+      "longitude": -104.6212597
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
+      }
+    ]
+  },
   "boulder-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
