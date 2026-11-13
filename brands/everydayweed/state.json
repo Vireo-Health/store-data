@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:50:57.899Z",
+  "generatedAt": "2026-11-13T21:26:16.214Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2596
+      "ratingCount": 2597
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3744
+      "ratingCount": 3747
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.7,
-      "ratingCount": 536
+      "ratingCount": 537
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-315-0032",
       "rating": 4.8,
-      "ratingCount": 221
+      "ratingCount": 222
     },
     "wheat-ridge-dispensary": {
       "name": "Denver Sheridan Blvd",
@@ -740,7 +740,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 913
+      "ratingCount": 914
     },
     "aurora-peoria-st-dispensary": {
       "name": "Aurora Peoria",
@@ -797,7 +797,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1776
+      "ratingCount": 1775
     },
     "aurora-buckley-dispensary": {
       "name": "Aurora Buckley",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2546
+      "ratingCount": 2547
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1139,7 +1139,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2096
+      "ratingCount": 2095
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -1481,7 +1481,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 643
+      "ratingCount": 644
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
