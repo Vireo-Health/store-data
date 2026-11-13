@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:50:43.960Z",
+  "generatedAt": "2026-11-13T21:26:03.014Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -113,7 +113,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7660
+      "ratingCount": 7667
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1008
+      "ratingCount": 1007
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 730
+      "ratingCount": 733
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1291
+      "ratingCount": 1292
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 957
+      "ratingCount": 956
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11564
+      "ratingCount": 11571
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
