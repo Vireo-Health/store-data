@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:51:18.602Z",
+  "generatedAt": "2026-11-13T21:26:37.681Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -113,7 +113,7 @@
       ],
       "phone": "(505) 865-6635",
       "rating": 4.7,
-      "ratingCount": 762
+      "ratingCount": 763
     },
     "las-cruces-north": {
       "name": "Las Cruces North",
