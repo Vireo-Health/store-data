@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:25:29.360Z",
+  "generatedAt": "2026-11-14T19:56:06.899Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -441,7 +441,7 @@
       "state": "NM",
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 511,
+      "ratingCount": 512,
       "lat": 35.1475,
       "lng": -107.8514,
       "shopId": "grants",
@@ -513,7 +513,7 @@
       "state": "NM",
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 511,
+      "ratingCount": 512,
       "lat": 35.1475,
       "lng": -107.8514,
       "shopId": "grants",
