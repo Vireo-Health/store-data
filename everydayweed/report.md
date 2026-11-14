@@ -1,4 +1,4 @@
-# Store hours sync — 2026-11-13T21:26:16.214Z
+# Store hours sync — 2026-11-14T19:56:42.985Z
 
 - checked: 27
 - applied: 0
@@ -9,7 +9,5 @@
 Nothing was published from these — fix the listing in Google Business Profile.
 - **lakewood-dispensary** — listing website points at livwell.com, expected everydayweed.com
 - **cortez-dispensary** — listing website points at livwell.com, expected everydayweed.com
-- **denver-central-park-dispensary** — listing website points at livwell.com, expected everydayweed.com
-- **log-lane-village-dispensary** — listing website points at livwell.com, expected everydayweed.com
 - **pueblo-north-dispensary** — listing website points at livwell.com, expected everydayweed.com
 
