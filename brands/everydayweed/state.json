@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:56:42.985Z",
+  "generatedAt": "2026-11-15T20:24:15.506Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -55,8 +55,8 @@
         ]
       ],
       "phone": "303-999-0401",
-      "rating": 4.8,
-      "ratingCount": 1796
+      "rating": 4.7,
+      "ratingCount": 1798
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2598
+      "ratingCount": 2601
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2258
+      "ratingCount": 2257
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5717
+      "ratingCount": 5718
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -455,7 +455,7 @@
       ],
       "phone": "720-505-5887",
       "rating": 4.7,
-      "ratingCount": 537
+      "ratingCount": 539
     },
     "denver-colfax-dispensary": {
       "name": "Denver Colfax",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1139
+      "ratingCount": 1141
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2562
+      "ratingCount": 2564
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -968,7 +968,7 @@
       ],
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 222
+      "ratingCount": 223
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -1424,7 +1424,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 416
+      "ratingCount": 417
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
