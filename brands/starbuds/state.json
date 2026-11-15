@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:56:25.333Z",
+  "generatedAt": "2026-11-15T20:24:01.015Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1129
+      "ratingCount": 1128
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -227,7 +227,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1158
+      "ratingCount": 1159
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -512,7 +512,7 @@
       ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1007
+      "ratingCount": 1009
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -569,7 +569,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 737
+      "ratingCount": 741
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -626,7 +626,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1292
+      "ratingCount": 1293
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -797,7 +797,7 @@
       ],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 957
+      "ratingCount": 958
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -854,7 +854,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11575
+      "ratingCount": 11582
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
