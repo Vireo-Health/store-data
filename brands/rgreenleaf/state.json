@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:52:27.058Z",
+  "generatedAt": "2026-11-18T22:35:57.093Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -227,7 +227,7 @@
       ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 512
+      "ratingCount": 513
     },
     "dispensary-hobbs": {
       "name": "Hobbs",
@@ -235,7 +235,7 @@
         [
           {
             "open": 420,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -455,7 +455,7 @@
       ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1213
+      "ratingCount": 1214
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",

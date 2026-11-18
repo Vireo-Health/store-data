@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:52:27.058Z",
+  "generatedAt": "2026-11-18T22:35:57.093Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -441,7 +441,7 @@
       "state": "NM",
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 512,
+      "ratingCount": 513,
       "lat": 35.1475,
       "lng": -107.8514,
       "shopId": "grants",
@@ -513,7 +513,7 @@
       "state": "NM",
       "phone": "(505) 287-5383",
       "rating": 4.7,
-      "ratingCount": 512,
+      "ratingCount": 513,
       "lat": 35.1475,
       "lng": -107.8514,
       "shopId": "grants",
@@ -590,13 +590,13 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
-      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-10pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–10pm",
       "week": [
         [
           {
             "open": 420,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -662,13 +662,13 @@
       "lng": -103.136,
       "shopId": "hobbs",
       "timezone": "America/Denver",
-      "hours": "Mon-Sat 7am-11pm, Sun 7am-9pm",
-      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–9pm",
+      "hours": "Mon-Sat 7am-11pm, Sun 7am-10pm",
+      "hoursDotted": "Mon–Sat 7am–11pm · Sun 7am–10pm",
       "week": [
         [
           {
             "open": 420,
-            "close": 1260,
+            "close": 1320,
             "closesNextDay": false
           }
         ],
@@ -1017,7 +1017,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1213,
+      "ratingCount": 1214,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1089,7 +1089,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1213,
+      "ratingCount": 1214,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
