@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:53:13.588Z",
+  "generatedAt": "2026-11-18T22:36:59.384Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2603
+      "ratingCount": 2606
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2267
+      "ratingCount": 2269
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -284,7 +284,7 @@
       ],
       "phone": "303-353-9993",
       "rating": 4.9,
-      "ratingCount": 5720
+      "ratingCount": 5719
     },
     "aurora-dispensary": {
       "name": "Aurora E 6th Ave",
@@ -341,7 +341,7 @@
       ],
       "phone": "720-458-6950",
       "rating": 4.4,
-      "ratingCount": 986
+      "ratingCount": 987
     },
     "northwest-denver-dispensary": {
       "name": "Pecos",
@@ -569,7 +569,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 561
+      "ratingCount": 563
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2577
+      "ratingCount": 2579
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -968,7 +968,7 @@
       ],
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 225
+      "ratingCount": 227
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -1367,7 +1367,7 @@
       ],
       "phone": "970-453-4900",
       "rating": 4.5,
-      "ratingCount": 653
+      "ratingCount": 654
     },
     "fort-collins-dispensary": {
       "name": "Fort Collins College Ave",
@@ -1481,7 +1481,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 645
+      "ratingCount": 646
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
