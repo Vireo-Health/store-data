@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:37:47.683Z",
+  "generatedAt": "2026-11-19T22:41:28.229Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -56,7 +56,7 @@
       ],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1205
+      "ratingCount": 1206
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -170,7 +170,7 @@
       ],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2606
+      "ratingCount": 2608
     },
     "garden-city": {
       "name": "Garden City",
@@ -227,7 +227,7 @@
       ],
       "phone": "970-515-5839",
       "rating": 4.7,
-      "ratingCount": 753
+      "ratingCount": 754
     },
     "fort-collins": {
       "name": "Fort Collins",
