@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:36:59.384Z",
+  "generatedAt": "2026-11-19T22:40:51.456Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2606
+      "ratingCount": 2607
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2269
+      "ratingCount": 2270
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3749
+      "ratingCount": 3750
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 602
+      "ratingCount": 603
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -683,7 +683,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1149
+      "ratingCount": 1150
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2579
+      "ratingCount": 2582
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1025,7 +1025,7 @@
       ],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2434
+      "ratingCount": 2433
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1424,7 +1424,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 420
+      "ratingCount": 421
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -1481,7 +1481,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 646
+      "ratingCount": 647
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
