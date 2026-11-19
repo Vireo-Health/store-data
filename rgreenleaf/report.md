@@ -1,10 +1,7 @@
-# Store hours sync — 2026-11-18T22:35:57.093Z
+# Store hours sync — 2026-11-19T22:39:57.316Z
 
 - checked: 13
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Hobbs: Mon-Sat 7am-11pm, Sun 7am-9pm  ->  Mon-Sat 7am-11pm, Sun 7am-10pm  [Sun]
 
