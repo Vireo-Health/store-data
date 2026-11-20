@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:40:51.456Z",
+  "generatedAt": "2026-11-20T22:15:09.129Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2270
+      "ratingCount": 2271
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -227,7 +227,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 429
+      "ratingCount": 428
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -512,7 +512,7 @@
       ],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 603
+      "ratingCount": 604
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -577,49 +577,49 @@
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ],
         [
           {
             "open": 540,
-            "close": 1320,
+            "close": 1440,
             "closesNextDay": false
           }
         ]
@@ -1424,7 +1424,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 421
+      "ratingCount": 423
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -1481,7 +1481,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 647
+      "ratingCount": 649
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
