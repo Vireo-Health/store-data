@@ -1,12 +1,9 @@
-# Store hours sync — 2026-11-20T22:14:45.445Z
+# Store hours sync — 2026-11-21T20:54:40.259Z
 
 - checked: 9
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
-
-## Applied
-- Garden City: Daily 8am-10pm  ->  Daily 8am-12am  [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.
