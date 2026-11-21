@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:14:34.991Z",
+  "generatedAt": "2026-11-21T20:54:26.370Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -56,7 +56,7 @@
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
-      "ratingCount": 223
+      "ratingCount": 224
     },
     "dispensary-clovis": {
       "name": "Clovis",
@@ -170,7 +170,7 @@
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
-      "ratingCount": 628
+      "ratingCount": 632
     },
     "dispensary-grants": {
       "name": "Grants",
@@ -512,7 +512,7 @@
       ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 478
+      "ratingCount": 479
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -626,7 +626,7 @@
       ],
       "phone": "505-962-2161",
       "rating": 4.3,
-      "ratingCount": 199
+      "ratingCount": 198
     },
     "dispensary-albuquerque-west-side": {
       "name": "Westside",
