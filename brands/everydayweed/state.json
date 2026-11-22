@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:55:04.136Z",
+  "generatedAt": "2026-11-22T21:04:01.464Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -113,7 +113,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2608
+      "ratingCount": 2609
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -170,7 +170,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2271
+      "ratingCount": 2272
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -398,7 +398,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3754
+      "ratingCount": 3753
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -626,7 +626,7 @@
       ],
       "phone": "970-315-0032",
       "rating": 4.8,
-      "ratingCount": 222
+      "ratingCount": 223
     },
     "wheat-ridge-dispensary": {
       "name": "Denver Sheridan Blvd",
@@ -797,7 +797,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1779
+      "ratingCount": 1780
     },
     "aurora-buckley-dispensary": {
       "name": "Aurora Buckley",
@@ -854,7 +854,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4592
+      "ratingCount": 4593
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -911,7 +911,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2588
+      "ratingCount": 2589
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1139,7 +1139,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2094
+      "ratingCount": 2093
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -1253,7 +1253,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2138
+      "ratingCount": 2139
     },
     "boulder-dispensary": {
       "name": "Boulder",
