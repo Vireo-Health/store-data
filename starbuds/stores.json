@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:34.285Z",
+  "generatedAt": "2026-11-24T21:09:30.396Z",
   "stores": [
     {
       "slug": "south-aurora-quincy-ave",
@@ -66,6 +66,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -139,6 +151,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -153,7 +177,7 @@
       "state": "CO",
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2852,
+      "ratingCount": 2850,
       "lat": 39.70778,
       "lng": -104.94019,
       "shopId": "1767",
@@ -211,6 +235,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -225,7 +261,7 @@
       "state": "CO",
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1164,
+      "ratingCount": 1165,
       "lat": 39.76953,
       "lng": -105.02032,
       "shopId": "4474",
@@ -282,6 +318,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -355,6 +403,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 1765,
       "type": "rec",
@@ -426,6 +486,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 4656,
@@ -499,6 +571,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": 5590,
       "type": "rec",
@@ -571,6 +644,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": 6368,
       "type": "med",
@@ -642,6 +716,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -715,6 +801,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -729,7 +827,7 @@
       "state": "CO",
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1010,
+      "ratingCount": 1011,
       "lat": 40.50689,
       "lng": -105.07682,
       "shopId": "5367",
@@ -787,6 +885,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -801,7 +911,7 @@
       "state": "CO",
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 763,
+      "ratingCount": 764,
       "lat": 40.39714,
       "lng": -104.69101,
       "shopId": "5364",
@@ -859,6 +969,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -873,7 +995,7 @@
       "state": "CO",
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1302,
+      "ratingCount": 1303,
       "lat": 40.20333,
       "lng": -105.13153,
       "shopId": "3659",
@@ -930,6 +1052,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1003,6 +1137,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1075,6 +1221,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1089,7 +1247,7 @@
       "state": "CO",
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 961,
+      "ratingCount": 962,
       "lat": 38.83405,
       "lng": -104.81498,
       "shopId": "1757",
@@ -1147,6 +1305,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1218,6 +1377,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 601,
@@ -1291,6 +1462,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 5142,
       "type": "med",
@@ -1363,6 +1546,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1434,6 +1629,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,

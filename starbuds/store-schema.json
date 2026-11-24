@@ -32,6 +32,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "aurora-dispensary": {
@@ -66,6 +75,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -102,6 +120,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "highlands-dispensary": {
@@ -137,6 +164,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "lakeside-dispensary": {
@@ -171,6 +207,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -242,6 +287,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "thornton-premium-marijuana-dispensary": {
@@ -276,6 +330,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -312,6 +375,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "garden-city-dispensary": {
@@ -346,6 +418,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -382,6 +463,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "louisville-dispensary": {
@@ -417,6 +507,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "niwot-dispensary": {
@@ -451,6 +550,15 @@
         ],
         "opens": "09:00",
         "closes": "20:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -522,6 +630,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "pueblo-dispensary": {
@@ -564,6 +681,15 @@
         "opens": "09:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "pueblo-west-dispensary": {
@@ -598,6 +724,15 @@
         ],
         "opens": "09:00",
         "closes": "23:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   }

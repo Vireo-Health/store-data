@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:34.285Z",
+  "generatedAt": "2026-11-24T21:09:30.396Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -53,6 +53,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
@@ -111,6 +123,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
       "ratingCount": 7684
@@ -168,9 +192,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2852
+      "ratingCount": 2850
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -225,9 +261,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1164
+      "ratingCount": 1165
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -281,6 +329,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
@@ -339,6 +399,7 @@
           }
         ]
       ],
+      "special": [],
       "phone": "(720) 669-3515",
       "rating": 4.9,
       "ratingCount": 2645
@@ -395,6 +456,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
@@ -453,6 +526,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "970-480-0685",
       "rating": 4.5,
       "ratingCount": 1241
@@ -510,9 +595,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(970) 797-2155",
       "rating": 4.6,
-      "ratingCount": 1010
+      "ratingCount": 1011
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -567,9 +664,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 763
+      "ratingCount": 764
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -624,9 +733,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1302
+      "ratingCount": 1303
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -680,6 +801,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(720) 389-6313",
       "rating": 4.9,
@@ -738,6 +871,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(720) 340-4548",
       "rating": 4.9,
       "ratingCount": 501
@@ -795,9 +940,10 @@
           }
         ]
       ],
+      "special": [],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 961
+      "ratingCount": 962
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -851,6 +997,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
@@ -909,6 +1067,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(719) 696-8279",
       "rating": 4.7,
       "ratingCount": 2234
@@ -965,6 +1135,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(719) 547-1009",
       "rating": 4.9,
