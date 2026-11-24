@@ -151,27 +151,40 @@ README.md has the step list. What it doesn't say:
   stores converted to Everyday Weed (Aurora North, Boulder, Brighton,
   Federal Heights, Pecos–Hwy 36, DU) still exist as CMS items but are
   deliberately NOT in the roster.
-- **standingakimbo**: 6 stores, and the one brand where sharing another
-  brand's Google listing is CORRECT. It is a medical brand: four of the six
-  (Colorado Springs, Lakewood, Garden City inside Star Buds; Brighton inside
-  Every Day Weed) are med counters or popups trading inside another brand's
-  dispensary, with no listing of their own. They keep the host storefront's
+- **standingakimbo**: 9 stores, and the one brand where sharing another
+  brand's Google listing is CORRECT. It is a medical brand: seven of the nine
+  are med counters or popups trading inside another brand's dispensary, with
+  no listing of their own — inside Star Buds: Colorado Springs, Lakewood
+  (265 S Wadsworth), Garden City (2502 8th Ave); inside Every Day Weed:
+  Brighton, Lakewood (3600 S Wadsworth), Fort Collins Smithfield; inside
+  LivWell: Garden City (2647 8th Ave). Denver and Fort Collins S College are
+  standalone. They keep the host storefront's
   hours, so the host listing is the right source — it just carries the host's
   domain. Each declares `auditWebsiteAllow` + `auditWebsiteAllowReason` so the
   listing audit stays quiet (added 2026-08-17; before that they re-alerted
   every run). Do NOT "fix" those listings in Google Business Profile, and do
   not set `syncFromGoogle: false` on them — that would freeze their hours at
   whatever state holds and keep republishing it over CMS edits.
-- **greendragon**: 6 storefronts. Onboarded with 13; seven have since left the
-  brand and were removed from the roster 2026-08-17. Six of them carried
+  The SA store pages show each CMS item's own `store-hours`/`phone` fields
+  (their embeds do not read `RG_STORES`), so a wrong `webflowItemId` means a
+  page with no hours. Until 2026-11-24 the roster's `garden-city` (2502, Star
+  Buds listing) pointed at the item the site had repurposed for the 2647
+  LivWell counter, leaving the 2502 page blank; rosters added that day use
+  the CMS slug as the roster slug. Still not in the roster: Ft Collins N
+  College Ave (inside LivWell, 810 N College) — a draft "coming soon" item
+  (`6a85d6293ea8dea3c99ca1f2`); add it, sharing LivWell Fort Collins's
+  listing, once it is published.
+- **greendragon**: Telluride is the only Green Dragon store left (confirmed
+  2026-11-24); every other location has cut over to another brand. Onboarded
+  with 13; seven left first and were removed from the roster 2026-08-17. Six of them carried
   `resolveNameAllow` for another brand "during the transition" and the
   transition settled — Fort Collins College, Fort Collins Smithfield,
   Breckenridge and Boulder to Every Day Weed; Thornton and Aurora Quincy to
   Star Buds. The seventh, Denver Colfax (5130 E Colfax), had resolved cleanly
   as Green Dragon at onboarding and converted later; it is the one case the
   duplicate-`placeId` check could not have caught, and the listing-website
-  audit was the only signal. **It still needs an Every Day Weed roster entry
-  and CMS item — until then nobody syncs 5130 E Colfax.** All seven stay live
+  audit was the only signal. It is now Every Day Weed's
+  `denver-colfax-dispensary`. All seven stay live
   on the brand that owns them and their Green Dragon CMS items still exist. Do
   not re-add them. Daily cadence means
   each added store costs ~$0.61/month once the portfolio passes ~32 stores —
@@ -183,3 +196,15 @@ README.md has the step list. What it doesn't say:
   from the roster 2026-11-24; its Everest CMS item (`6a28706cffb42f044f4dd83a`)
   still exists. Do not re-add it, and do not confuse it with Every Day Weed's
   live Sunland Park store at 1541 Appaloosa Dr (a different listing).
+- **Cutovers between brands** (LivWell, Star Buds, Green Dragon -> Every Day
+  Weed): Google is the source of truth for which brand owns a location, but
+  listings lag a cutover either way. Colorado Blvd (2020 S Colorado Blvd) was
+  renamed in Google first and moved LivWell -> Every Day Weed on 2026-11-24,
+  a day before its launch; its EDW CMS item was still a draft, which is why
+  CMS writes now patch never-published/draft items staged-only (the live
+  endpoint would fail or publish the page early). Lakewood 3600 S Wadsworth is
+  the reverse: Every Day Weed since 2026-10-30 (confirmed 2026-11-24), but the
+  listing still says "LivWell Dispensary" with livwell.com. Its listing-audit
+  alert stays until that Google Business Profile rename — do not move it back
+  to LivWell. Central Park and North Pueblo (cut over 2026-11-12) likewise
+  still carry LivWell names, with correct websites.

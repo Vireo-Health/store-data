@@ -625,6 +625,25 @@
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []
+    },
+    {
+      "slug": "denver-colorado-blvd-dispensary",
+      "name": "Colorado Blvd",
+      "webflowItemId": "6ac6aa7b0373161deb273c30",
+      "placeId": "ChIJO3STw8N9bIcRoCENWnj4UWg",
+      "googleBusinessLink": "https://share.google/fYqOSFHSZAqZgf1OL",
+      "googleSearchQuery": "Every Day Weed Colorado Blvd 2020 S Colorado Blvd, Denver, CO 80222",
+      "timezone": "America/Denver",
+      "shopId": "6965",
+      "city": "Denver",
+      "state": "CO",
+      "address": "2020 S. Colorado Blvd",
+      "phone": "303-758-9114",
+      "lat": 39.6797361,
+      "lng": -104.9404824,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
     }
   ]
 }

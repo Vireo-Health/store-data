@@ -86,9 +86,9 @@
       "variants": []
     },
     {
-      "slug": "garden-city",
-      "name": "Garden City",
-      "webflowItemId": "6a28664c9c15e59e99a51f32",
+      "slug": "garden-city-dispensary",
+      "name": "Garden City - 2502 8th Ave",
+      "webflowItemId": "6a85d59b530d65ddb84b7998",
       "placeId": "ChIJ_-CZXQ2hbocR2xT5xSfHEzk",
       "resolveNameAllow": [
         "Star Buds"
@@ -105,9 +105,79 @@
       "city": "Garden City",
       "state": "CO",
       "address": "2502 8th Ave",
-      "phone": "970-515-5839",
+      "phone": "",
       "lat": 40.39714,
       "lng": -104.69101,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "garden-city-medical-dispensary",
+      "name": "Garden City - 2647 8th Ave",
+      "webflowItemId": "6a28664c9c15e59e99a51f32",
+      "placeId": "ChIJFfggnbyhbocRziiHCJ0zM04",
+      "auditWebsiteAllow": [
+        "livwell.com"
+      ],
+      "auditWebsiteAllowReason": "Medical counter inside LivWell Garden City (2647 8th Ave) — no listing of its own, so it shares the host storefront listing and its hours, which carry the host domain.",
+      "googleBusinessLink": null,
+      "googleSearchQuery": "Standing Akimbo Garden City 2647 8th Ave, Garden City, CO 80631",
+      "timezone": "America/Denver",
+      "shopId": "6971",
+      "city": "Garden City",
+      "state": "CO",
+      "address": "2647 8th Ave",
+      "phone": "",
+      "lat": 40.39387019999999,
+      "lng": -104.6918357,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "belmar-medical-dispensary",
+      "name": "Lakewood - 3600 S Wadsworth",
+      "webflowItemId": "6a85d5a52e78c353e2280c08",
+      "placeId": "ChIJw4WOl9SBa4cRlWNVLPnGNKY",
+      "auditWebsiteAllow": [
+        "everydayweed.com",
+        "livwell.com"
+      ],
+      "auditWebsiteAllowReason": "Medical counter inside Every Day Weed Lakewood (3600 S Wadsworth Blvd) — no listing of its own, so it shares the host storefront listing and its hours. That listing still carries the pre-cutover LivWell name and site until the Google Business Profile rename lands.",
+      "googleBusinessLink": null,
+      "googleSearchQuery": "Standing Akimbo Lakewood 3600 S Wadsworth Blvd, Lakewood, CO 80235",
+      "timezone": "America/Denver",
+      "shopId": "6973",
+      "city": "Lakewood",
+      "state": "CO",
+      "address": "3600 S Wadsworth Blvd",
+      "phone": "",
+      "lat": 39.6494539,
+      "lng": -105.0807339,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "fort-collins-smithfield-medical-dispensary",
+      "name": "Ft Collins - Smithfield",
+      "webflowItemId": "6a85d5ef4124b1c8f32bc7b8",
+      "placeId": "ChIJn9YcDB61bocR4s9jdpcX-X4",
+      "auditWebsiteAllow": [
+        "everydayweed.com"
+      ],
+      "auditWebsiteAllowReason": "Medical counter inside Every Day Weed Fort Collins Smithfield (813 Smithfield Dr) — no listing of its own, so it shares the host storefront listing and its hours, which carry the host domain.",
+      "googleBusinessLink": null,
+      "googleSearchQuery": "Standing Akimbo Fort Collins 813 Smithfield Dr, Fort Collins, CO 80524",
+      "timezone": "America/Denver",
+      "shopId": null,
+      "city": "Fort Collins",
+      "state": "CO",
+      "address": "813 Smithfield Dr #8581",
+      "phone": "",
+      "lat": 40.578,
+      "lng": -105.0031,
       "showInStoreFinder": true,
       "showInMap": true,
       "variants": []

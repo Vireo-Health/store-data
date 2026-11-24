@@ -71,6 +71,44 @@ async function updateLiveItems(collectionId, items) {
   return { items: out };
 }
 
+/**
+ * Patch staged (unpublished) items. Used for items that are not live — a
+ * cutover's page is often still a draft when its store joins the roster. The
+ * live endpoint must not touch those: the page would either fail the write or
+ * go live early. The staged copy carries the fields to launch.
+ */
+async function updateItems(collectionId, items) {
+  if (items.length === 0) return { items: [] };
+  const out = [];
+  for (let i = 0; i < items.length; i += 100) {
+    const batch = items.slice(i, i + 100);
+    const res = await request(`/collections/${collectionId}/items`, {
+      method: 'PATCH',
+      body: { items: batch },
+    });
+    out.push(...(res.items || []));
+  }
+  return { items: out };
+}
+
+/**
+ * Split pending updates by whether their CMS item is live. `cmsItems` is the
+ * collection listing (staged view: isDraft, isArchived, lastPublished). An
+ * item is live only if it has been published and is not draft or archived;
+ * an id missing from the listing stays on the live path, as before.
+ */
+function splitByPublished(updates, cmsItems) {
+  const byId = new Map((cmsItems || []).map((item) => [item.id, item]));
+  const live = [];
+  const staged = [];
+  for (const update of updates) {
+    const item = byId.get(update.id);
+    const notLive = item && (item.isDraft || item.isArchived || !item.lastPublished);
+    (notLive ? staged : live).push(update);
+  }
+  return { live, staged };
+}
+
 async function publishSite(siteId, { customDomains = [], publishToWebflowSubdomain = true } = {}) {
   return request(`/sites/${siteId}/publish`, {
     method: 'POST',
@@ -83,5 +121,7 @@ module.exports = {
   getCollection,
   createField,
   updateLiveItems,
+  updateItems,
+  splitByPublished,
   publishSite,
 };

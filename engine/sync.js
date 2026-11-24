@@ -372,8 +372,20 @@ async function main() {
       // is reported and retried on the next run rather than crashing, so the
       // run's other output still gets committed.
       try {
-        await webflow.updateLiveItems(config.site.storesCollectionId, updates);
-        console.log(`Updated ${updates.length} Webflow item(s).`);
+        // An item that has never been published (a cutover's page waiting
+        // for launch day) or is draft/archived gets its staged copy patched
+        // instead: the live endpoint must never publish a page early.
+        const collectionId = config.site.storesCollectionId;
+        const { live, staged } = webflow.splitByPublished(
+          updates,
+          await webflow.listItems(collectionId)
+        );
+        await webflow.updateLiveItems(collectionId, live);
+        await webflow.updateItems(collectionId, staged);
+        console.log(
+          `Updated ${live.length} live Webflow item(s)` +
+            (staged.length ? ` and ${staged.length} unpublished (staged only).` : '.')
+        );
       } catch (err) {
         console.error(`Webflow CMS update failed: ${err.message}`);
         return 3;

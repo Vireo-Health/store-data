@@ -51,25 +51,6 @@
       "variants": []
     },
     {
-      "slug": "denver-colorado-blvd-dispensary",
-      "name": "Colorado Boulevard",
-      "webflowItemId": "69b8363e9bd37c418a7329d1",
-      "placeId": "ChIJO3STw8N9bIcRoCENWnj4UWg",
-      "googleBusinessLink": "https://share.google/fYqOSFHSZAqZgf1OL",
-      "googleSearchQuery": "LivWell Colorado Boulevard 2020 S. Colorado Blvd, Denver, CO 80222",
-      "timezone": "America/Denver",
-      "shopId": "6965",
-      "city": "Denver",
-      "state": "CO",
-      "address": "2020 S. Colorado Blvd",
-      "phone": "303-758-9114",
-      "lat": 39.6797361,
-      "lng": -104.9404824,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "denver-tech-center-dispensary",
       "name": "Denver Tech Center",
       "webflowItemId": "69b8363eb15e7c733802c037",
