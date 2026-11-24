@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:10:18.233Z",
+  "generatedAt": "2026-11-24T22:06:09.527Z",
   "stores": [
     {
       "slug": "denver",
@@ -221,14 +221,14 @@
       "storeUrl": "/stores/lakewood/"
     },
     {
-      "slug": "garden-city",
-      "name": "Garden City",
+      "slug": "garden-city-dispensary",
+      "name": "Garden City - 2502 8th Ave",
       "address": "2502 8th Ave",
       "city": "Garden City",
       "state": "CO",
-      "phone": "970-515-5839",
+      "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 764,
+      "ratingCount": 765,
       "lat": 40.39714,
       "lng": -104.69101,
       "shopId": "5365",
@@ -302,7 +302,248 @@
       "id": null,
       "type": null,
       "storeId": null,
-      "storeUrl": "/stores/garden-city/"
+      "storeUrl": "/stores/garden-city-dispensary/"
+    },
+    {
+      "slug": "garden-city-medical-dispensary",
+      "name": "Garden City - 2647 8th Ave",
+      "address": "2647 8th Ave",
+      "city": "Garden City",
+      "state": "CO",
+      "phone": "(970) 616-6007",
+      "rating": 4.6,
+      "ratingCount": 3732,
+      "lat": 40.39387019999999,
+      "lng": -104.6918357,
+      "shopId": "6971",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/garden-city-medical-dispensary/"
+    },
+    {
+      "slug": "belmar-medical-dispensary",
+      "name": "Lakewood - 3600 S Wadsworth",
+      "address": "3600 S Wadsworth Blvd",
+      "city": "Lakewood",
+      "state": "CO",
+      "phone": "(303) 484-8853",
+      "rating": 4.9,
+      "ratingCount": 2435,
+      "lat": 39.6494539,
+      "lng": -105.0807339,
+      "shopId": "6973",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-10pm",
+      "hoursDotted": "Daily 8am–10pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/belmar-medical-dispensary/"
+    },
+    {
+      "slug": "fort-collins-smithfield-medical-dispensary",
+      "name": "Ft Collins - Smithfield",
+      "address": "813 Smithfield Dr #8581",
+      "city": "Fort Collins",
+      "state": "CO",
+      "phone": "(970) 225-5420",
+      "rating": 4.1,
+      "ratingCount": 650,
+      "lat": 40.578,
+      "lng": -105.0031,
+      "shopId": null,
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-7:45pm",
+      "hoursDotted": "Daily 8am–7:45pm",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/fort-collins-smithfield-medical-dispensary/"
     },
     {
       "slug": "fort-collins",

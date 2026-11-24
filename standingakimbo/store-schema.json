@@ -104,11 +104,11 @@
       }
     ]
   },
-  "garden-city": {
+  "garden-city-dispensary": {
     "@context": "https://schema.org",
     "@type": "Store",
-    "name": "Standing Akimbo Garden City",
-    "url": "https://standingakimbo.com/stores/garden-city/",
+    "name": "Standing Akimbo Garden City - 2502 8th Ave",
+    "url": "https://standingakimbo.com/stores/garden-city-dispensary/",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "2502 8th Ave",
@@ -116,7 +116,7 @@
       "addressRegion": "CO",
       "addressCountry": "US"
     },
-    "telephone": "970-515-5839",
+    "telephone": "(970) 515-5839",
     "geo": {
       "@type": "GeoCoordinates",
       "latitude": 40.39714,
@@ -136,6 +136,129 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "garden-city-medical-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Garden City - 2647 8th Ave",
+    "url": "https://standingakimbo.com/stores/garden-city-medical-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2647 8th Ave",
+      "addressLocality": "Garden City",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(970) 616-6007",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.39387019999999,
+      "longitude": -104.6918357
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "belmar-medical-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Lakewood - 3600 S Wadsworth",
+    "url": "https://standingakimbo.com/stores/belmar-medical-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3600 S Wadsworth Blvd",
+      "addressLocality": "Lakewood",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(303) 484-8853",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6494539,
+      "longitude": -105.0807339
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  "fort-collins-smithfield-medical-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Standing Akimbo Ft Collins - Smithfield",
+    "url": "https://standingakimbo.com/stores/fort-collins-smithfield-medical-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "813 Smithfield Dr #8581",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "(970) 225-5420",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.578,
+      "longitude": -105.0031
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "19:45"
       }
     ],
     "specialOpeningHoursSpecification": [

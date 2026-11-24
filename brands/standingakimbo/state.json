@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:10:18.233Z",
+  "generatedAt": "2026-11-24T22:06:09.527Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -175,8 +175,8 @@
       "rating": 4.9,
       "ratingCount": 2645
     },
-    "garden-city": {
-      "name": "Garden City",
+    "garden-city-dispensary": {
+      "name": "Garden City - 2502 8th Ave",
       "week": [
         [
           {
@@ -240,9 +240,205 @@
           ]
         }
       ],
-      "phone": "970-515-5839",
+      "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 764
+      "ratingCount": 765
+    },
+    "garden-city-medical-dispensary": {
+      "name": "Garden City - 2647 8th Ave",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "(970) 616-6007",
+      "rating": 4.6,
+      "ratingCount": 3732
+    },
+    "belmar-medical-dispensary": {
+      "name": "Lakewood - 3600 S Wadsworth",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [],
+      "phone": "(303) 484-8853",
+      "rating": 4.9,
+      "ratingCount": 2435
+    },
+    "fort-collins-smithfield-medical-dispensary": {
+      "name": "Ft Collins - Smithfield",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1185,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "(970) 225-5420",
+      "rating": 4.1,
+      "ratingCount": 650
     },
     "fort-collins": {
       "name": "Fort Collins",
