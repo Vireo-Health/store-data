@@ -1,13 +1,10 @@
-# Store hours sync — 2026-11-24T22:06:55.217Z
+# Store hours sync — 2026-11-24T23:18:17.417Z
 
 - checked: 28
-- applied: 1
+- applied: 0
 - held for review: 0
 - errors: 0
 - special days: 26
-
-## Applied
-- Colorado Blvd: new baseline Daily 8am-12am
 
 ## Special hours
 Published without the review hold — Google already shows these to customers. A wrong one is fixed in Google Business Profile.

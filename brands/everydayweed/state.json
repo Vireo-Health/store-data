@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:06:55.217Z",
+  "generatedAt": "2026-11-24T23:18:17.417Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -816,7 +816,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1152
+      "ratingCount": 1153
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -1771,7 +1771,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 650
+      "ratingCount": 651
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
