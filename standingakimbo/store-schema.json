@@ -137,6 +137,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "fort-collins": {
@@ -172,6 +181,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "brighton": {
@@ -206,6 +224,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   }
