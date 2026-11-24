@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:09:16.956Z",
+  "generatedAt": "2026-11-24T22:04:18.188Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -170,90 +170,6 @@
       "storeUrl": "/locations/broomfield-dispensary/"
     },
     {
-      "slug": "denver-colorado-blvd-dispensary",
-      "name": "Colorado Boulevard",
-      "address": "2020 S. Colorado Blvd",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "303-758-9114",
-      "rating": 4.8,
-      "ratingCount": 1789,
-      "lat": 39.6797361,
-      "lng": -104.9404824,
-      "shopId": "6965",
-      "timezone": "America/Denver",
-      "hours": "Daily 8am-12am",
-      "hoursDotted": "Daily 8am–12am",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1440,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "special": [
-        {
-          "date": "2026-11-26",
-          "segments": [
-            {
-              "open": 480,
-              "close": 1260,
-              "closesNextDay": false
-            }
-          ]
-        }
-      ],
-      "showInMap": true,
-      "id": null,
-      "type": null,
-      "storeId": null,
-      "storeUrl": "/locations/denver-colorado-blvd-dispensary/"
-    },
-    {
       "slug": "denver-tech-center-dispensary",
       "name": "Denver Tech Center",
       "address": "7795 E. Belleview Ave #2",
@@ -261,7 +177,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5429,
+      "ratingCount": 5430,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -513,7 +429,7 @@
       "state": "CO",
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3731,
+      "ratingCount": 3732,
       "lat": 40.39387019999999,
       "lng": -104.6918357,
       "shopId": "6954",
