@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:20.355Z",
+  "generatedAt": "2026-11-24T20:38:07.115Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -54,9 +54,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3034
+      "ratingCount": 3032
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -110,6 +122,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "720-756-2385",
       "rating": 4.9,
@@ -168,9 +192,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1788
+      "ratingCount": 1789
     },
     "denver-tech-center-dispensary": {
       "name": "Denver Tech Center",
@@ -225,9 +261,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5428
+      "ratingCount": 5429
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -281,6 +329,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "720-612-4343",
       "rating": 4.8,
@@ -339,6 +399,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "970-484-8380",
       "rating": 4.8,
       "ratingCount": 7616
@@ -396,9 +468,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3729
+      "ratingCount": 3731
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
@@ -453,9 +537,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3868
+      "ratingCount": 3869
     },
     "uptown-denver-dispensary": {
       "name": "Uptown",
@@ -509,6 +605,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "303-952-9150",
       "rating": 4.7,

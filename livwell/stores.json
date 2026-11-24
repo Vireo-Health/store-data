@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:20.355Z",
+  "generatedAt": "2026-11-24T20:38:07.115Z",
   "stores": [
     {
       "slug": "berthoud-dispensary",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3034,
+      "ratingCount": 3032,
       "lat": 40.3113553,
       "lng": -105.0765196,
       "shopId": "6955",
@@ -66,6 +66,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -139,6 +151,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -153,7 +177,7 @@
       "state": "CO",
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1788,
+      "ratingCount": 1789,
       "lat": 39.6797361,
       "lng": -104.9404824,
       "shopId": "6965",
@@ -211,6 +235,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -225,7 +261,7 @@
       "state": "CO",
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5428,
+      "ratingCount": 5429,
       "lat": 39.6244669,
       "lng": -104.8981894,
       "shopId": "6953",
@@ -282,6 +318,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -355,6 +403,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -427,6 +487,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -441,7 +513,7 @@
       "state": "CO",
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3729,
+      "ratingCount": 3731,
       "lat": 40.39387019999999,
       "lng": -104.6918357,
       "shopId": "6954",
@@ -499,6 +571,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -513,7 +597,7 @@
       "state": "CO",
       "phone": "720-524-8273",
       "rating": 4.9,
-      "ratingCount": 3868,
+      "ratingCount": 3869,
       "lat": 39.8170467,
       "lng": -104.7725716,
       "shopId": "6976",
@@ -570,6 +654,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -642,6 +738,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,

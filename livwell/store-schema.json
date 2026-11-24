@@ -32,6 +32,15 @@
         "opens": "08:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "broomfield-dispensary": {
@@ -66,6 +75,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -102,6 +120,15 @@
         "opens": "08:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "denver-tech-center-dispensary": {
@@ -136,6 +163,15 @@
         ],
         "opens": "08:00",
         "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -172,6 +208,15 @@
         "opens": "08:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "fort-collins-dispensary": {
@@ -206,6 +251,15 @@
         ],
         "opens": "08:00",
         "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -242,6 +296,15 @@
         "opens": "08:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "denver-dia-dispensary": {
@@ -277,6 +340,15 @@
         "opens": "08:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "uptown-denver-dispensary": {
@@ -311,6 +383,15 @@
         ],
         "opens": "08:00",
         "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   }
