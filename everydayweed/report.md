@@ -1,10 +1,13 @@
-# Store hours sync — 2026-11-24T21:09:42.296Z
+# Store hours sync — 2026-11-24T22:06:55.217Z
 
-- checked: 27
-- applied: 0
+- checked: 28
+- applied: 1
 - held for review: 0
 - errors: 0
-- special days: 25
+- special days: 26
+
+## Applied
+- Colorado Blvd: new baseline Daily 8am-12am
 
 ## Special hours
 Published without the review hold — Google already shows these to customers. A wrong one is fixed in Google Business Profile.
@@ -33,6 +36,7 @@ Published without the review hold — Google already shows these to customers. A
 - **fort-collins-dispensary** — Thu 11/26 8am–9pm (normally 8am–11pm)
 - **fort-collins-smithfield-dispensary** — Thu 11/26 8am–9pm (normally 8am–7:45pm)
 - **sunland-park-dispensary** — Thu 11/26 8am–3pm (normally 8am–11pm)
+- **denver-colorado-blvd-dispensary** — Thu 11/26 8am–9pm (normally 8am–12am)
 
 ## Listing audit
 Nothing was published from these — fix the listing in Google Business Profile.

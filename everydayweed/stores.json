@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:09:42.296Z",
+  "generatedAt": "2026-11-24T22:06:55.217Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -1426,7 +1426,7 @@
       "state": "CO",
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2434,
+      "ratingCount": 2435,
       "lat": 39.6494539,
       "lng": -105.0807339,
       "shopId": "6957",
@@ -2246,6 +2246,90 @@
       "type": null,
       "storeId": null,
       "storeUrl": "/stores/sunland-park-dispensary/"
+    },
+    {
+      "slug": "denver-colorado-blvd-dispensary",
+      "name": "Colorado Blvd",
+      "address": "2020 S. Colorado Blvd",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "303-758-9114",
+      "rating": 4.8,
+      "ratingCount": 1789,
+      "lat": 39.6797361,
+      "lng": -104.9404824,
+      "shopId": "6965",
+      "timezone": "America/Denver",
+      "hours": "Daily 8am-12am",
+      "hoursDotted": "Daily 8am–12am",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "showInMap": true,
+      "id": null,
+      "type": null,
+      "storeId": null,
+      "storeUrl": "/stores/denver-colorado-blvd-dispensary/"
     }
   ]
 }

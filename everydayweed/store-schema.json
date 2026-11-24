@@ -1182,5 +1182,49 @@
         "closes": "15:00"
       }
     ]
+  },
+  "denver-colorado-blvd-dispensary": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Every Day Weed Colorado Blvd",
+    "url": "https://everydayweed.com/stores/denver-colorado-blvd-dispensary/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2020 S. Colorado Blvd",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-758-9114",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.6797361,
+      "longitude": -104.9404824
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
   }
 }

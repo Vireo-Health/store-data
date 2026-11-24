@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:09:42.296Z",
+  "generatedAt": "2026-11-24T22:06:55.217Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -1219,7 +1219,7 @@
       "special": [],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2434
+      "ratingCount": 2435
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1841,6 +1841,75 @@
       "phone": "575-636-2480",
       "rating": 4.8,
       "ratingCount": 732
+    },
+    "denver-colorado-blvd-dispensary": {
+      "name": "Colorado Blvd",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1440,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "303-758-9114",
+      "rating": 4.8,
+      "ratingCount": 1789
     }
   }
 }
