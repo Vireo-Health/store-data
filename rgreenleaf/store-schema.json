@@ -46,6 +46,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-clovis": {
@@ -81,6 +90,15 @@
         "opens": "09:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-albuquerque-cottonwood": {
@@ -115,6 +133,15 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -158,6 +185,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-hobbs": {
@@ -199,6 +235,15 @@
         ],
         "opens": "07:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -249,6 +294,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-las-vegas-nm": {
@@ -291,6 +345,15 @@
         "opens": "12:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-albuquerque-midtown": {
@@ -325,6 +388,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -368,6 +440,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-roswell": {
@@ -409,6 +490,15 @@
         ],
         "opens": "11:00",
         "closes": "17:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -459,6 +549,15 @@
         "opens": "08:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "dispensary-albuquerque-west-side": {
@@ -493,6 +592,15 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -535,6 +643,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   }

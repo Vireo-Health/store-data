@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:07.773Z",
+  "generatedAt": "2026-11-24T21:09:06.411Z",
   "stores": [
     {
       "slug": "dispensary-carlsbad",
@@ -66,6 +66,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 11,
@@ -139,6 +151,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 12,
       "type": "med",
@@ -210,6 +234,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 13,
@@ -283,6 +319,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 14,
       "type": "med",
@@ -354,6 +402,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 1,
@@ -427,6 +487,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 2,
       "type": "med",
@@ -498,6 +570,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 15,
@@ -571,6 +655,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 16,
       "type": "med",
@@ -585,7 +681,7 @@
       "state": "NM",
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 204,
+      "ratingCount": 205,
       "lat": 32.7126,
       "lng": -103.136,
       "shopId": "hobbs",
@@ -643,6 +739,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 17,
       "type": "rec",
@@ -657,7 +765,7 @@
       "state": "NM",
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 204,
+      "ratingCount": 205,
       "lat": 32.7126,
       "lng": -103.136,
       "shopId": "hobbs",
@@ -714,6 +822,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 18,
@@ -787,6 +907,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 19,
       "type": "rec",
@@ -858,6 +990,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 20,
@@ -931,6 +1075,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 21,
       "type": "rec",
@@ -1003,6 +1159,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 22,
       "type": "med",
@@ -1017,7 +1185,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1214,
+      "ratingCount": 1215,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1074,6 +1242,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 3,
@@ -1089,7 +1269,7 @@
       "state": "NM",
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1214,
+      "ratingCount": 1215,
       "lat": 35.107,
       "lng": -106.585,
       "shopId": "midtown",
@@ -1147,6 +1327,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 4,
       "type": "med",
@@ -1161,7 +1353,7 @@
       "state": "NM",
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 479,
+      "ratingCount": 480,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
@@ -1219,6 +1411,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 5,
       "type": "rec",
@@ -1233,7 +1437,7 @@
       "state": "NM",
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 479,
+      "ratingCount": 480,
       "lat": 35.1281,
       "lng": -106.5194,
       "shopId": "northeast-heights",
@@ -1290,6 +1494,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 6,
@@ -1363,6 +1579,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 23,
       "type": "rec",
@@ -1434,6 +1662,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 24,
@@ -1507,6 +1747,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 25,
       "type": "rec",
@@ -1578,6 +1830,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 26,
@@ -1651,6 +1915,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 7,
       "type": "rec",
@@ -1722,6 +1998,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 8,
@@ -1795,6 +2083,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": 9,
       "type": "rec",
@@ -1866,6 +2166,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": 10,

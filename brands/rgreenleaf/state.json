@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:07.773Z",
+  "generatedAt": "2026-11-24T21:09:06.411Z",
   "stores": {
     "dispensary-carlsbad": {
       "name": "Carlsbad",
@@ -53,6 +53,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(575) 305-7944",
       "rating": 4.7,
@@ -111,6 +123,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(575) 305-9223",
       "rating": 4.9,
       "ratingCount": 453
@@ -167,6 +191,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "505-899-0511",
       "rating": 4.6,
@@ -225,6 +261,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 287-5383",
       "rating": 4.7,
       "ratingCount": 513
@@ -282,9 +330,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 217-9103",
       "rating": 4.8,
-      "ratingCount": 204
+      "ratingCount": 205
     },
     "dispensary-las-cruces": {
       "name": "Las Cruces",
@@ -338,6 +398,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(575) 366-9072",
       "rating": 4.6,
@@ -396,6 +468,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "505-962-2155",
       "rating": 4.7,
       "ratingCount": 204
@@ -453,9 +537,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "505-217-9086",
       "rating": 4.5,
-      "ratingCount": 1214
+      "ratingCount": 1215
     },
     "dispensary-albuquerque-northeast-heights": {
       "name": "Northeast Heights",
@@ -510,9 +606,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 217-9101",
       "rating": 4.5,
-      "ratingCount": 479
+      "ratingCount": 480
     },
     "dispensary-roswell": {
       "name": "Roswell",
@@ -566,6 +674,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(505) 522-2122",
       "rating": 4.4,
@@ -624,6 +744,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "505-962-2161",
       "rating": 4.3,
       "ratingCount": 198
@@ -681,6 +813,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 200-9060",
       "rating": 4.5,
       "ratingCount": 901
@@ -737,6 +881,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(505) 522-3613",
       "rating": 4.7,
