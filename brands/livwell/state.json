@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:04:18.188Z",
+  "generatedAt": "2026-11-24T23:17:54.103Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -206,7 +206,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5430
+      "ratingCount": 5432
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
