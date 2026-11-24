@@ -9,6 +9,7 @@
  *   node sync.js --brand rgreenleaf --dry-run    fetch and report, write nothing
  *   node sync.js --brand rgreenleaf --accept-all bypass the gate (confirm a baseline)
  *   node sync.js --brand X --fixture FILE        Places responses from JSON, not the API
+ *   node sync.js --brand X --capture FILE        also save the raw responses as a fixture
  *
  * Repo layout (relative to the repo root, one level above engine/):
  *   brands/<brand>/stores.config.json   roster + Webflow site wiring
@@ -38,9 +39,15 @@ const BRAND = (() => {
   const i = argv.indexOf('--brand');
   return i >= 0 ? argv[i + 1] : null;
 })();
+const CAPTURE = (() => {
+  const i = argv.indexOf('--capture');
+  return i >= 0 ? argv[i + 1] : null;
+})();
 
 if (!BRAND || !/^[a-z0-9-]+$/.test(BRAND)) {
-  console.error('Usage: node sync.js --brand <brand> [--dry-run] [--accept-all] [--fixture FILE]');
+  console.error(
+    'Usage: node sync.js --brand <brand> [--dry-run] [--accept-all] [--fixture FILE] [--capture FILE]'
+  );
   console.error('Brands available: ' + fs.readdirSync(path.join(__dirname, '..', 'brands')).join(', '));
   process.exit(1);
 }
@@ -103,6 +110,14 @@ async function main() {
 
   const places = await fetchPlaces(withPlaceIds, FIXTURE);
 
+  // The raw responses, in exactly the shape --fixture reads back. Written even
+  // on a dry run: it is a recording, not a published artifact. stderr, so the
+  // line stays out of the report the workflow tees from stdout.
+  if (CAPTURE) {
+    writeJson(CAPTURE, Object.fromEntries(places));
+    console.error(`Captured ${places.size} Places response(s) to ${CAPTURE}`);
+  }
+
   const applied = [];
   const appliedPhones = [];
   const held = [];
@@ -130,6 +145,15 @@ async function main() {
       prior && typeof prior.ratingCount === 'number' ? prior.ratingCount : null;
     const place = places.get(store.slug);
 
+    // Special days (holidays, temporary closures) are not gated: they are
+    // 7-day overrides Google already shows customers, and they never touch
+    // `week` or the CMS. Every one is listed in the report instead, so a bad
+    // listing edit is visible. A day matching the published week is dropped.
+    const today = h.dateInZone(store.timezone || 'America/Denver');
+    const priorSpecial = prior && prior.special;
+    const specialFor = (week) =>
+      h.carrySpecial(h.specialFromGoogle(place.currentOpeningHours, week), priorSpecial, today);
+
     // No Google data for this store: keep whatever we already had.
     if (!place || place.error) {
       if (place && place.error) {
@@ -139,6 +163,7 @@ async function main() {
         resolved.push({
           ...store,
           week: before,
+          special: h.carrySpecial(null, priorSpecial, today),
           phone: beforePhone,
           rating: beforeRating,
           ratingCount: beforeRatingCount,
@@ -181,12 +206,15 @@ async function main() {
     const verdict = gate.evaluate({ name: store.name, before, after, place });
 
     if (verdict.ok || ACCEPT_ALL) {
-      resolved.push({ ...store, week: after, phone, rating, ratingCount });
+      resolved.push({ ...store, week: after, special: specialFor(after), phone, rating, ratingCount });
       if (verdict.changed) applied.push({ ...verdict, slug: store.slug, week: after });
     } else {
       held.push({ ...verdict, slug: store.slug, proposed: h.formatCompact(after) });
       // Hold means: publish nothing new for this store, keep the current value.
-      if (before) resolved.push({ ...store, week: before, phone, rating, ratingCount });
+      // Its special days still publish — they are ungated by design.
+      if (before) {
+        resolved.push({ ...store, week: before, special: specialFor(before), phone, rating, ratingCount });
+      }
     }
   }
 
@@ -201,6 +229,15 @@ async function main() {
   lines.push(`- applied: ${applied.length + appliedPhones.length}`);
   lines.push(`- held for review: ${held.length}`);
   lines.push(`- errors: ${errored.length}`);
+  // From the store's today on: yesterday's entry is only carried for the
+  // runtime's overnight check, and was already reported yesterday.
+  const upcomingSpecial = resolved
+    .map((s) => {
+      const today = h.dateInZone(s.timezone || 'America/Denver');
+      return { ...s, special: s.special.filter((d) => d.date >= today) };
+    })
+    .filter((s) => s.special.length > 0);
+  lines.push(`- special days: ${upcomingSpecial.reduce((n, s) => n + s.special.length, 0)}`);
   if (missing.length) lines.push(`- no Place ID yet: ${missing.map((s) => s.slug).join(', ')}`);
   lines.push('');
 
@@ -221,6 +258,21 @@ async function main() {
   if (errored.length) {
     lines.push('## Errors');
     for (const e of errored) lines.push(`- ${e.slug}: ${e.error}`);
+    lines.push('');
+  }
+  if (upcomingSpecial.length) {
+    lines.push('## Special hours');
+    lines.push(
+      'Published without the review hold — Google already shows these to customers. ' +
+        'A wrong one is fixed in Google Business Profile.'
+    );
+    for (const s of upcomingSpecial) {
+      const days = s.special.map((d) => {
+        const normal = h.formatIntervals(s.week[h.weekdayOf(d.date)], '–');
+        return `${h.formatDateLabel(d.date)} ${h.formatIntervals(d.segments, '–')} (normally ${normal})`;
+      });
+      lines.push(`- **${s.slug}** — ${days.join('; ')}`);
+    }
     lines.push('');
   }
   if (audited.length) {
@@ -256,6 +308,7 @@ async function main() {
           {
             name: s.name,
             week: s.week,
+            special: s.special || [],
             phone: s.phone || '',
             rating: typeof s.rating === 'number' ? s.rating : null,
             ratingCount: typeof s.ratingCount === 'number' ? s.ratingCount : null,

@@ -1,0 +1,2602 @@
+{
+  "berthoud-dispensary": {
+    "placeId": "ChIJ0_ozTQpVaYcRbtOcfqFbJ18",
+    "name": "LivWell Dispensary",
+    "address": "1015 N 2nd St, Berthoud, CO 80513, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(970) 344-5060",
+    "rating": 4.8,
+    "ratingCount": 3032,
+    "websiteUri": "https://livwell.com/locations/colorado/berthoud?utm_source=gbp&utm_medium=organic"
+  },
+  "broomfield-dispensary": {
+    "placeId": "ChIJO0LzW0qLa4cRXoL2UA0GTh0",
+    "name": "LivWell Dispensary",
+    "address": "137 Nickel St, Broomfield, CO 80020, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "nextCloseTime": "2026-11-25T05:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T05:00:00Z"
+    },
+    "phone": "(720) 756-2385",
+    "rating": 4.9,
+    "ratingCount": 1296,
+    "websiteUri": "https://livwell.com/locations/colorado/broomfield?utm_source=gbp&utm_medium=organic"
+  },
+  "denver-colorado-blvd-dispensary": {
+    "placeId": "ChIJO3STw8N9bIcRoCENWnj4UWg",
+    "name": "Every Day Weed Colorado Blvd",
+    "address": "2020 S Colorado Blvd, Denver, CO 80222, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(303) 758-9114",
+    "rating": 4.8,
+    "ratingCount": 1789,
+    "websiteUri": "https://everydayweed.com/stores/denver-colorado-blvd-dispensary"
+  },
+  "denver-tech-center-dispensary": {
+    "placeId": "ChIJMeDw4YSHbIcR--iNkufVhi4",
+    "name": "LivWell Dispensary",
+    "address": "7795 E Belleview Ave #2, Denver, CO 80237, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(720) 756-7881",
+    "rating": 4.9,
+    "ratingCount": 5429,
+    "websiteUri": "https://livwell.com/locations/colorado/livwell-denver-tech-center?utm_source=gbp&utm_medium=organic"
+  },
+  "federal-heights-dispensary": {
+    "placeId": "ChIJCR3_TaF3bIcRC4B-rJGwVWk",
+    "name": "LivWell Dispensary",
+    "address": "8860 N Federal Blvd #66e, Federal Heights, CO 80260, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(720) 612-4343",
+    "rating": 4.8,
+    "ratingCount": 1907,
+    "websiteUri": "https://livwell.com/locations/colorado/federal-heights?utm_source=gbp&utm_medium=organic"
+  },
+  "fort-collins-dispensary": {
+    "placeId": "ChIJP5AUqUhKaYcRd4bvEYJqr-A",
+    "name": "LivWell Dispensary",
+    "address": "900 N College Ave, Fort Collins, CO 80524, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(970) 484-8380",
+    "rating": 4.8,
+    "ratingCount": 7616,
+    "websiteUri": "https://livwell.com/locations/colorado/fort-collins?utm_source=gbp&utm_medium=organic"
+  },
+  "garden-city-dispensary": {
+    "placeId": "ChIJFfggnbyhbocRziiHCJ0zM04",
+    "name": "LivWell Dispensary",
+    "address": "2647 8th Ave, Garden City, CO 80631, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(970) 616-6007",
+    "rating": 4.6,
+    "ratingCount": 3731,
+    "websiteUri": "https://livwell.com/locations/colorado/garden-city?utm_source=gbp&utm_medium=organic"
+  },
+  "denver-dia-dispensary": {
+    "placeId": "ChIJNzZ4dw55bIcRwMOdc-QoHVA",
+    "name": "LivWell Dispensary",
+    "address": "6651 Tower Rd Ste 120, Denver, CO 80249, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(720) 524-8273",
+    "rating": 4.9,
+    "ratingCount": 3869,
+    "websiteUri": "https://livwell.com/locations/colorado/tower-road-denver?utm_source=gbp&utm_medium=organic"
+  },
+  "uptown-denver-dispensary": {
+    "placeId": "ChIJgVj9dCx5bIcRhlwYbBU3zcc",
+    "name": "LivWell Dispensary",
+    "address": "706 E 17th Ave #102, Denver, CO 80203, USA",
+    "businessStatus": "OPERATIONAL",
+    "utcOffsetMinutes": -420,
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "date": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "specialDays": [
+        {
+          "date": {
+            "year": 2026,
+            "month": 11,
+            "day": 26
+          }
+        }
+      ],
+      "nextCloseTime": "2026-11-25T07:00:00Z"
+    },
+    "phone": "(303) 952-9150",
+    "rating": 4.7,
+    "ratingCount": 1694,
+    "websiteUri": "https://livwell.com/locations/colorado/uptown-denver?utm_source=gbp&utm_medium=organic"
+  }
+}

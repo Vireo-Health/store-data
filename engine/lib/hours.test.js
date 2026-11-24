@@ -159,3 +159,167 @@ test('todayLabel reports the current day', () => {
   // Friday 2026-07-31, 18:00 UTC == 12:00 Denver.
   assert.strictEqual(h.todayLabel(week, 'America/Denver', new Date('2026-07-31T18:00:00Z')), '8am–11pm');
 });
+
+// ---- special days (currentOpeningHours) ------------------------------------
+//
+// Real responses captured 2026-11-24, when Thanksgiving (Thu 11/26) sat inside
+// Google's 7-day window. places-livwell-2026-11-24.json is the LivWell roster
+// verbatim; places-special-days.json is three public non-roster listings,
+// stripped to hours, because no store of ours closes outright on a holiday.
+
+const LIVWELL = require('../fixtures/places-livwell-2026-11-24.json');
+const SPECIAL = require('../fixtures/places-special-days.json');
+
+function regularWeek(place) {
+  return h.fromGooglePeriods(place.regularOpeningHours);
+}
+
+/** The same real response, claiming different special dates. */
+function withSpecialDays(place, ...dates) {
+  return {
+    ...place.currentOpeningHours,
+    specialDays: dates.map((iso) => {
+      const [year, month, day] = iso.split('-').map(Number);
+      return { date: { year, month, day } };
+    }),
+  };
+}
+
+test('a holiday special day is read from the dated periods', () => {
+  const place = LIVWELL['berthoud-dispensary'];
+  const special = h.specialFromGoogle(place.currentOpeningHours, regularWeek(place));
+  assert.deepStrictEqual(special, [
+    { date: '2026-11-26', segments: [{ open: 480, close: 1260, closesNextDay: false }] },
+  ]);
+});
+
+test('a dated midnight close reads like the regular one, so an unchanged day drops', () => {
+  // Berthoud's Wed 11/25 period closes { hour: 0 } on 11/26 — the same shape
+  // as the standing schedule's midnight close. Claiming it is special must
+  // match the regular Wednesday and be dropped.
+  const place = LIVWELL['berthoud-dispensary'];
+  const current = withSpecialDays(place, '2026-11-25');
+  assert.deepStrictEqual(h.specialFromGoogle(current, regularWeek(place)), []);
+  assert.deepStrictEqual(h.specialFromGoogle(current), [
+    { date: '2026-11-25', segments: [{ open: 480, close: 1440, closesNextDay: false }] },
+  ]);
+});
+
+test('a close truncated at the window edge is read as midnight, not 11:59pm', () => {
+  // Mon 11/30 is the last day of the window; Google cuts its period off at
+  // 23:59 with truncated: true although the store closes at midnight.
+  const place = LIVWELL['berthoud-dispensary'];
+  const current = withSpecialDays(place, '2026-11-30');
+  assert.deepStrictEqual(h.specialFromGoogle(current), [
+    { date: '2026-11-30', segments: [{ open: 480, close: 1440, closesNextDay: false }] },
+  ]);
+  assert.deepStrictEqual(h.specialFromGoogle(current, regularWeek(place)), []);
+});
+
+test('a day closed outright is a special day with no periods', () => {
+  // Thanksgiving is in specialDays, and no period opens on 11/26.
+  const place = SPECIAL['closed-thanksgiving'];
+  const special = h.specialFromGoogle(place.currentOpeningHours, regularWeek(place));
+  assert.deepStrictEqual(special, [{ date: '2026-11-26', segments: [] }]);
+  assert.strictEqual(h.formatIntervals(special[0].segments, '–'), 'Closed');
+});
+
+test('several special days come back in date order', () => {
+  const place = SPECIAL['early-close-then-closed'];
+  const special = h.specialFromGoogle(place.currentOpeningHours, regularWeek(place));
+  assert.deepStrictEqual(special, [
+    { date: '2026-11-25', segments: [{ open: 600, close: 960, closesNextDay: false }] },
+    { date: '2026-11-26', segments: [] },
+  ]);
+});
+
+test('a real 11:59pm close that is not truncated stays 11:59pm', () => {
+  const place = SPECIAL['extended-holiday-weekend'];
+  const special = h.specialFromGoogle(place.currentOpeningHours, regularWeek(place));
+  assert.deepStrictEqual(
+    special.map((d) => [d.date, h.formatIntervals(d.segments, '–')]),
+    [
+      ['2026-11-26', 'Closed'],
+      ['2026-11-27', '6am–10pm'],
+      ['2026-11-29', '7am–11:59pm'],
+      ['2026-11-30', '7am–11:59pm'],
+    ]
+  );
+});
+
+test("a period carried over from yesterday is not counted as today's hours", () => {
+  const point = (hour, extra = {}) => ({
+    day: 4,
+    hour,
+    minute: 0,
+    date: { year: 2026, month: 11, day: 26 },
+    ...extra,
+  });
+  const current = {
+    specialDays: [{ date: { year: 2026, month: 11, day: 26 } }],
+    periods: [
+      { open: point(0, { truncated: true }), close: point(2) },
+      { open: point(10), close: point(18) },
+    ],
+  };
+  assert.deepStrictEqual(h.specialFromGoogle(current), [
+    { date: '2026-11-26', segments: [{ open: 600, close: 1080, closesNextDay: false }] },
+  ]);
+});
+
+test('no special days, or no current hours at all, is an empty list', () => {
+  const place = LIVWELL['berthoud-dispensary'];
+  const { specialDays, ...withoutSpecial } = place.currentOpeningHours;
+  assert.ok(specialDays);
+  assert.deepStrictEqual(h.specialFromGoogle(withoutSpecial), []);
+  assert.deepStrictEqual(h.specialFromGoogle(null), []);
+  assert.deepStrictEqual(h.specialFromGoogle(undefined), []);
+});
+
+test("carrySpecial keeps yesterday's day for overnight carry-over, nothing older", () => {
+  const prior = [
+    { date: '2026-11-24', segments: [] },
+    { date: '2026-11-25', segments: [{ open: 600, close: 120, closesNextDay: true }] },
+    { date: '2026-11-26', segments: [] },
+  ];
+  const fresh = [{ date: '2026-11-26', segments: [{ open: 480, close: 1260, closesNextDay: false }] }];
+  assert.deepStrictEqual(h.carrySpecial(fresh, prior, '2026-11-26'), [prior[1], fresh[0]]);
+  // A fresh read is authoritative for today onward: Google dropping a day drops it.
+  assert.deepStrictEqual(h.carrySpecial([], prior, '2026-11-26'), [prior[1]]);
+  // No fresh read (fetch error): the last known days stand.
+  assert.deepStrictEqual(h.carrySpecial(null, prior, '2026-11-26'), [prior[1], prior[2]]);
+  assert.deepStrictEqual(h.carrySpecial(null, undefined, '2026-11-26'), []);
+});
+
+test('special days become dated schema.org specs; closed is 00:00-00:00', () => {
+  assert.deepStrictEqual(
+    h.toSchemaOrgSpecial([
+      { date: '2026-11-26', segments: [] },
+      { date: '2026-11-27', segments: [{ open: 480, close: 1440, closesNextDay: false }] },
+    ]),
+    [
+      {
+        '@type': 'OpeningHoursSpecification',
+        validFrom: '2026-11-26',
+        validThrough: '2026-11-26',
+        opens: '00:00',
+        closes: '00:00',
+      },
+      {
+        '@type': 'OpeningHoursSpecification',
+        validFrom: '2026-11-27',
+        validThrough: '2026-11-27',
+        opens: '08:00',
+        closes: '23:59',
+      },
+    ]
+  );
+});
+
+test('date helpers', () => {
+  assert.strictEqual(h.formatDateLabel('2026-11-26'), 'Thu 11/26');
+  assert.strictEqual(h.formatDateLabel('2026-12-01'), 'Tue 12/1');
+  assert.strictEqual(h.addDays('2026-12-01', -1), '2026-11-30');
+  // 06:30 UTC on the 26th is still the evening of the 25th in Denver.
+  assert.strictEqual(h.dateInZone('America/Denver', new Date('2026-11-26T06:30:00Z')), '2026-11-25');
+});

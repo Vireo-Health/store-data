@@ -38,8 +38,8 @@ brands/<brand>/    stores.config.json (roster + Webflow wiring), state.json
 ## Operations
 
 `.github/workflows/sync.yml` runs daily 09:15 America/Denver. Per brand it
-fetches `regularOpeningHours`, `nationalPhoneNumber`, `rating`/
-`userRatingCount`, and `websiteUri` for every store with a Place ID (one
+fetches `regularOpeningHours`, `currentOpeningHours`, `nationalPhoneNumber`,
+`rating`/`userRatingCount`, and `websiteUri` for every store with a Place ID (one
 Enterprise-SKU call per store — all these fields ride on it at no extra
 cost), runs the sanity gate, applies routine changes to the Webflow CMS
 (live item patch — no site publish involved), commits the regenerated data,
@@ -53,6 +53,17 @@ review-snippet policy forbids marking up ratings sourced from Google itself.
 that flags listings whose website is missing or points off the brand domain
 (stale post-conversion URLs, hijacked listings). Fix those in Google
 Business Profile.
+
+Holiday and other special hours come from `currentOpeningHours` (Google's
+next 7 days). Each store's records carry them as `special: [{ date, segments }]`
+— `segments` in the same shape as a `week` day, empty for closed all day —
+and the JSON-LD as `specialOpeningHoursSpecification`. They publish without
+the review hold (Google already shows them to customers), are listed per
+store under **Special hours** in `report.md` so a bad listing edit is
+visible, and never reach `week` or the CMS. In `stores.js`,
+`RG_HOURS.isOpenNow` and `todayHours` check the store-local date's special
+day before the week, and `RG_HOURS.holidayHours(store)` lists the special
+days from today on as `{ date, label: "Thu 11/26", hours, isToday }`.
 
 Hours always sync to the CMS `store-hours` field. Phone numbers land in the
 published data files; they also patch the CMS only if the brand's config sets
@@ -76,8 +87,9 @@ change publishes unattended only if none of these hold:
 | Google returns no hours | Never overwrite good data with nothing |
 | An existing phone number would change | A hijacked listing's favorite edit; real changes are rare |
 
-A held store keeps its current hours. Only `regularOpeningHours` is synced, so
-holiday overrides never overwrite the standing schedule. Phone changes are
+A held store keeps its current hours. The gate checks `regularOpeningHours`
+only, so holiday overrides never overwrite the standing schedule; special days
+publish alongside it ungated, held store or not. Phone changes are
 gated independently of hours: a blank phone fills in unattended, a replacement
 is held, and Google returning no phone never blanks an existing number.
 
@@ -119,4 +131,8 @@ every field in the mask is Enterprise-tier or below.
 cd engine
 npm test                                  # no network or credentials needed
 node sync.js --brand rgreenleaf --dry-run # requires GOOGLE_MAPS_API_KEY
+node sync.js --brand livwell --dry-run --fixture fixtures/places-livwell-2026-11-24.json
 ```
+
+`--capture FILE` saves the run's raw Places responses in the `--fixture`
+format — how the fixtures in `engine/fixtures/` were recorded.

@@ -51,32 +51,146 @@ function fromGooglePeriods(regularOpeningHours) {
     if (!period.open) continue;
     const day = period.open.day;
     if (typeof day !== 'number' || day < 0 || day > 6) continue;
-
-    const open = (period.open.hour || 0) * 60 + (period.open.minute || 0);
-
-    let close;
-    let closesNextDay = false;
-    if (!period.close) {
-      close = MINUTES_PER_DAY;
-    } else {
-      close = (period.close.hour || 0) * 60 + (period.close.minute || 0);
-      // A close on a later day (or an earlier clock time on the same day)
-      // means the store trades past midnight.
-      if (period.close.day !== day || close <= open) {
-        // Closing exactly at midnight ends this day rather than running into
-        // the next one, so it stays a same-day interval ending at 1440. Setting
-        // both close = 1440 and closesNextDay would double-count: consumers add
-        // a day to a closesNextDay interval, putting the close 24h too late.
-        if (close === 0) close = MINUTES_PER_DAY;
-        else closesNextDay = true;
-      }
-    }
-
-    week[day].push({ open, close, closesNextDay });
+    week[day].push(intervalFromPeriod(period));
   }
 
   for (let d = 0; d < 7; d++) week[d].sort((a, b) => a.open - b.open);
   return week;
+}
+
+function pointMinutes(point) {
+  return (point.hour || 0) * 60 + (point.minute || 0);
+}
+
+/**
+ * One Google period as one interval of the canonical shape. Shared by the
+ * standing schedule and the dated special-day periods, so midnight means the
+ * same thing in both.
+ */
+function intervalFromPeriod(period) {
+  const open = pointMinutes(period.open);
+  if (!period.close) return { open, close: MINUTES_PER_DAY, closesNextDay: false };
+
+  let close = pointMinutes(period.close);
+  let closesNextDay = false;
+  // A close on a later day (or an earlier clock time on the same day) means
+  // the store trades past midnight.
+  if (period.close.day !== period.open.day || close <= open) {
+    // Closing exactly at midnight ends this day rather than running into the
+    // next one, so it stays a same-day interval ending at 1440. Setting both
+    // close = 1440 and closesNextDay would double-count: consumers add a day
+    // to a closesNextDay interval, putting the close 24h too late.
+    if (close === 0) close = MINUTES_PER_DAY;
+    else closesNextDay = true;
+  }
+  return { open, close, closesNextDay };
+}
+
+/** Google's { year, month, day } as "YYYY-MM-DD", or null if incomplete. */
+function isoDate(d) {
+  if (!d || !d.year || !d.month || !d.day) return null;
+  return `${d.year}-${pad(d.month)}-${pad(d.day)}`;
+}
+
+/** Day of week (0 = Sunday) of a "YYYY-MM-DD" calendar date. */
+function weekdayOf(iso) {
+  const [y, m, d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+}
+
+/** "YYYY-MM-DD" shifted by whole days. Pure calendar math, no timezone. */
+function addDays(iso, days) {
+  const [y, m, d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d + days)).toISOString().slice(0, 10);
+}
+
+/** Today's calendar date ("YYYY-MM-DD") in an IANA timezone. */
+function dateInZone(timeZone = 'America/Denver', date = new Date()) {
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(date);
+  const o = {};
+  for (const part of parts) o[part.type] = part.value;
+  return `${o.year}-${o.month}-${o.day}`;
+}
+
+/**
+ * Special days (holidays, temporary closures) from Google's
+ * `currentOpeningHours`, as [{ date: "YYYY-MM-DD", segments }] sorted by date.
+ * `segments` has the same interval shape as a `week` slot; empty means closed
+ * all day. Dates are the store's local calendar dates — Google reports the
+ * dated periods in the place's own timezone.
+ *
+ * `currentOpeningHours` covers the 7 days from local midnight today. Google
+ * lists the dates with special hours in `specialDays`; the hours themselves
+ * are the `periods` whose open falls on that date. Shapes seen in real
+ * responses (engine/fixtures/places-special-days.json, captured 2026-11-24):
+ *
+ *   - a midnight close is { hour: 0, minute: 0 } on the NEXT date, exactly as
+ *     in the regular schedule;
+ *   - the period running into the end of the window is cut off at 23:59 with
+ *     `truncated: true` — the real close is at or after midnight, so it is
+ *     read as midnight (the next day's sync sees the untruncated period);
+ *   - a period carried over from before the window opens at 00:00 today with
+ *     `truncated: true`. It belongs to yesterday, so it is skipped.
+ *
+ * A special day identical to the standing hours for its weekday is dropped:
+ * `week` already says the same thing.
+ */
+function specialFromGoogle(currentOpeningHours, week) {
+  const current = currentOpeningHours;
+  if (!current || !Array.isArray(current.specialDays)) return [];
+  const periods = Array.isArray(current.periods) ? current.periods : [];
+
+  const byDate = new Map();
+  for (const special of current.specialDays) {
+    const date = isoDate(special && special.date);
+    if (!date || byDate.has(date)) continue;
+
+    const segments = [];
+    for (const period of periods) {
+      if (!period.open || period.open.truncated) continue;
+      if (isoDate(period.open.date) !== date) continue;
+      if (period.close && period.close.truncated) {
+        segments.push({ open: pointMinutes(period.open), close: MINUTES_PER_DAY, closesNextDay: false });
+        continue;
+      }
+      segments.push(intervalFromPeriod(period));
+    }
+    segments.sort((a, b) => a.open - b.open);
+
+    if (week && daySignature(segments) === daySignature(week[weekdayOf(date)])) continue;
+    byDate.set(date, { date, segments });
+  }
+
+  return [...byDate.values()].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
+}
+
+/**
+ * The special days to publish, from a fresh read (null when Google returned
+ * nothing for the store) and the previously published days.
+ *
+ * Google's window starts at local midnight today, so a fresh read no longer
+ * has yesterday's special day — but that day's overnight hours can still be
+ * running when a sync lands after midnight. Yesterday's entry is carried for
+ * one more day so the runtime's carry-over check still sees it. Without a
+ * fresh read, the last known days are kept: held never means blank.
+ */
+function carrySpecial(fresh, prior, today) {
+  const yesterday = addDays(today, -1);
+  const kept = (Array.isArray(prior) ? prior : []).filter((s) => s && s.date >= yesterday);
+  if (!fresh) return kept;
+  const carried = kept.filter((s) => s.date === yesterday && !fresh.some((f) => f.date === s.date));
+  return [...carried, ...fresh];
+}
+
+/** "Thu 11/26" for a "YYYY-MM-DD" date. */
+function formatDateLabel(iso) {
+  const [, m, d] = iso.split('-').map(Number);
+  return `${DAY_ABBR[weekdayOf(iso)]} ${m}/${d}`;
 }
 
 /** Stable string identity for a day's intervals, used for grouping. */
@@ -221,6 +335,30 @@ function toSchemaOrg(week) {
 }
 
 /**
+ * schema.org `specialOpeningHoursSpecification` entries for special days. Each
+ * is pinned to its single date (validFrom = validThrough); a day closed
+ * outright is opens = closes = "00:00", schema.org's marker for closed.
+ */
+function toSchemaOrgSpecial(special) {
+  const specs = [];
+  for (const day of special || []) {
+    const base = {
+      '@type': 'OpeningHoursSpecification',
+      validFrom: day.date,
+      validThrough: day.date,
+    };
+    if (!day.segments || day.segments.length === 0) {
+      specs.push({ ...base, opens: '00:00', closes: '00:00' });
+      continue;
+    }
+    for (const interval of day.segments) {
+      specs.push({ ...base, opens: toIsoTime(interval.open), closes: toIsoTime(interval.close) });
+    }
+  }
+  return specs;
+}
+
+/**
  * Current wall-clock day + minute in an IANA timezone.
  * Uses Intl rather than the browser's local clock so a customer in another
  * state still sees the store's real open/closed state.
@@ -280,6 +418,14 @@ module.exports = {
   MINUTES_PER_DAY,
   emptyWeek,
   fromGooglePeriods,
+  specialFromGoogle,
+  carrySpecial,
+  isoDate,
+  weekdayOf,
+  addDays,
+  dateInZone,
+  formatDateLabel,
+  toSchemaOrgSpecial,
   groupWeek,
   daySignature,
   isAlwaysOpen,

@@ -52,8 +52,9 @@ README.md has the step list. What it doesn't say:
    hardcoded array to `FALLBACK_STORES`, merge `window.RG_STORES` over it by
    storeId/storeUrl, keep the array as offline fallback. Head script tag with
    NO defer/async — embeds read `RG_STORES` synchronously during parse.
-   `window.RG_HOURS.isOpenNow(store)` for open-now state (timezone-correct);
-   never regex-parse hours strings against the browser clock.
+   `window.RG_HOURS.isOpenNow(store)` for open-now state (timezone-correct,
+   holiday-aware); `todayHours(store)` and `holidayHours(store)` for display.
+   Never regex-parse hours strings against the browser clock.
 6. Secrets naming: `WEBFLOW_API_TOKEN_<BRAND>` (CMS read/write scope, per
    site), shared `GOOGLE_MAPS_API_KEY`. CMS writes use the /items/live PATCH —
    no Webflow site publish involved, so it can never ship a designer's WIP.
@@ -67,8 +68,19 @@ README.md has the step list. What it doesn't say:
 - The gate holds: first-run baselines, non-OPERATIONAL status, all-week
   closures, any open→closed day flip, >4h time moves, weekly volume cut ≥half,
   and empty responses. Held stores keep current hours — held never means
-  blank. Only `regularOpeningHours` is synced; holiday hours never overwrite
-  the standing schedule.
+  blank. Only `regularOpeningHours` is gated and synced to `week`/the CMS;
+  holiday hours never overwrite the standing schedule.
+- Holiday/special hours (added 2026-11-24) come from `currentOpeningHours`
+  and publish UNGATED as `special` in the data files and JSON-LD only — never
+  `week`, never the CMS — and are listed per store under "Special hours" in
+  report.md. A special day equal to the published week is dropped. Shapes
+  verified against real responses (fixtures/places-special-days.json,
+  places-livwell-2026-11-24.json): closed all day = date in `specialDays`
+  with NO period opening on it; midnight close = 00:00 on the next date; the
+  period at the 7-day window edge is cut at 23:59 with `truncated: true`
+  (read as midnight) — but a non-truncated 23:59 is a real 11:59pm close.
+  Yesterday's special day is carried from state for one more day so overnight
+  carry-over survives a sync that lands after midnight.
 - Phone numbers sync from the same Places call, gated independently of hours
   (`gate.evaluatePhone`): formatting-only differences are ignored (digit
   comparison), blank→value fills in unattended, value→value is always held,

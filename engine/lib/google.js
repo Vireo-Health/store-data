@@ -88,10 +88,11 @@ async function findPlaceId(query, { locationBias } = {}) {
 /**
  * Fetch a place's regular opening hours and phone number.
  *
- * `regularOpeningHours` is the standing weekly schedule; `currentOpeningHours`
- * reflects holiday and temporary overrides for the next 7 days. We sync the
- * regular schedule and surface the current one only for change alerting, so a
- * one-off holiday never overwrites the standing hours.
+ * `regularOpeningHours` is the standing weekly schedule — the one the gate
+ * checks and the CMS receives. `currentOpeningHours` covers the next 7 days
+ * including holiday and temporary overrides; its special days publish
+ * alongside as dated `special` entries (hours.specialFromGoogle) and never
+ * overwrite the standing schedule.
  *
  * Billing: `regularOpeningHours` puts this call in the Place Details
  * Enterprise SKU. Every other field here is Enterprise-tier or below, so they

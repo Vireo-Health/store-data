@@ -41,6 +41,9 @@ function buildRecords(stores, storePath = '/stores/') {
       hours: compact,
       hoursDotted: dotted,
       week: store.week,
+      // Dated overrides from Google (holidays, temporary closures). Never
+      // folded into `week` — the runtime checks these first, by date.
+      special: Array.isArray(store.special) ? store.special : [],
       showInMap: store.showInMap !== false,
     };
 
@@ -70,6 +73,7 @@ function buildSchema(stores, org = DEFAULT_ORG) {
   const out = {};
   for (const store of stores) {
     if (!store.address) continue;
+    const special = h.toSchemaOrgSpecial(store.special);
     out[store.slug] = {
       '@context': 'https://schema.org',
       '@type': 'Store',
@@ -87,6 +91,7 @@ function buildSchema(stores, org = DEFAULT_ORG) {
         ? { geo: { '@type': 'GeoCoordinates', latitude: store.lat, longitude: store.lng } }
         : {}),
       openingHoursSpecification: h.toSchemaOrg(store.week),
+      ...(special.length ? { specialOpeningHoursSpecification: special } : {}),
     };
   }
   return out;
@@ -94,8 +99,12 @@ function buildSchema(stores, org = DEFAULT_ORG) {
 
 /**
  * The site-wide script. Kept dependency-free and tiny — it only publishes data
- * plus the two helpers the embeds need, so open/closed state is computed from
+ * plus the helpers the embeds need, so open/closed state is computed from
  * structured hours in the store's own timezone rather than parsed from text.
+ *
+ * A store's `special` days (holidays, temporary closures) take precedence over
+ * its `week` on their date, both for the day itself and for any overnight
+ * carry-over into the following morning.
  */
 function buildStoresJs(records, generatedAt, org = DEFAULT_ORG) {
   const runtime = `
@@ -106,24 +115,44 @@ function buildStoresJs(records, generatedAt, org = DEFAULT_ORG) {
   function nowInZone(tz, date) {
     var parts = new Intl.DateTimeFormat('en-US', {
       timeZone: tz || 'America/Denver',
-      weekday: 'short', hour: 'numeric', minute: 'numeric', hour12: false
+      weekday: 'short', year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: 'numeric', minute: 'numeric', hour12: false
     }).formatToParts(date || new Date());
     var o = {};
     for (var i = 0; i < parts.length; i++) o[parts[i].type] = parts[i].value;
-    return { day: DAY.indexOf(o.weekday), minutes: (parseInt(o.hour, 10) % 24) * 60 + parseInt(o.minute, 10) };
+    return {
+      day: DAY.indexOf(o.weekday),
+      minutes: (parseInt(o.hour, 10) % 24) * 60 + parseInt(o.minute, 10),
+      date: o.year + '-' + o.month + '-' + o.day
+    };
+  }
+
+  function utcDate(iso, offsetDays) {
+    var p = iso.split('-');
+    return new Date(Date.UTC(+p[0], +p[1] - 1, +p[2] + (offsetDays || 0)));
+  }
+
+  // The intervals a store keeps on a local calendar date: its special day if
+  // it has one for that date, otherwise the standing slot for the weekday.
+  function hoursOn(store, iso, weekday) {
+    var special = store.special || [];
+    for (var i = 0; i < special.length; i++) {
+      if (special[i].date === iso) return special[i].segments || [];
+    }
+    return store.week[weekday] || [];
   }
 
   function isOpenNow(store, date) {
-    var week = store && store.week;
-    if (!week) return false;
+    if (!store || !store.week) return false;
     var n = nowInZone(store.timezone, date);
     if (n.day < 0) return false;
-    var today = week[n.day] || [];
+    var today = hoursOn(store, n.date, n.day);
     for (var i = 0; i < today.length; i++) {
       if (n.minutes < today[i].open) continue;
       if (today[i].closesNextDay || n.minutes < today[i].close) return true;
     }
-    var yesterday = week[(n.day + 6) % 7] || [];
+    var y = utcDate(n.date, -1);
+    var yesterday = hoursOn(store, y.toISOString().slice(0, 10), y.getUTCDay());
     for (var j = 0; j < yesterday.length; j++) {
       if (yesterday[j].closesNextDay && n.minutes < yesterday[j].close % MIN_PER_DAY) return true;
     }
@@ -136,17 +165,46 @@ function buildStoresJs(records, generatedAt, org = DEFAULT_ORG) {
     return mm === 0 ? h12 + s : h12 + ':' + (mm < 10 ? '0' + mm : mm) + s;
   }
 
-  function todayHours(store, date) {
-    var week = store && store.week;
-    if (!week) return '';
-    var n = nowInZone(store.timezone, date);
-    if (n.day < 0) return '';
-    var day = week[n.day] || [];
-    if (day.length === 0) return 'Closed';
-    return day.map(function (i) { return fmt(i.open) + '\\u2013' + fmt(i.close); }).join(', ');
+  function fmtDay(intervals) {
+    if (intervals.length === 0) return 'Closed';
+    return intervals.map(function (i) { return fmt(i.open) + '\\u2013' + fmt(i.close); }).join(', ');
   }
 
-  window.RG_HOURS = { isOpenNow: isOpenNow, todayHours: todayHours, nowInZone: nowInZone };
+  function todayHours(store, date) {
+    if (!store || !store.week) return '';
+    var n = nowInZone(store.timezone, date);
+    if (n.day < 0) return '';
+    return fmtDay(hoursOn(store, n.date, n.day));
+  }
+
+  // Special days from today (store-local) forward, soonest first:
+  // [{ date: '2026-11-26', label: 'Thu 11/26', hours: 'Closed' | '10am\\u20136pm', isToday }]
+  function holidayHours(store, date) {
+    var special = (store && store.special) || [];
+    if (special.length === 0) return [];
+    var today = nowInZone(store.timezone, date).date;
+    var out = [];
+    for (var i = 0; i < special.length; i++) {
+      var s = special[i];
+      if (s.date < today) continue;
+      var d = utcDate(s.date);
+      out.push({
+        date: s.date,
+        label: DAY[d.getUTCDay()] + ' ' + (d.getUTCMonth() + 1) + '/' + d.getUTCDate(),
+        hours: fmtDay(s.segments || []),
+        isToday: s.date === today
+      });
+    }
+    out.sort(function (a, b) { return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; });
+    return out;
+  }
+
+  window.RG_HOURS = {
+    isOpenNow: isOpenNow,
+    todayHours: todayHours,
+    holidayHours: holidayHours,
+    nowInZone: nowInZone
+  };
 })();`.trim();
 
   return [
