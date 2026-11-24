@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:13:07.482Z",
+  "generatedAt": "2026-11-24T21:10:05.400Z",
   "stores": {
     "sunland-park": {
       "name": "Sunland Park",
@@ -54,6 +54,7 @@
           }
         ]
       ],
+      "special": [],
       "phone": "575-332-9037",
       "rating": 4.5,
       "ratingCount": 558
@@ -110,6 +111,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(505) 865-6635",
       "rating": 4.7,
@@ -168,9 +181,21 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(575) 446-1438",
       "rating": 4.8,
-      "ratingCount": 105
+      "ratingCount": 106
     },
     "montano-plaza": {
       "name": "Montaño Plaza",
@@ -224,6 +249,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "505-295-3245",
       "rating": 4.7,
@@ -282,6 +319,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 872-6150",
       "rating": 4.8,
       "ratingCount": 1142
@@ -339,6 +388,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "phone": "(505) 836-8620",
       "rating": 4.8,
       "ratingCount": 696
@@ -395,6 +456,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "(505) 293-1249",
       "rating": 4.8,

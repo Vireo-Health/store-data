@@ -74,6 +74,15 @@
         "opens": "09:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "las-cruces-north": {
@@ -116,6 +125,15 @@
         "opens": "08:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "montano-plaza": {
@@ -150,6 +168,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -192,6 +219,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   },
@@ -242,6 +278,15 @@
         "opens": "08:00",
         "closes": "21:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "far-northeast-heights": {
@@ -283,6 +328,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   }

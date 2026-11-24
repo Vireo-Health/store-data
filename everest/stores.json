@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:13:07.482Z",
+  "generatedAt": "2026-11-24T21:10:05.400Z",
   "stores": [
     {
       "slug": "sunland-park",
@@ -67,6 +67,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -139,6 +140,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -153,7 +166,7 @@
       "state": "NM",
       "phone": "(575) 446-1438",
       "rating": 4.8,
-      "ratingCount": 105,
+      "ratingCount": 106,
       "lat": 32.352,
       "lng": -106.723,
       "shopId": "5918",
@@ -210,6 +223,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -283,6 +308,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -354,6 +391,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -427,6 +476,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -498,6 +559,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
