@@ -1,64 +1,6 @@
 {
-  "generatedAt": "2026-11-24T21:10:05.400Z",
+  "generatedAt": "2026-11-24T21:17:08.895Z",
   "stores": {
-    "sunland-park": {
-      "name": "Sunland Park",
-      "week": [
-        [
-          {
-            "open": 480,
-            "close": 1260,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ],
-        [
-          {
-            "open": 480,
-            "close": 1380,
-            "closesNextDay": false
-          }
-        ]
-      ],
-      "special": [],
-      "phone": "575-332-9037",
-      "rating": 4.5,
-      "ratingCount": 558
-    },
     "los-lunas": {
       "name": "Los Lunas",
       "week": [

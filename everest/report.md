@@ -1,14 +1,10 @@
-# Store hours sync — 2026-11-24T21:10:05.400Z
+# Store hours sync — 2026-11-24T21:17:08.895Z
 
-- checked: 7
+- checked: 6
 - applied: 0
-- held for review: 1
+- held for review: 0
 - errors: 0
 - special days: 6
-
-## Held for review
-- **sunland-park** — Google reports business status CLOSED_PERMANENTLY; Google returned no regular opening hours
-  - proposed: `Closed`
 
 ## Special hours
 Published without the review hold — Google already shows these to customers. A wrong one is fixed in Google Business Profile.

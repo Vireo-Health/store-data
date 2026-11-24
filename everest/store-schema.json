@@ -1,46 +1,4 @@
 {
-  "sunland-park": {
-    "@context": "https://schema.org",
-    "@type": "Store",
-    "name": "Everest Cannabis Sunland Park",
-    "url": "https://everestnm.com/stores/sunland-park/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "1580 Appaloosa Dr, Ste 320",
-      "addressLocality": "Sunland Park",
-      "addressRegion": "NM",
-      "addressCountry": "US"
-    },
-    "telephone": "575-332-9037",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 31.7995,
-      "longitude": -106.582
-    },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "23:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "21:00"
-      }
-    ]
-  },
   "los-lunas": {
     "@context": "https://schema.org",
     "@type": "Store",
