@@ -13,25 +13,6 @@
   },
   "stores": [
     {
-      "slug": "sunland-park",
-      "name": "Sunland Park",
-      "webflowItemId": "6a28706cffb42f044f4dd83a",
-      "placeId": "ChIJg89m3En53YYRmg3zCVNqPNA",
-      "googleBusinessLink": "https://maps.google.com/?q=1580%20Appaloosa%20Drive,%20Suite%20320",
-      "googleSearchQuery": "Everest Cannabis Sunland Park 1580 Appaloosa Dr Ste 320, Sunland Park, NM 88063",
-      "timezone": "America/Denver",
-      "shopId": "4383",
-      "city": "Sunland Park",
-      "state": "NM",
-      "address": "1580 Appaloosa Dr, Ste 320",
-      "phone": "575-332-9037",
-      "lat": 31.7995,
-      "lng": -106.582,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "los-lunas",
       "name": "Los Lunas",
       "webflowItemId": "6a287059c5a71693ece105d0",

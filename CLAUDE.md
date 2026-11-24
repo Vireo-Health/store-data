@@ -177,3 +177,9 @@ README.md has the step list. What it doesn't say:
   each added store costs ~$0.61/month once the portfolio passes ~32 stores —
   the full ~100-store portfolio lands around $41/month, which is approved. No
   cadence change needed when onboarding.
+- **everest**: Sunland Park (1580 Appaloosa Dr Ste 320, Place ID
+  `ChIJg89m3En53YYRmg3zCVNqPNA`) closed — Google reports
+  `CLOSED_PERMANENTLY` with no hours, and the gate held it every run. Removed
+  from the roster 2026-11-24; its Everest CMS item (`6a28706cffb42f044f4dd83a`)
+  still exists. Do not re-add it, and do not confuse it with Every Day Weed's
+  live Sunland Park store at 1541 Appaloosa Dr (a different listing).
