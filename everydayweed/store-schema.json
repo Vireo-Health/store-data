@@ -32,6 +32,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "north-aurora-dispensary": {
@@ -74,6 +83,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "denver-dispensary": {
@@ -108,6 +126,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -144,6 +171,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "federal-heights-dispensary": {
@@ -178,6 +214,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -214,6 +259,15 @@
         "opens": "09:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "northwest-denver-dispensary": {
@@ -249,6 +303,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "capitol-hill-dispensary": {
@@ -283,6 +346,15 @@
         ],
         "opens": "09:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -354,6 +426,15 @@
         "opens": "10:00",
         "closes": "20:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "mile-high-stadium-dispensary": {
@@ -388,6 +469,15 @@
         ],
         "opens": "09:00",
         "closes": "23:59"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -424,6 +514,15 @@
         "opens": "08:00",
         "closes": "23:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "edgewater-dispensary": {
@@ -458,6 +557,15 @@
         ],
         "opens": "08:00",
         "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -494,6 +602,15 @@
         "opens": "09:00",
         "closes": "23:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "aurora-buckley-dispensary": {
@@ -528,6 +645,15 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -564,6 +690,15 @@
         "opens": "09:00",
         "closes": "23:59"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "aspen-dispensary": {
@@ -598,6 +733,15 @@
         ],
         "opens": "10:00",
         "closes": "20:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -669,6 +813,15 @@
         "opens": "08:00",
         "closes": "23:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
     ]
   },
   "denver-central-park-dispensary": {
@@ -703,6 +856,15 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -739,6 +901,15 @@
         "opens": "08:00",
         "closes": "22:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "pueblo-north-dispensary": {
@@ -773,6 +944,15 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -809,6 +989,15 @@
         "opens": "08:00",
         "closes": "21:45"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "breckenridge-dispensary": {
@@ -843,6 +1032,15 @@
         ],
         "opens": "08:00",
         "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -879,6 +1077,15 @@
         "opens": "08:00",
         "closes": "23:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
     ]
   },
   "fort-collins-smithfield-dispensary": {
@@ -913,6 +1120,15 @@
         ],
         "opens": "08:00",
         "closes": "19:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
       }
     ]
   },
@@ -955,6 +1171,15 @@
         ],
         "opens": "08:00",
         "closes": "21:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "15:00"
       }
     ]
   }

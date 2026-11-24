@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:46.671Z",
+  "generatedAt": "2026-11-24T21:09:42.296Z",
   "stores": [
     {
       "slug": "dispensary-commerce-city",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-999-0401",
       "rating": 4.7,
-      "ratingCount": 1799,
+      "ratingCount": 1800,
       "lat": 39.8029,
       "lng": -104.9313,
       "shopId": "1758",
@@ -67,6 +67,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -81,7 +93,7 @@
       "state": "CO",
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2611,
+      "ratingCount": 2613,
       "lat": 39.7471,
       "lng": -104.8702,
       "shopId": "1764",
@@ -139,6 +151,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -153,7 +177,7 @@
       "state": "CO",
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2272,
+      "ratingCount": 2273,
       "lat": 39.6784,
       "lng": -104.9682,
       "shopId": "1760",
@@ -211,6 +235,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -225,7 +261,7 @@
       "state": "CO",
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 428,
+      "ratingCount": 429,
       "lat": 39.9936,
       "lng": -104.8141,
       "shopId": "6217",
@@ -282,6 +318,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -355,6 +403,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -426,6 +486,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -499,6 +571,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -570,6 +654,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -643,6 +739,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -714,6 +811,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -787,6 +896,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -858,6 +979,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -931,6 +1064,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1003,6 +1148,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1017,7 +1174,7 @@
       "state": "CO",
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4594,
+      "ratingCount": 4595,
       "lat": 39.7406829,
       "lng": -104.7642405,
       "shopId": "6958",
@@ -1075,6 +1232,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1089,7 +1258,7 @@
       "state": "CO",
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2605,
+      "ratingCount": 2614,
       "lat": 39.7613559,
       "lng": -104.9820442,
       "shopId": "6963",
@@ -1147,6 +1316,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1161,7 +1342,7 @@
       "state": "CO",
       "phone": "970-429-4365",
       "rating": 4.4,
-      "ratingCount": 228,
+      "ratingCount": 229,
       "lat": 39.1888,
       "lng": -106.8195,
       "shopId": "434",
@@ -1218,6 +1399,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1291,6 +1484,7 @@
           }
         ]
       ],
+      "special": [],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1362,6 +1556,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1435,6 +1641,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1506,6 +1724,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1579,6 +1809,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1650,6 +1892,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1723,6 +1977,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1794,6 +2060,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
@@ -1867,6 +2145,18 @@
           }
         ]
       ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
       "showInMap": true,
       "id": null,
       "type": null,
@@ -1881,7 +2171,7 @@
       "state": "NM",
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 731,
+      "ratingCount": 732,
       "lat": 31.8019,
       "lng": -106.5645,
       "shopId": "4957",
@@ -1938,6 +2228,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "showInMap": true,
       "id": null,
