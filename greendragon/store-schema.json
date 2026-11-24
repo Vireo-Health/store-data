@@ -32,6 +32,15 @@
         "opens": "11:00",
         "closes": "20:00"
       }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "11:00",
+        "closes": "15:00"
+      }
     ]
   }
 }

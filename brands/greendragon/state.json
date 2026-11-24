@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:12:57.923Z",
+  "generatedAt": "2026-11-24T21:09:54.212Z",
   "stores": {
     "telluride-premium-marijuana-dispensary": {
       "name": "Telluride",
@@ -53,6 +53,18 @@
             "closesNextDay": false
           }
         ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 660,
+              "close": 900,
+              "closesNextDay": false
+            }
+          ]
+        }
       ],
       "phone": "970-422-1422",
       "rating": 4.6,
