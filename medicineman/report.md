@@ -1,15 +1,10 @@
-# Store hours sync — 2026-11-25T02:05:44.545Z
+# Store hours sync — 2026-11-25T23:38:14.924Z
 
 - checked: 3
-- applied: 3
+- applied: 0
 - held for review: 0
 - errors: 0
 - special days: 3
-
-## Applied
-- Aurora: new baseline Mon-Wed 8am-10pm, Thu-Sat 8am-11:45pm, Sun 8am-10pm
-- Thornton: new baseline Daily 8am-11:45pm
-- Longmont: new baseline Daily 8am-10pm
 
 ## Special hours
 Published without the review hold — Google already shows these to customers. A wrong one is fixed in Google Business Profile.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:05:44.545Z",
+  "generatedAt": "2026-11-25T23:38:14.924Z",
   "stores": {
     "aurora": {
       "name": "Aurora",
@@ -68,7 +68,7 @@
       ],
       "phone": "303-923-3971",
       "rating": 4.7,
-      "ratingCount": 3166
+      "ratingCount": 3167
     },
     "thornton": {
       "name": "Thornton",

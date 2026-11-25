@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:05:44.545Z",
+  "generatedAt": "2026-11-25T23:38:14.924Z",
   "stores": [
     {
       "slug": "aurora",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "303-923-3971",
       "rating": 4.7,
-      "ratingCount": 3166,
+      "ratingCount": 3167,
       "lat": 39.68176,
       "lng": -104.8663757,
       "shopId": "7403",
