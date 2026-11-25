@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:53:54.472Z",
+  "generatedAt": "2026-11-25T23:37:00.407Z",
   "stores": {
     "berthoud-dispensary": {
       "name": "Berthoud",
@@ -68,7 +68,7 @@
       ],
       "phone": "970-344-5060",
       "rating": 4.8,
-      "ratingCount": 3032
+      "ratingCount": 3033
     },
     "broomfield-dispensary": {
       "name": "Broomfield",
@@ -206,7 +206,7 @@
       ],
       "phone": "720-756-7881",
       "rating": 4.9,
-      "ratingCount": 5432
+      "ratingCount": 5433
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -344,7 +344,7 @@
       ],
       "phone": "970-484-8380",
       "rating": 4.8,
-      "ratingCount": 7616
+      "ratingCount": 7617
     },
     "garden-city-dispensary": {
       "name": "Garden City",
@@ -413,7 +413,7 @@
       ],
       "phone": "970-616-6007",
       "rating": 4.6,
-      "ratingCount": 3732
+      "ratingCount": 3745
     },
     "denver-dia-dispensary": {
       "name": "Tower Road",
