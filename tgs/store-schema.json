@@ -1,0 +1,484 @@
+{
+  "edgewater": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Edgewater",
+    "url": "https://tgscolorado.com/stores/colorado/edgewater/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6020 West 20th Avenue",
+      "addressLocality": "Edgewater",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-689-2347",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.7472,
+      "longitude": -105.06315
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "fort-collins": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Fort Collins",
+    "url": "https://tgscolorado.com/stores/colorado/fort-collins/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "810 North College Avenue",
+      "addressLocality": "Fort Collins",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-239-3117",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.59819,
+      "longitude": -105.07626
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "glenwood-springs": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Glenwood Springs",
+    "url": "https://tgscolorado.com/stores/colorado/glenwood-springs/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "51701 Highway 6",
+      "addressLocality": "Glenwood Springs",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "970-760-0287",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.56125,
+      "longitude": -107.35101
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "20:50"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "malley": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Malley",
+    "url": "https://tgscolorado.com/stores/colorado/malley/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "470 Malley Drive",
+      "addressLocality": "Northglenn",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-399-6842",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.90229,
+      "longitude": -104.98044
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "peoria": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Peoria",
+    "url": "https://tgscolorado.com/stores/colorado/peoria/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3179 South Peoria Court",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-501-2370",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.65889,
+      "longitude": -104.8483
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "opens": "08:00",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:30"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "potomac": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Potomac",
+    "url": "https://tgscolorado.com/stores/colorado/potomac/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "350 South Potomac Street",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-501-2371",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.71013,
+      "longitude": -104.82784
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "quincy-ave": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Quincy Ave.",
+    "url": "https://tgscolorado.com/stores/colorado/quincy-ave/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "19370 East Quincy Avenue",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-501-2393",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.63799,
+      "longitude": -104.76151
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "sheridan": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Sheridan",
+    "url": "https://tgscolorado.com/stores/colorado/sheridan/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3318 South Federal Boulevard",
+      "addressLocality": "Sheridan",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-689-2349",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.65645,
+      "longitude": -105.0248
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "westminster": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Westminster",
+    "url": "https://tgscolorado.com/stores/colorado/westminster/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6681 Federal Boulevard",
+      "addressLocality": "Westminster",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-501-2378",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.81787,
+      "longitude": -105.02562
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "21:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "wewatta-st": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "The Green Solution Wewatta St.",
+    "url": "https://tgscolorado.com/stores/colorado/wewatta-st/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1995 Wewatta Street",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-612-7835",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.75674,
+      "longitude": -104.99798
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  }
+}

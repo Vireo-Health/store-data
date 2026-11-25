@@ -1,0 +1,695 @@
+{
+  "generatedAt": "2026-11-25T01:40:58.365Z",
+  "stores": {
+    "edgewater": {
+      "name": "Edgewater",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-689-2347",
+      "rating": 4.7,
+      "ratingCount": 3379
+    },
+    "fort-collins": {
+      "name": "Fort Collins",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "970-239-3117",
+      "rating": 4.8,
+      "ratingCount": 4882
+    },
+    "glenwood-springs": {
+      "name": "Glenwood Springs",
+      "week": [
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1250,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "970-760-0287",
+      "rating": 4.9,
+      "ratingCount": 1065
+    },
+    "malley": {
+      "name": "Malley",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-399-6842",
+      "rating": 4.8,
+      "ratingCount": 5442
+    },
+    "peoria": {
+      "name": "Peoria",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1290,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1290,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1290,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1290,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1410,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1410,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1410,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-501-2370",
+      "rating": 4.8,
+      "ratingCount": 4859
+    },
+    "potomac": {
+      "name": "Potomac",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-501-2371",
+      "rating": 4.8,
+      "ratingCount": 2590
+    },
+    "quincy-ave": {
+      "name": "Quincy Ave.",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-501-2393",
+      "rating": 4.7,
+      "ratingCount": 1412
+    },
+    "sheridan": {
+      "name": "Sheridan",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-689-2349",
+      "rating": 4.8,
+      "ratingCount": 1568
+    },
+    "westminster": {
+      "name": "Westminster",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1305,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-501-2378",
+      "rating": 4.8,
+      "ratingCount": 3934
+    },
+    "wewatta-st": {
+      "name": "Wewatta St.",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-612-7835",
+      "rating": 4.9,
+      "ratingCount": 3621
+    }
+  }
+}
