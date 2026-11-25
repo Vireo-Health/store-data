@@ -12,7 +12,7 @@
     {
       "slug": "edgewater",
       "name": "Edgewater",
-      "placeId": null,
+      "placeId": "ChIJRfmSlD2Ha4cRvicOwc8PvNo",
       "googleSearchQuery": "The Green Solution Edgewater 6020 West 20th Avenue, Edgewater, CO 80214",
       "timezone": "America/Denver",
       "shopId": "7391",
@@ -29,7 +29,7 @@
     {
       "slug": "fort-collins",
       "name": "Fort Collins",
-      "placeId": null,
+      "placeId": "ChIJRcFIy4dKaYcRrt2tcRiOrRU",
       "googleSearchQuery": "The Green Solution Fort Collins 810 North College Avenue, Fort Collins, CO 80524",
       "timezone": "America/Denver",
       "shopId": "7397",
@@ -46,7 +46,7 @@
     {
       "slug": "glenwood-springs",
       "name": "Glenwood Springs",
-      "placeId": null,
+      "placeId": "ChIJ7ZEFtnwJQYcRMRq5r0yzzdI",
       "googleSearchQuery": "The Green Solution Glenwood Springs 51701 Highway 6, Glenwood Springs, CO 81601",
       "timezone": "America/Denver",
       "shopId": "7393",
@@ -63,7 +63,7 @@
     {
       "slug": "malley",
       "name": "Malley",
-      "placeId": null,
+      "placeId": "ChIJ8da7zit0bIcRIYmCKCXQixg",
       "googleSearchQuery": "The Green Solution Malley 470 Malley Drive, Northglenn, CO 80233",
       "timezone": "America/Denver",
       "shopId": "7394",
@@ -80,7 +80,7 @@
     {
       "slug": "peoria",
       "name": "Peoria",
-      "placeId": null,
+      "placeId": "ChIJw5Chp-GHbIcRwI6kQ3GiNCI",
       "googleSearchQuery": "The Green Solution Peoria 3179 South Peoria Court, Aurora, CO 80014",
       "timezone": "America/Denver",
       "shopId": "7395",
@@ -97,7 +97,7 @@
     {
       "slug": "potomac",
       "name": "Potomac",
-      "placeId": null,
+      "placeId": "ChIJA0ZyntxibIcRrx91VwqhNdU",
       "googleSearchQuery": "The Green Solution Potomac 350 South Potomac Street, Aurora, CO 80012",
       "timezone": "America/Denver",
       "shopId": "7400",
@@ -114,7 +114,7 @@
     {
       "slug": "quincy-ave",
       "name": "Quincy Ave.",
-      "placeId": null,
+      "placeId": "ChIJh9V65nqJbIcRGdjWf112Alk",
       "googleSearchQuery": "The Green Solution Quincy Ave 19370 East Quincy Avenue, Aurora, CO 80015",
       "timezone": "America/Denver",
       "shopId": "7401",
@@ -131,7 +131,7 @@
     {
       "slug": "sheridan",
       "name": "Sheridan",
-      "placeId": null,
+      "placeId": "ChIJISZ497R_bIcRQ_C7cqlBkM0",
       "googleSearchQuery": "The Green Solution Sheridan 3318 South Federal Boulevard, Sheridan, CO 80110",
       "timezone": "America/Denver",
       "shopId": "7392",
@@ -148,7 +148,7 @@
     {
       "slug": "westminster",
       "name": "Westminster",
-      "placeId": null,
+      "placeId": "ChIJsxQiRPl3bIcRkZ5k2_AaGrY",
       "googleSearchQuery": "The Green Solution Westminster 6681 Federal Boulevard, Westminster, CO 80221",
       "timezone": "America/Denver",
       "shopId": "7399",
@@ -165,7 +165,7 @@
     {
       "slug": "wewatta-st",
       "name": "Wewatta St.",
-      "placeId": null,
+      "placeId": "ChIJH1CPqMJ4bIcRAYunbwp6a5U",
       "googleSearchQuery": "The Green Solution Wewatta St 1995 Wewatta Street, Denver, CO 80202",
       "timezone": "America/Denver",
       "shopId": "7396",
