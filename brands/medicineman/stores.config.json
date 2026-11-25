@@ -30,7 +30,7 @@
     {
       "slug": "aurora",
       "name": "Aurora",
-      "placeId": null,
+      "placeId": "ChIJ7_-1G119bIcRAsiWpNhGIxU",
       "googleBusinessLink": "https://g.page/med-man-aurora?share",
       "googleSearchQuery": "Medicine Man Aurora 1901 S Havana St, Aurora, CO 80014",
       "timezone": "America/Denver",
@@ -48,7 +48,7 @@
     {
       "slug": "thornton",
       "name": "Thornton",
-      "placeId": null,
+      "placeId": "ChIJd7jKgah3bIcRpCP4F4nJLRQ",
       "googleBusinessLink": "https://g.page/med-man-thornton?share",
       "googleSearchQuery": "Medicine Man Thornton 130 W 84th Ave, Thornton, CO 80260",
       "timezone": "America/Denver",
@@ -66,7 +66,7 @@
     {
       "slug": "longmont",
       "name": "Longmont",
-      "placeId": null,
+      "placeId": "ChIJbzT1G7f5a4cRAVvTEOKYidM",
       "googleBusinessLink": "https://g.page/med-man-longmont?share",
       "googleSearchQuery": "Medicine Man Longmont 500 E Rogers Rd, Longmont, CO 80501",
       "timezone": "America/Denver",
