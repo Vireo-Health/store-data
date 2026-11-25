@@ -1,22 +1,10 @@
-# Store hours sync — 2026-11-25T01:40:58.365Z
+# Store hours sync — 2026-11-25T23:38:25.031Z
 
 - checked: 10
-- applied: 10
+- applied: 0
 - held for review: 0
 - errors: 0
 - special days: 10
-
-## Applied
-- Edgewater: new baseline Daily 8am-11:45pm
-- Fort Collins: new baseline Daily 8am-11:45pm
-- Glenwood Springs: new baseline Daily 9am-8:50pm
-- Malley: new baseline Daily 8am-9:45pm
-- Peoria: new baseline Mon-Wed 8am-9:30pm, Thu-Sat 8am-11:30pm, Sun 8am-9:30pm
-- Potomac: new baseline Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm
-- Quincy Ave.: new baseline Mon-Wed 8am-9:45pm, Thu-Sat 8am-11:45pm, Sun 8am-9:45pm
-- Sheridan: new baseline Daily 8am-9:45pm
-- Westminster: new baseline Daily 8am-9:45pm
-- Wewatta St.: new baseline Daily 8am-11:45pm
 
 ## Special hours
 Published without the review hold — Google already shows these to customers. A wrong one is fixed in Google Business Profile.
