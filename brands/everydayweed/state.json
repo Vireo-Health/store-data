@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:54:16.754Z",
+  "generatedAt": "2026-11-25T23:37:26.312Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -68,7 +68,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.7,
-      "ratingCount": 1800
+      "ratingCount": 1801
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -137,7 +137,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2613
+      "ratingCount": 2614
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -206,7 +206,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2273
+      "ratingCount": 2274
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -275,7 +275,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 429
+      "ratingCount": 430
     },
     "federal-heights-dispensary": {
       "name": "Federal Heights",
@@ -609,7 +609,7 @@
       "special": [],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 603
+      "ratingCount": 604
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -678,7 +678,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 563
+      "ratingCount": 564
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -885,7 +885,7 @@
       ],
       "phone": "970-480-0640",
       "rating": 4.6,
-      "ratingCount": 916
+      "ratingCount": 917
     },
     "aurora-peoria-st-dispensary": {
       "name": "Aurora Peoria",
@@ -1092,7 +1092,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2614
+      "ratingCount": 2615
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1219,7 +1219,7 @@
       "special": [],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2435
+      "ratingCount": 2438
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1288,7 +1288,7 @@
       ],
       "phone": "970-565-9577",
       "rating": 4.9,
-      "ratingCount": 2557
+      "ratingCount": 2556
     },
     "denver-central-park-dispensary": {
       "name": "Central Park",
