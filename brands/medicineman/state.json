@@ -1,0 +1,212 @@
+{
+  "generatedAt": "2026-11-25T02:05:44.545Z",
+  "stores": {
+    "aurora": {
+      "name": "Aurora",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "303-923-3971",
+      "rating": 4.7,
+      "ratingCount": 3166
+    },
+    "thornton": {
+      "name": "Thornton",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1425,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "303-301-7122",
+      "rating": 4.7,
+      "ratingCount": 4150
+    },
+    "longmont": {
+      "name": "Longmont",
+      "week": [
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320,
+            "closesNextDay": false
+          }
+        ]
+      ],
+      "special": [
+        {
+          "date": "2026-11-26",
+          "segments": [
+            {
+              "open": 480,
+              "close": 1260,
+              "closesNextDay": false
+            }
+          ]
+        }
+      ],
+      "phone": "720-204-7500",
+      "rating": 4.8,
+      "ratingCount": 2036
+    }
+  }
+}

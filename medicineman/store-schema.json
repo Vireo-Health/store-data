@@ -1,0 +1,148 @@
+{
+  "aurora": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Medicine Man Aurora",
+    "url": "https://medicinemandenver.com/stores/colorado/aurora/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1901 S Havana St",
+      "addressLocality": "Aurora",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-923-3971",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.68176,
+      "longitude": -104.8663757
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "thornton": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Medicine Man Thornton",
+    "url": "https://medicinemandenver.com/stores/colorado/thornton/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "130 W 84th Ave",
+      "addressLocality": "Thornton",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "303-301-7122",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.8485037,
+      "longitude": -104.9887352
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:45"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  },
+  "longmont": {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "Medicine Man Longmont",
+    "url": "https://medicinemandenver.com/stores/colorado/longmont/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "500 E Rogers Rd",
+      "addressLocality": "Longmont",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    },
+    "telephone": "720-204-7500",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.1614956,
+      "longitude": -105.0811735
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "22:00"
+      }
+    ],
+    "specialOpeningHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2026-11-26",
+        "validThrough": "2026-11-26",
+        "opens": "08:00",
+        "closes": "21:00"
+      }
+    ]
+  }
+}
