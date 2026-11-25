@@ -196,15 +196,17 @@ README.md has the step list. What it doesn't say:
   from the roster 2026-11-24; its Everest CMS item (`6a28706cffb42f044f4dd83a`)
   still exists. Do not re-add it, and do not confuse it with Every Day Weed's
   live Sunland Park store at 1541 Appaloosa Dr (a different listing).
-- **medicineman**: 4 Colorado storefronts (Denver, Aurora, Thornton,
-  Longmont), added 2026-11-24. The first brand with **no CMS**: the site is
+- **medicineman**: 3 Colorado storefronts (Aurora, Thornton, Longmont),
+  added 2026-11-24. The first brand with **no CMS**: the site is
   Next.js (Vireo-Health/vireo-mm), so `site.cms` is `"none"` (with
   `cmsReason`), stores carry no `webflowItemId`, and the workflow matrix
   names no `webflow_secret`. config.test.js enforces that shape both ways.
   The site reads `medicineman/stores.json` while it runs, joined on the
   roster `slug`, which must stay equal to the site's own store slugs — a
-  store missing from the feed fails that site's build. Denver has no Jane id
-  yet (`shopId: null`); the join does not use it.
+  store missing from the feed fails that site's build. Denver (4750 Nome St)
+  was on the roster at onboarding, but its only listing is
+  `CLOSED_PERMANENTLY` (Place ID `ChIJFfDhdzF7bIcR2tcaiTmk_C0`), and Weston
+  had it removed from the roster and the site on 2026-11-24. Do not re-add it.
 - **tgs** (The Green Solution): 10 Colorado storefronts, added 2026-11-24.
   The same no-CMS shape as medicineman: tgscolorado.com is Next.js with its
   content in Sanity (Vireo-Health/vireo-tgs). The site reads

@@ -10,24 +10,6 @@
   },
   "stores": [
     {
-      "slug": "denver",
-      "name": "Denver",
-      "placeId": null,
-      "googleBusinessLink": "https://g.page/medicine-man-denver?share",
-      "googleSearchQuery": "Medicine Man Denver 4750 Nome St, Denver, CO 80239",
-      "timezone": "America/Denver",
-      "shopId": null,
-      "city": "Denver",
-      "state": "CO",
-      "address": "4750 Nome St",
-      "phone": "303-373-0752",
-      "lat": 39.7835653,
-      "lng": -104.8523475,
-      "showInStoreFinder": true,
-      "showInMap": true,
-      "variants": []
-    },
-    {
       "slug": "aurora",
       "name": "Aurora",
       "placeId": "ChIJ7_-1G119bIcRAsiWpNhGIxU",
