@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:54:48.786Z",
+  "generatedAt": "2026-11-25T23:38:03.244Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -57,7 +57,7 @@
       "special": [],
       "phone": "303-997-4526",
       "rating": 4.3,
-      "ratingCount": 1211
+      "ratingCount": 1213
     },
     "colorado-springs": {
       "name": "Colorado Springs",
@@ -173,7 +173,7 @@
       "special": [],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2645
+      "ratingCount": 2646
     },
     "garden-city-dispensary": {
       "name": "Garden City - 2502 8th Ave",
@@ -242,7 +242,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 766
+      "ratingCount": 767
     },
     "garden-city-medical-dispensary": {
       "name": "Garden City - 2647 8th Ave",
@@ -311,7 +311,7 @@
       ],
       "phone": "(970) 616-6007",
       "rating": 4.6,
-      "ratingCount": 3732
+      "ratingCount": 3746
     },
     "belmar-medical-dispensary": {
       "name": "Lakewood - 3600 S Wadsworth",
@@ -369,7 +369,7 @@
       "special": [],
       "phone": "(303) 484-8853",
       "rating": 4.9,
-      "ratingCount": 2435
+      "ratingCount": 2438
     },
     "fort-collins-smithfield-medical-dispensary": {
       "name": "Ft Collins - Smithfield",
@@ -576,7 +576,7 @@
       ],
       "phone": "720-668-9823",
       "rating": 4.7,
-      "ratingCount": 429
+      "ratingCount": 430
     }
   }
 }
