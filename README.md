@@ -26,6 +26,7 @@ page embeds read `window.RG_STORES` synchronously during parse):
 | R.Greenleaf | [`rgreenleaf/stores.js`](rgreenleaf/stores.js) | `stores.json`, `store-schema.json` (LocalBusiness JSON-LD), `report.md` |
 | LivWell | [`livwell/stores.js`](livwell/stores.js) | same set |
 | Star Buds | [`starbuds/stores.js`](starbuds/stores.js) | same set |
+| Medicine Man | [`medicineman/stores.json`](medicineman/stores.json) | same set; read by a Next.js site, no CMS (`site.cms: "none"`) |
 
 ## Layout
 

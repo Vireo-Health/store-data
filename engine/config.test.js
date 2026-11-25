@@ -25,7 +25,19 @@ for (const brand of brands) {
     fs.readFileSync(path.join(BRANDS_DIR, brand, 'stores.config.json'), 'utf8')
   );
 
+  // A brand whose site is not Webflow (`site.cms: "none"`) reads the published
+  // data files directly, so it has no CMS wiring to check — and must not carry
+  // any, or a stray token would start patching items nothing renders.
+  const noCms = config.site && config.site.cms === 'none';
+
   test(`${brand}: site wiring is complete`, () => {
+    if (noCms) {
+      assert.ok(config.site.cmsReason, 'site.cms is "none" without a cmsReason');
+      for (const key of ['webflowSiteId', 'storesCollectionId', 'hoursFieldSlug']) {
+        assert.ok(!config.site[key], `site.${key} set on a brand with no CMS`);
+      }
+      return;
+    }
     for (const key of ['webflowSiteId', 'storesCollectionId', 'hoursFieldSlug']) {
       assert.ok(config.site && config.site[key], `site.${key} missing`);
     }
@@ -35,7 +47,11 @@ for (const brand of brands) {
     const slugs = config.stores.map((s) => s.slug);
     assert.strictEqual(new Set(slugs).size, slugs.length, 'duplicate slug');
     for (const store of config.stores) {
-      assert.ok(store.webflowItemId, `${store.slug} has no webflowItemId`);
+      if (noCms) {
+        assert.ok(!store.webflowItemId, `${store.slug} has a webflowItemId but the brand has no CMS`);
+      } else {
+        assert.ok(store.webflowItemId, `${store.slug} has no webflowItemId`);
+      }
     }
   });
 
@@ -43,10 +59,9 @@ for (const brand of brands) {
     // alsoWebflowItemIds lets one store patch extra CMS items (a med/rec
     // pair of pages for one storefront). The same item appearing under two
     // stores would make their last-written hours win at random.
-    const ids = config.stores.flatMap((s) => [
-      s.webflowItemId,
-      ...(s.alsoWebflowItemIds || []),
-    ]);
+    const ids = config.stores
+      .flatMap((s) => [s.webflowItemId, ...(s.alsoWebflowItemIds || [])])
+      .filter(Boolean);
     assert.strictEqual(new Set(ids).size, ids.length, 'duplicate Webflow item id');
   });
 

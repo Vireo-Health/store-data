@@ -1,0 +1,85 @@
+{
+  "site": {
+    "cms": "none",
+    "cmsReason": "medicinemandenver.com is a Next.js site (Vireo-Health/vireo-mm), not Webflow. It reads medicineman/stores.json while it runs, so the published data files are its only output.",
+    "org": {
+      "name": "Medicine Man",
+      "url": "https://medicinemandenver.com",
+      "storePath": "/stores/colorado/"
+    }
+  },
+  "stores": [
+    {
+      "slug": "denver",
+      "name": "Denver",
+      "placeId": null,
+      "googleBusinessLink": "https://g.page/medicine-man-denver?share",
+      "googleSearchQuery": "Medicine Man Denver 4750 Nome St, Denver, CO 80239",
+      "timezone": "America/Denver",
+      "shopId": null,
+      "city": "Denver",
+      "state": "CO",
+      "address": "4750 Nome St",
+      "phone": "303-373-0752",
+      "lat": 39.7835653,
+      "lng": -104.8523475,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "placeId": null,
+      "googleBusinessLink": "https://g.page/med-man-aurora?share",
+      "googleSearchQuery": "Medicine Man Aurora 1901 S Havana St, Aurora, CO 80014",
+      "timezone": "America/Denver",
+      "shopId": "7403",
+      "city": "Aurora",
+      "state": "CO",
+      "address": "1901 S Havana St",
+      "phone": "303-923-3971",
+      "lat": 39.68176,
+      "lng": -104.8663757,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "thornton",
+      "name": "Thornton",
+      "placeId": null,
+      "googleBusinessLink": "https://g.page/med-man-thornton?share",
+      "googleSearchQuery": "Medicine Man Thornton 130 W 84th Ave, Thornton, CO 80260",
+      "timezone": "America/Denver",
+      "shopId": "7402",
+      "city": "Thornton",
+      "state": "CO",
+      "address": "130 W 84th Ave",
+      "phone": "303-301-7122",
+      "lat": 39.8485037,
+      "lng": -104.9887352,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    },
+    {
+      "slug": "longmont",
+      "name": "Longmont",
+      "placeId": null,
+      "googleBusinessLink": "https://g.page/med-man-longmont?share",
+      "googleSearchQuery": "Medicine Man Longmont 500 E Rogers Rd, Longmont, CO 80501",
+      "timezone": "America/Denver",
+      "shopId": "7404",
+      "city": "Longmont",
+      "state": "CO",
+      "address": "500 E Rogers Rd",
+      "phone": "720-204-7500",
+      "lat": 40.1614956,
+      "lng": -105.0811735,
+      "showInStoreFinder": true,
+      "showInMap": true,
+      "variants": []
+    }
+  ]
+}

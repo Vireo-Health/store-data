@@ -196,6 +196,15 @@ README.md has the step list. What it doesn't say:
   from the roster 2026-11-24; its Everest CMS item (`6a28706cffb42f044f4dd83a`)
   still exists. Do not re-add it, and do not confuse it with Every Day Weed's
   live Sunland Park store at 1541 Appaloosa Dr (a different listing).
+- **medicineman**: 4 Colorado storefronts (Denver, Aurora, Thornton,
+  Longmont), added 2026-11-24. The first brand with **no CMS**: the site is
+  Next.js (Vireo-Health/vireo-mm), so `site.cms` is `"none"` (with
+  `cmsReason`), stores carry no `webflowItemId`, and the workflow matrix
+  names no `webflow_secret`. config.test.js enforces that shape both ways.
+  The site reads `medicineman/stores.json` while it runs, joined on the
+  roster `slug`, which must stay equal to the site's own store slugs — a
+  store missing from the feed fails that site's build. Denver has no Jane id
+  yet (`shopId: null`); the join does not use it.
 - **Cutovers between brands** (LivWell, Star Buds, Green Dragon -> Every Day
   Weed): Google is the source of truth for which brand owns a location, but
   listings lag a cutover either way. Colorado Blvd (2020 S Colorado Blvd) was
