@@ -10,8 +10,8 @@ on:
     # Daily 09:15 America/Denver (15:15 UTC in MDT). The hours fetch bills as
     # Places Enterprise: the current roster (13 rgreenleaf + 17 livwell +
     # 17 starbuds + 13 everydayweed + 13 greendragon + 7 everest +
-    # 6 standingakimbo + 4 medicineman = 90 stores, ~2,740 calls/mo) runs past
-    # the 1,000 free calls/mo — roughly $35/mo, inside the approved
+    # 6 standingakimbo + 4 medicineman + 10 tgs = 100 stores, ~3,040 calls/mo)
+    # runs past the 1,000 free calls/mo — roughly $41/mo, inside the approved
     # full-portfolio budget.
     # See the cadence math in CLAUDE.md before onboarding a large brand. For an immediate sync — e.g. the day hours
     # change in Google Business Profile — use the Run workflow button.
@@ -73,6 +73,10 @@ jobs:
           # (site.cms "none"), so WEBFLOW_API_TOKEN is empty and the run
           # publishes the data files only.
           - brand: medicineman
+          # No webflow_secret: tgscolorado.com is not Webflow (site.cms
+          # "none"), so WEBFLOW_API_TOKEN is empty and the run publishes the
+          # data files only.
+          - brand: tgs
     env:
       # Blank brand input (or a schedule run) syncs every brand.
       BRAND_SELECTED: ${{ inputs.brand == '' || inputs.brand == matrix.brand }}

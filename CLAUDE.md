@@ -205,6 +205,17 @@ README.md has the step list. What it doesn't say:
   roster `slug`, which must stay equal to the site's own store slugs — a
   store missing from the feed fails that site's build. Denver has no Jane id
   yet (`shopId: null`); the join does not use it.
+- **tgs** (The Green Solution): 10 Colorado storefronts, added 2026-11-24.
+  The same no-CMS shape as medicineman: tgscolorado.com is Next.js with its
+  content in Sanity (Vireo-Health/vireo-tgs). The site reads
+  `tgs/stores.json` while it renders, cached for an hour, and lays it over
+  Sanity's hours joined on the roster `slug` — which must stay equal to the
+  Sanity slug, or that store quietly shows its Sanity fallback hours (unlike
+  medicineman, a missing store does not fail the build). `shopId` is the
+  adult-use Jane store id (Fort Collins also has a medical one, 7398, on the
+  same storefront and page). Roster built from Sanity on 2026-11-24; the five
+  closed Sanity locations (Colfax, Glendale, Grape St, Montview, Pueblo) are
+  deliberately not in it.
 - **Cutovers between brands** (LivWell, Star Buds, Green Dragon -> Every Day
   Weed): Google is the source of truth for which brand owns a location, but
   listings lag a cutover either way. Colorado Blvd (2020 S Colorado Blvd) was

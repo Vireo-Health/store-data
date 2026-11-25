@@ -27,6 +27,7 @@ page embeds read `window.RG_STORES` synchronously during parse):
 | LivWell | [`livwell/stores.js`](livwell/stores.js) | same set |
 | Star Buds | [`starbuds/stores.js`](starbuds/stores.js) | same set |
 | Medicine Man | [`medicineman/stores.json`](medicineman/stores.json) | same set; read by a Next.js site, no CMS (`site.cms: "none"`) |
+| The Green Solution | [`tgs/stores.json`](tgs/stores.json) | same set; read by a Next.js site, no CMS (`site.cms: "none"`) |
 
 ## Layout
 
