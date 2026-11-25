@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:54:04.735Z",
+  "generatedAt": "2026-11-25T23:37:12.507Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -68,7 +68,7 @@
       ],
       "phone": "303-400-1451",
       "rating": 4.5,
-      "ratingCount": 1130
+      "ratingCount": 1129
     },
     "aurora-dispensary": {
       "name": "Aurora Southeast",
@@ -137,7 +137,7 @@
       ],
       "phone": "(303) 699-1222",
       "rating": 4.8,
-      "ratingCount": 7686
+      "ratingCount": 7687
     },
     "glendale-dispensary": {
       "name": "Glendale",
@@ -206,7 +206,7 @@
       ],
       "phone": "(720) 519-0891",
       "rating": 4.8,
-      "ratingCount": 2850
+      "ratingCount": 2849
     },
     "highlands-dispensary": {
       "name": "Highlands",
@@ -275,7 +275,7 @@
       ],
       "phone": "(720) 389-9179",
       "rating": 4.9,
-      "ratingCount": 1165
+      "ratingCount": 1164
     },
     "lakeside-dispensary": {
       "name": "Lakeside",
@@ -344,7 +344,7 @@
       ],
       "phone": "(720) 535-6893",
       "rating": 4.9,
-      "ratingCount": 1993
+      "ratingCount": 1995
     },
     "lakewood-dispensary": {
       "name": "Lakewood",
@@ -402,7 +402,7 @@
       "special": [],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2645
+      "ratingCount": 2646
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -471,7 +471,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3037
+      "ratingCount": 3038
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -678,7 +678,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 766
+      "ratingCount": 767
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -1012,7 +1012,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11600
+      "ratingCount": 11602
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
