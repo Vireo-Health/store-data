@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:37:26.312Z",
+  "generatedAt": "2026-11-26T23:51:42.487Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -68,7 +68,7 @@
       ],
       "phone": "303-999-0401",
       "rating": 4.7,
-      "ratingCount": 1801
+      "ratingCount": 1802
     },
     "north-aurora-dispensary": {
       "name": "Aurora Montview",
@@ -137,7 +137,7 @@
       ],
       "phone": "720-459-7143",
       "rating": 4.7,
-      "ratingCount": 2614
+      "ratingCount": 2615
     },
     "denver-dispensary": {
       "name": "DU Denver",
@@ -678,7 +678,7 @@
       ],
       "phone": "970-480-0660",
       "rating": 4.6,
-      "ratingCount": 564
+      "ratingCount": 566
     },
     "mile-high-stadium-dispensary": {
       "name": "Denver Mile High",
@@ -816,7 +816,7 @@
       ],
       "phone": "720-458-6650",
       "rating": 4.6,
-      "ratingCount": 1153
+      "ratingCount": 1154
     },
     "edgewater-dispensary": {
       "name": "Edgewater",
@@ -1023,7 +1023,7 @@
       ],
       "phone": "303-366-1077",
       "rating": 4.9,
-      "ratingCount": 4595
+      "ratingCount": 4593
     },
     "denver-rino-dispensary": {
       "name": "RiNo",
@@ -1092,7 +1092,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2615
+      "ratingCount": 2616
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1357,7 +1357,7 @@
       ],
       "phone": "720-573-4735",
       "rating": 4.8,
-      "ratingCount": 2093
+      "ratingCount": 2094
     },
     "log-lane-village-dispensary": {
       "name": "Log Lane",
@@ -1771,7 +1771,7 @@
       ],
       "phone": "970-225-5420",
       "rating": 4.1,
-      "ratingCount": 651
+      "ratingCount": 652
     },
     "sunland-park-dispensary": {
       "name": "Sunland Park",
