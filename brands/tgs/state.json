@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:38:25.031Z",
+  "generatedAt": "2026-11-26T23:52:33.192Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -137,7 +137,7 @@
       ],
       "phone": "970-239-3117",
       "rating": 4.8,
-      "ratingCount": 4882
+      "ratingCount": 4881
     },
     "glenwood-springs": {
       "name": "Glenwood Springs",
@@ -620,7 +620,7 @@
       ],
       "phone": "720-501-2378",
       "rating": 4.8,
-      "ratingCount": 3936
+      "ratingCount": 3938
     },
     "wewatta-st": {
       "name": "Wewatta St.",
