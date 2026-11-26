@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:38:03.244Z",
+  "generatedAt": "2026-11-26T23:52:14.671Z",
   "stores": {
     "denver": {
       "name": "Denver",
@@ -173,7 +173,7 @@
       "special": [],
       "phone": "720-669-3515",
       "rating": 4.9,
-      "ratingCount": 2646
+      "ratingCount": 2649
     },
     "garden-city-dispensary": {
       "name": "Garden City - 2502 8th Ave",
@@ -242,7 +242,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 767
+      "ratingCount": 769
     },
     "garden-city-medical-dispensary": {
       "name": "Garden City - 2647 8th Ave",
@@ -311,7 +311,7 @@
       ],
       "phone": "(970) 616-6007",
       "rating": 4.6,
-      "ratingCount": 3746
+      "ratingCount": 3764
     },
     "belmar-medical-dispensary": {
       "name": "Lakewood - 3600 S Wadsworth",
@@ -438,7 +438,7 @@
       ],
       "phone": "(970) 225-5420",
       "rating": 4.1,
-      "ratingCount": 651
+      "ratingCount": 652
     },
     "fort-collins": {
       "name": "Fort Collins",
