@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:38:14.924Z",
+  "generatedAt": "2026-11-26T23:52:24.608Z",
   "stores": {
     "aurora": {
       "name": "Aurora",
@@ -137,7 +137,7 @@
       ],
       "phone": "303-301-7122",
       "rating": 4.7,
-      "ratingCount": 4150
+      "ratingCount": 4151
     },
     "longmont": {
       "name": "Longmont",
