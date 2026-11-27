@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:52:33.192Z",
+  "generatedAt": "2026-11-27T23:29:12.685Z",
   "stores": {
     "edgewater": {
       "name": "Edgewater",
@@ -68,7 +68,7 @@
       ],
       "phone": "720-689-2347",
       "rating": 4.7,
-      "ratingCount": 3379
+      "ratingCount": 3380
     },
     "fort-collins": {
       "name": "Fort Collins",
@@ -275,7 +275,7 @@
       ],
       "phone": "720-399-6842",
       "rating": 4.8,
-      "ratingCount": 5444
+      "ratingCount": 5447
     },
     "peoria": {
       "name": "Peoria",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:52:33.192Z",
+  "generatedAt": "2026-11-27T23:29:12.685Z",
   "stores": [
     {
       "slug": "edgewater",
@@ -9,7 +9,7 @@
       "state": "CO",
       "phone": "720-689-2347",
       "rating": 4.7,
-      "ratingCount": 3379,
+      "ratingCount": 3380,
       "lat": 39.7472,
       "lng": -105.06315,
       "shopId": "7391",
@@ -261,7 +261,7 @@
       "state": "CO",
       "phone": "720-399-6842",
       "rating": 4.8,
-      "ratingCount": 5444,
+      "ratingCount": 5447,
       "lat": 39.90229,
       "lng": -104.98044,
       "shopId": "7394",
