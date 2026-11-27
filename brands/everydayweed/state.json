@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:51:42.487Z",
+  "generatedAt": "2026-11-27T23:28:15.524Z",
   "stores": {
     "dispensary-commerce-city": {
       "name": "Commerce City",
@@ -206,7 +206,7 @@
       ],
       "phone": "303-975-6485",
       "rating": 4.9,
-      "ratingCount": 2274
+      "ratingCount": 2276
     },
     "brighton-dispensary": {
       "name": "Brighton",
@@ -482,7 +482,7 @@
       ],
       "phone": "303-429-9196",
       "rating": 4.9,
-      "ratingCount": 3755
+      "ratingCount": 3757
     },
     "capitol-hill-dispensary": {
       "name": "Denver Capitol Hill",
@@ -609,7 +609,7 @@
       "special": [],
       "phone": "720-458-6450",
       "rating": 4.7,
-      "ratingCount": 604
+      "ratingCount": 605
     },
     "denver-byers-place-dispensary": {
       "name": "Denver Byers Place",
@@ -954,7 +954,7 @@
       ],
       "phone": "303-993-7548",
       "rating": 4.8,
-      "ratingCount": 1780
+      "ratingCount": 1781
     },
     "aurora-buckley-dispensary": {
       "name": "Aurora Buckley",
@@ -1092,7 +1092,7 @@
       ],
       "phone": "303-484-1662",
       "rating": 4.9,
-      "ratingCount": 2616
+      "ratingCount": 2623
     },
     "aspen-dispensary": {
       "name": "Aspen",
@@ -1219,7 +1219,7 @@
       "special": [],
       "phone": "303-484-8853",
       "rating": 4.9,
-      "ratingCount": 2438
+      "ratingCount": 2442
     },
     "cortez-dispensary": {
       "name": "Cortez",
@@ -1495,7 +1495,7 @@
       ],
       "phone": "719-306-0042",
       "rating": 4.9,
-      "ratingCount": 2139
+      "ratingCount": 2140
     },
     "boulder-dispensary": {
       "name": "Boulder",
@@ -1702,7 +1702,7 @@
       ],
       "phone": "970-225-5421",
       "rating": 4.5,
-      "ratingCount": 424
+      "ratingCount": 426
     },
     "fort-collins-smithfield-dispensary": {
       "name": "Fort Collins Smithfield",
@@ -1840,7 +1840,7 @@
       ],
       "phone": "575-636-2480",
       "rating": 4.8,
-      "ratingCount": 732
+      "ratingCount": 735
     },
     "denver-colorado-blvd-dispensary": {
       "name": "Colorado Blvd",
@@ -1909,7 +1909,7 @@
       ],
       "phone": "303-758-9114",
       "rating": 4.8,
-      "ratingCount": 1789
+      "ratingCount": 1790
     }
   }
 }
