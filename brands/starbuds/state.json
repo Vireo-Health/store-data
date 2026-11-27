@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:51:31.458Z",
+  "generatedAt": "2026-11-27T23:28:04.796Z",
   "stores": {
     "south-aurora-quincy-ave": {
       "name": "Aurora Quincy Ave",
@@ -402,7 +402,7 @@
       "special": [],
       "phone": "(720) 669-3515",
       "rating": 4.9,
-      "ratingCount": 2649
+      "ratingCount": 2650
     },
     "north-denver-dispensary": {
       "name": "North Denver",
@@ -471,7 +471,7 @@
       ],
       "phone": "(720) 387-8952",
       "rating": 4.9,
-      "ratingCount": 3038
+      "ratingCount": 3039
     },
     "thornton-premium-marijuana-dispensary": {
       "name": "Thornton",
@@ -678,7 +678,7 @@
       ],
       "phone": "(970) 515-5839",
       "rating": 4.7,
-      "ratingCount": 769
+      "ratingCount": 771
     },
     "longmont-dispensary": {
       "name": "Longmont",
@@ -747,7 +747,7 @@
       ],
       "phone": "(303) 651-0709",
       "rating": 4.8,
-      "ratingCount": 1307
+      "ratingCount": 1310
     },
     "louisville-dispensary": {
       "name": "Louisville",
@@ -943,7 +943,7 @@
       "special": [],
       "phone": "(719) 465-3699",
       "rating": 4.9,
-      "ratingCount": 962
+      "ratingCount": 963
     },
     "manitou-springs-dispensary": {
       "name": "Manitou Springs",
@@ -1012,7 +1012,7 @@
       ],
       "phone": "(719) 375-0554",
       "rating": 4.7,
-      "ratingCount": 11604
+      "ratingCount": 11608
     },
     "pueblo-dispensary": {
       "name": "Pueblo",
